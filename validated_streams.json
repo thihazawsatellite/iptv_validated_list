@@ -1,0 +1,3642 @@
+"[
+  {
+    "channel": null,
+    "feed": null,
+    "title": "CTB Perth News",
+    "url": "https://news.ctbperth.net.au/hls/stream.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Action Hollywood Movies",
+    "url": "https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Bondi Vet",
+    "url": "https://wtfn-bondivet-1-au.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Breaking News by LeadStory",
+    "url": "https://amg02703-leadstory-leadstory-samsungau-rr75f.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungau/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Come Dine With Me",
+    "url": "https://amg00654-itv-amg00654c2-samsung-au-925.playouts.now.amagi.tv/itv-cdwmug/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Escape to the Country",
+    "url": "https://amg00145-amg00145c11-samsung-au-6579.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Four in a Bed",
+    "url": "https://all3media-four-in-a-bed-1-au.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Hardcore Pawn",
+    "url": "https://amg00627-banijay-amg00627c8-samsung-au-1827.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Highway Thru Hell",
+    "url": "https://amg00627-amg00627c15-samsung-au-2899.playouts.now.amagi.tv/playlist/amg00627-banijayfast-highwaythruhell-samsungau/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "History and Warfare Now",
+    "url": "https://d28gzbv9fhdm3h.cloudfront.net/playlist/amg00376-magellantv-historyandwarfarenowaunzin-samsungau/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Homeful",
+    "url": "https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Inside Outside",
+    "url": "https://all3media-international-insideoutside-1-au.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Leaderboard Sports News",
+    "url": "https://amg02703-amg02703c20-samsung-au-9093.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Life Downunder",
+    "url": "https://wtfn-lifedownunder-1-au.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "MTRSPT 1",
+    "url": "https://amg02873-kravemedia-mtrspt1-samsungau-2anp4.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "PBS History",
+    "url": "https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungau/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "PBS Science",
+    "url": "https://amg02333-pbs-amg02333c13-samsung-au-6858.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Project Runway",
+    "url": "https://amg02189-amg02189c1-samsung-au-5798.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Pulse",
+    "url": "https://amg01076-lightningintern-pulse-samsungau-4a45e.amagi.tv/playlist/amg01076-lightningintern-pulse-samsungau/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "RCM",
+    "url": "https://samsungau-rialtosamsungaustralia-al2rg.amagi.tv/playlist/samsungau-rialtosamsungaustralia/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Real Crime",
+    "url": "https://lds-realcrime-samsungau.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Surf Cinema",
+    "url": "https://amg13231-actve-amg13231c4-samsung-au-2990.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungau/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "The Hotel Inspector",
+    "url": "https://amg00654-itv-amg00654c4-samsung-au-998.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hotelinspector-samsungau/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "The Wicked Tuna Channel",
+    "url": "https://amg00353-lionsgatestudio-wickedtuna-samsungau-26lq4.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtuna-samsungau/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "MCJ TV",
+    "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mcj-tv-shop.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "MTV TV",
+    "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mtv-azerbaycan.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "VIP TV",
+    "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Mojitv",
+    "url": "https://odmedia-mojitv-1-be.samsung.wurl.tv/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "UniversidadMayordeSanAndres",
+    "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": "https://tvu.umsa.bo/en-vivo"
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "CBC Comedy",
+    "url": "https://amagi-streams.akamaized.net/hls/live/2110963/cbccomedy/master.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "CBC Heartland",
+    "url": "https://amagi-streams.akamaized.net/hls/live/2113391/cbcheartland/master.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "CBC Murdoch Mysteries",
+    "url": "https://amagi-streams.akamaized.net/hls/live/2113390/cbcmurdoch/master.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "CBC News BC",
+    "url": "https://amagi-streams.akamaized.net/hls/live/2110960/cbcnewsbc/master.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "CBC News Explore",
+    "url": "https://amagi-streams.akamaized.net/hls/live/2110962/cbcexplore/master.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "CBC News Toronto",
+    "url": "https://amagi-streams.akamaized.net/hls/live/2110961/cbctoronto/master.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Legislative Assembly of Ontario Committees (room 1)",
+    "url": "https://temp2.isilive.ca/live/_definst_/ontla/committee_1-en/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Legislative Assembly of Ontario Committees (room 2)",
+    "url": "https://lin13.isilive.ca/live/_definst_/ontla/committee_2-en/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Legislative Assembly of Ontario Committees (room 151)",
+    "url": "https://temp3.isilive.ca/live/_definst_/ontla/rm151-en/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "The Jack Hannah Channel",
+    "url": "https://littonjackhannah-samsungca.amagi.tv/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Holidayscapes",
+    "url": "https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u4e0a\u865e1\u65b0\u95fb\u7efc\u5408",
+    "url": "https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u4e0a\u865e3\u65b0\u5546\u90fd",
+    "url": "https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u4e0a\u865e\u7d93\u6fdf\u6587\u5316",
+    "url": "https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u4e4b\u6c5f\u7eaa\u5f55",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u4e91\u5357 \u2160 \u6587\u5c71\u7efc\u5408\u53f0",
+    "url": "http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u4f59\u59da\u59da\u6c5f\u6587\u5316",
+    "url": "https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8",
+    "quality": "576p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u4f59\u59da\u65b0\u95fb\u7efc\u5408",
+    "url": "https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8",
+    "quality": "576p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u5174\u9686\u7efc\u5408",
+    "url": "https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u519c\u5b89\u65b0\u95fb\u7efc\u5408",
+    "url": "https://stream2.jlntv.cn/naxw/sd/live.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u524d\u90ed\u7efc\u5408",
+    "url": "https://stream2.jlntv.cn/qg/sd/live.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u5409\u6797\u5e02\u65b0\u95fb\u7efc\u5408",
+    "url": "https://stream2.jlntv.cn/jilin1/sd/live.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u56db\u5ddd \u2160 \u5df4\u4e2d\u7efc\u5408\u53f0",
+    "url": "http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.flv",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u56db\u5e73\u65b0\u95fb\u7efc\u5408",
+    "url": "https://stream2.jlntv.cn/sptv/sd/live.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u5b5f\u5dde\u7535\u89c6\u53f0",
+    "url": "http://live.dxhmt.cn:9081/tv/10883-1.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u5bbf\u5dde\u516c\u5171",
+    "url": "http://live.ahsz.tv/video/s10001-ggpd/index.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u5bbf\u5dde\u65b0\u95fb\u7efc\u5408",
+    "url": "http://live.ahsz.tv/video/s10001-szzh/index.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u5bbf\u5dde\u79d1\u6559",
+    "url": "http://live.ahsz.tv/video/s10001-kxjy/index.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u5d4a\u5dde\u7efc\u5408",
+    "url": "https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u5ef6\u8fb9\u65b0\u95fb\u7efc\u5408",
+    "url": "https://stream2.jlntv.cn/jlyb/sd/live.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u65b0\u660c\u4f11\u95f2\u5f71\u89c6",
+    "url": "https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u65b0\u660c\u65b0\u805e\u7d9c\u5408",
+    "url": "https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u65b0\u90d1\u7efc\u5408",
+    "url": "http://live.dxhmt.cn:9081/tv/10184-1.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u677e\u539f\u65b0\u95fb\u7efc\u5408",
+    "url": "https://stream2.jlntv.cn/sytv/sd/live.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u6b66\u8fdb\u65b0\u95fb",
+    "url": "https://live.wjyanghu.com/live/CH1.m3u8",
+    "quality": "576p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u6b66\u8fdb\u751f\u6d3b",
+    "url": "https://live.wjyanghu.com/live/CH2.m3u8",
+    "quality": "576p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u6c5f\u6d25\u65b0\u95fb\u7efc\u5408",
+    "url": "http://222.179.155.21:1935/ch1.m3u8",
+    "quality": "480p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u6c5f\u6d25\u7ecf\u6d4e\u751f\u6d3b",
+    "url": "http://222.179.155.21:1935/ch0.m3u8",
+    "quality": "480p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u6cb3\u6e90\u7efc\u5408",
+    "url": "https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8",
+    "quality": "540p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u6d59\u6c5f \u2160 \u7ecd\u5174\u5f71\u89c6",
+    "url": "http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u6d59\u6c5f \u2160 \u7ecd\u5174\u7efc\u5408",
+    "url": "http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8",
+    "quality": "576p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u6d59\u6c5f\u56fd\u9645",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u6d59\u6c5f\u6559\u79d1",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u6d59\u6c5f\u65b0\u95fb",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u6d59\u6c5f\u6c11\u751f",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u6d59\u6c5f\u7ecf\u6d4e",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u6d59\u6c5f\u94b1\u6c5f",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u767d\u5c71\u65b0\u95fb\u7efc\u5408",
+    "url": "https://stream2.jlntv.cn/baishan1/sd/live.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u798f\u5dde\u5e7f\u64ad\u7535\u89c6\u53f0\u65b0\u95fb\u7efc\u5408\u9891\u9053 (FZTV-1)",
+    "url": "http://live.zohi.tv/video/s10001-fztv-1/index.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u798f\u5dde\u5e7f\u64ad\u7535\u89c6\u53f0\u90fd\u5e02\u751f\u6d3b\u9891\u9053 (FZTV-3)",
+    "url": "http://live.zohi.tv/video/s10001-fztv-3/index.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u798f\u5dde\u7535\u89c6\u53f0\u5c11\u513f\u9891\u9053 (FZTV-\u5c11\u513f)",
+    "url": "http://live.zohi.tv/video/s10001-fztv-4/index.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u842c\u5dde\u4e09\u5cfd\u79fb\u6c11",
+    "url": "http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8",
+    "quality": "576p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u842c\u5dde\u5f71\u8996\u6587\u85dd",
+    "url": "http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8",
+    "quality": "576p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u842c\u5dde\u79d1\u6559\u983b\u9053",
+    "url": "http://123.146.162.24:8017/Cz7WPb8/800/live.m3u8",
+    "quality": "576p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u842c\u5dde\u7d9c\u5408\u983b\u9053",
+    "url": "http://123.146.162.24:8017/iTXwrGs/800/live.m3u8",
+    "quality": "576p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u7ea2\u725bREDBULL TV",
+    "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u8363\u660c\u7efc\u5408",
+    "url": "http://183.64.181.25:40023/rongchang01.m3u8",
+    "quality": "404p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u8427\u5c71\u65b0\u95fb\u7efc\u5408",
+    "url": "https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u856d\u5c71\u751f\u6d3b\u983b\u9053",
+    "url": "https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u8fbd\u6e90\u65b0\u95fb\u7efc\u5408",
+    "url": "https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u901a\u5316\u65b0\u95fb",
+    "url": "https://stream2.jlntv.cn/tonghua1/sd/live.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u91d1\u660c\u516c\u5171\u983b\u9053",
+    "url": "http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8",
+    "quality": "240p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u91d1\u660c\u7d9c\u5408\u983b\u9053",
+    "url": "http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u957f\u6625\u7efc\u5408",
+    "url": "https://stream2.jlntv.cn/jlcc/sd/live.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u96c6\u5b89\u7efc\u5408",
+    "url": "https://stream2.jlntv.cn/ja/sd/live.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u9756\u6c5f\u65b0\u95fb\u7d9c\u5408",
+    "url": "http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8",
+    "quality": "480p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u9918\u59da\u59da\u6c5f\u6587\u5316",
+    "url": "https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8",
+    "quality": "576p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Canal 17 TV Nosara",
+    "url": "https://latamvdo.com:3870/hybrid/play.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "FrankenPlus",
+    "url": "https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Amasia",
+    "url": "https://splendid-film-amasia-1-eu.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "BBC Top Gear Germany",
+    "url": "https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "DEFA TV",
+    "url": "https://wdrmediagroup-defatv-1-eu.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "FilmGold Germany",
+    "url": "https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Fluss Monster",
+    "url": "https://rivermonstergermany-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Graham Norton Germany",
+    "url": "https://amg00654-itv-amg00654c37-rakuten-de-7600.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Hell's Kitchen Germany",
+    "url": "https://hellskitchengermany-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "LooLoo Kids TV",
+    "url": "https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkdefast-rakutende/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "MyTime Movie Network Germany",
+    "url": "https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Naruto Germany",
+    "url": "https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Royalworld Germany",
+    "url": "https://amogonetworx-royalworld-2-de.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Starke Frauen",
+    "url": "https://mainstreamstarkefrauen-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Tennis Channel Germany",
+    "url": "https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Top Sci-Fi",
+    "url": "https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Top Serien",
+    "url": "https://amg00609-palatinmediafil-cractiontv-rakuten-dhjcp.amagi.tv/hls/amagi_hls_data_rakutenAA-cractiontv-rakuten/CDN/master.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Travelxp Germany",
+    "url": "https://travelxp-travelxp-2-de.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Vevo Pop Germany",
+    "url": "https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Vevo Schlager Pop",
+    "url": "https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Wicked Tuna Germany",
+    "url": "https://amg00353-amg00353c28-rakuten-us-4895.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Mechplus",
+    "url": "https://mechtvltd-mechplus-1-dk.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Beyblade en Espa\u00f1ol",
+    "url": "https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Cops en Espa\u00f1ol",
+    "url": "https://rightsboosterltd-cops-1-es.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Cr\u00edmenes Reales",
+    "url": "https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Grjngo Spain",
+    "url": "https://amogo-networx-grjngopelculasdeloeste-1-es.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Ideas en 5 minutos",
+    "url": "https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Mr. Bean Anime Spain",
+    "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "TOP Bar\u00e7a Spain",
+    "url": "https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Travelxp Spain",
+    "url": "https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Vevo Pop Spain",
+    "url": "https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "5-Minute Craft",
+    "url": "https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "BBC Top Gear Finland",
+    "url": "https://amg00793-amg00793c49-rakuten-fi-5848.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Come Dine With Me",
+    "url": "https://amg00654-itv-amg00654c2-rakuten-uk-1281.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-comedinewithmeukglobal-rakutenuk/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "NatureTime Finland",
+    "url": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "World of Love Island",
+    "url": "https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Mechplus",
+    "url": "https://mechtvltd-mechplus-1-fi.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Equidia Racing Mag",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Banijay Mr Bean Anim\u00e9",
+    "url": "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "BBC Top Gear France",
+    "url": "https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Beyblade",
+    "url": "https://amg01796-amg01796c6-rakuten-fr-5334.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladefr-rakutenfr/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Bref Cin\u00e9ma 100% Court M\u00e9trage",
+    "url": "https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Drive TV",
+    "url": "https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Enquetes de Choc",
+    "url": "https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "France 24 FAST English",
+    "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Generation Sitcoms",
+    "url": "https://production-fastbpk.content.okast.tv/fa2e8c4385712f9aa35c5b79a2b4ac2d/channels/eec463a6-4364-473b-8d89-555acc5b8fb2/e36e4304-73ff-4f9f-8d38-e748576a1f51/media_.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Homicide la cha\u00eene du fait divers",
+    "url": "https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "INA 70s",
+    "url": "https://fast-rakuten.okast.tv/fa2e8c4385712f9af3e719ec904b3543/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/96f96405-90e7-489a-a1e6-8ede5d2b4933/media_.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "INA Ardivision",
+    "url": "https://fast-rakuten.okast.tv/fa2e8c4385712f9a3b579747e448699c/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/a4226699-b685-4f5d-9cb6-2a6cac14c377/media_.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "ITV Un Village Fran\u00e7ais",
+    "url": "https://amg00654-itv-amg00654c32-rakuten-fr-6134.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-unvillagesfrancais-rakutenfr/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Le Meilleur d'Arthur",
+    "url": "https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Le Meilleur de la TV Realite",
+    "url": "https://amg02393-awpg-amg02393c4-rakuten-uk-3886.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdelatvrealite-rakutenuk/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Les Anges",
+    "url": "https://amg02393-awpg-amg02393c5-rakuten-uk-2463.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges-rakutenuk/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Les Secrets de Nos R\u00e9gions",
+    "url": "https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Les Z'Amours",
+    "url": "https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Motus La Cha\u00eene",
+    "url": "https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "MyTime Movie Network France",
+    "url": "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Nature Time France",
+    "url": "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Qui Veut Gagner Des Millions La Cha\u00eene",
+    "url": "https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-rakutenuk/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Rakuten TV Viki Europe",
+    "url": "https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Televisa Telenovela Channel",
+    "url": "https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Travelxp France",
+    "url": "https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Vevo Hip-Hop et RnB",
+    "url": "https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Wasabi la cha\u00eene anime",
+    "url": "https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Y'a Que La V\u00e9rit\u00e9 Qui Compte La Cha\u00eene",
+    "url": "https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakutenAA-fastmedia-yaquelaverite-rakuten/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Mytime Movies",
+    "url": "https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Stormcast Novelas TV",
+    "url": "https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "G-eye TV",
+    "url": "https://online.geyetv.com/hls/stream.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Oxygen Music",
+    "url": "https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Musayof (Israel)",
+    "url": "http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8",
+    "quality": "240p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Star Family",
+    "url": "http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8",
+    "quality": "576p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Cinema Yoruba",
+    "url": "https://streamdot.broadpeak.io/cff02a74da64d1457f33a61a45801a4f/afxpstr/CinemaYoruba/index.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Comercio TV",
+    "url": "https://amg00082-amg00082c1-distrotv-us-7248.playouts.now.amagi.tv/playlist/amg00082-tarima-comercio-distrotvus/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "FloRacing 24/7",
+    "url": "https://amg02278-amg02278c1-distrotv-us-7534.playouts.now.amagi.tv/playlist/amg02278-flosports-floracing24x7-distrotvus/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "In Touch+",
+    "url": "https://amg01540-amg01540c2-distrotv-us-8133.playouts.now.amagi.tv/playlist/amg01540-apexmediafast-intouchplus-distrotvus/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Unleashed by DOGTV",
+    "url": "https://amg26269-amg26269c2-distrotv-us-8939.playouts.now.amagi.tv/playlist/amg26269-dogtv-unleashedbydogtv-distrotvus/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "1S News",
+    "url": "https://mumt03.tangotv.in/1SNEWS/index.m3u8",
+    "quality": "576p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Anandam Abi TV",
+    "url": "https://mumt02.tangotv.in/ABITV/index.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Anandam TV",
+    "url": "https://mumt02.tangotv.in/ANANDAMTV/index.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "BS TV",
+    "url": "https://mumt02.tangotv.in/BSTV/index.m3u8",
+    "quality": "576p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Chaukas TV",
+    "url": "https://mumt02.tangotv.in/CHAUKASTV/index.m3u8",
+    "quality": "576p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Classic Hits",
+    "url": "https://mumt03.tangotv.in/CLASSICHITS/index.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "DA News Plus",
+    "url": "https://mumt01.tangotv.in/HORNBILLTV/index.m3u8",
+    "quality": "576p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Fast Mix",
+    "url": "https://mumt01.tangotv.in/FASTMIX/index.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Goldmines Bollywood",
+    "url": "https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8",
+    "quality": "576p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Guarantee News",
+    "url": "https://mumt02.tangotv.in/GUARANTEENEWS/index.m3u8",
+    "quality": "576p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Hindi Hits",
+    "url": "https://mumt01.tangotv.in/HINDIHITS/index.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Josh TV",
+    "url": "https://mumt03.tangotv.in/JOSHTV/index.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Live Times",
+    "url": "https://mumt01.tangotv.in/LIVETIMES/index.m3u8",
+    "quality": "576p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Maina TV",
+    "url": "https://mumt03.tangotv.in/MAINATV/index.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Matti TV",
+    "url": "https://mumt03.tangotv.in/MATTITV/index.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Mojo TV",
+    "url": "https://mumt02.tangotv.in/MOJOTV/index.m3u8",
+    "quality": "576p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Padharo Sa",
+    "url": "https://mumt03.tangotv.in/PADHAROSA/index.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Pankh",
+    "url": "https://mumt04.tangotv.in/PANKH/index.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Pear TV",
+    "url": "https://mumt01.tangotv.in/PEARTV/index.m3u8",
+    "quality": "576p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Punjabi Music HD",
+    "url": "https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Punjabi TV",
+    "url": "https://mumt02.tangotv.in/PUNJABITV/index.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Ragni TV",
+    "url": "https://mumt04.tangotv.in/RAGNITV/index.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Saang TV",
+    "url": "https://mumt02.tangotv.in/SAANGTV/index.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Tadka",
+    "url": "https://mumt03.tangotv.in/TADKA/index.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "UTV Anandam",
+    "url": "https://mumt02.tangotv.in/UTVANANDAM/index.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Zarok TV Sorani",
+    "url": "https://zindisorani.zaroktv.com.tr/hls/stream.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Radio Brianza TV",
+    "url": "https://57068da1deb21.streamlock.net/radiorbs/radiorbs/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Super TV Brescia",
+    "url": "http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "TeleRegione 118",
+    "url": "https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8",
+    "quality": "576p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "BBC Drama Italy",
+    "url": "https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "BBC Top Gear Italy",
+    "url": "https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Brividy Cinema",
+    "url": "https://ixmediasrl-serially-1-it.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "CG Grandi Film",
+    "url": "https://cgentertainment-cgtv-1-it.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Grjngo Italy",
+    "url": "https://amogonetworx-grjngo-6-it.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Hell's Kitchen Italy",
+    "url": "https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Inazuma Eleven Go Italy",
+    "url": "https://minerva-pictures-inazumaelevengo-1-it.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Mr. Bean Anime Italy",
+    "url": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Risate Dal Sud",
+    "url": "https://ixmedia-srl-risatealsud-1-it.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Serially Crime",
+    "url": "https://ixmediasrl-seriallycrime-1-it.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Soap Latino",
+    "url": "https://fast-channels-network-soaplatino-1-it.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Soap Turco",
+    "url": "https://fast-channels-network-soapturco-1-it.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Vevo '90s & '00s Italy",
+    "url": "https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Vevo Pop Italy",
+    "url": "https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Yu-Gi-Oh! Italy",
+    "url": "https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Sportoutdoor.tv",
+    "url": "https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Televisa Telenovelas",
+    "url": "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Gaki no Tsukai (English Subs)",
+    "url": "https://hamada.gaki-no-tsukai.stream/hls/test.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Netlink TV",
+    "url": "https://netlink.netlinkbroadcaster.com/hls/test.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Auto TV",
+    "url": "https://cdn4.skygo.mn/live/disk1/AutoTV/DASH-FTA/AutoTV.mpd",
+    "quality": "1080p",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Auto TV",
+    "url": "https://cdn4.skygo.mn/live/disk1/AutoTV/HLSv3-FTA/AutoTV.m3u8",
+    "quality": "720p",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "CNBC MGL",
+    "url": "https://cdn4.skygo.mn/live/disk1/CNBC/DASH-FTA/CNBC.mpd",
+    "quality": "1080p",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "CNBC MGL",
+    "url": "https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8",
+    "quality": "720p",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "MNB \u0413\u044d\u0440 \u0431\u04af\u043b",
+    "url": "https://cdn4.skygo.mn/live/disk1/MNB_Family/DASH-FTA/MNB_Family.mpd",
+    "quality": "1080p",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "MNB \u0413\u044d\u0440 \u0431\u04af\u043b",
+    "url": "https://cdn4.skygo.mn/live/disk1/MNB_Family/HLSv3-FTA/MNB_Family.m3u8",
+    "quality": "1080p",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Popcorn",
+    "url": "https://cdn4.skygo.mn/live/disk1/Popcorn/DASH-FTA/Popcorn.mpd",
+    "quality": "1080p",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Popcorn",
+    "url": "https://cdn4.skygo.mn/live/disk1/Popcorn/HLSv3-FTA/Popcorn.m3u8",
+    "quality": "720p",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "TV7",
+    "url": "https://cdn4.skygo.mn/live/disk1/TV7/DASH-FTA/TV7.mpd",
+    "quality": "1080p",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "TV7",
+    "url": "https://cdn4.skygo.mn/live/disk1/TV7/HLSv3-FTA/TV7.m3u8",
+    "quality": "720p",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u0425\u04e9\u0433\u0436\u0438\u043c",
+    "url": "https://cdn4.skygo.mn/live/disk1/Khugjim/DASH-FTA/Khugjim.mpd",
+    "quality": "1080p",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u0425\u04e9\u0433\u0436\u0438\u043c",
+    "url": "https://cdn4.skygo.mn/live/disk1/Khugjim/HLSv3-FTA/Khugjim.m3u8",
+    "quality": "720p",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Bella Italia (Radio)",
+    "url": "http://80.79.6.221:25461/smash/public/26",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Erga Lura TV",
+    "url": "http://80.79.6.221:25461/smash/public/29",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Jazz Club (Radio)",
+    "url": "http://80.79.6.221:25461/smash/public/25",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Puttinu",
+    "url": "http://80.79.6.221:25461/smash/public/5",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Rock Classics (Radio)",
+    "url": "http://80.79.6.221:25461/smash/public/24",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Smash 7News",
+    "url": "http://80.79.6.221:25461/smash/public/16",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Smash Arabija",
+    "url": "http://80.79.6.221:25461/smash/public/18",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Smash Country",
+    "url": "http://80.79.6.221:25461/smash/public/11",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Smash Explore",
+    "url": "http://80.79.6.221:25461/smash/public/17",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Smash Food",
+    "url": "http://80.79.6.221:25461/smash/public/9",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Smash House of Rock",
+    "url": "http://80.79.6.221:25461/smash/public/12",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Smash Music",
+    "url": "http://80.79.6.221:25461/smash/public/10",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Smash Radio 104.6FM",
+    "url": "http://80.79.6.221:25461/smash/public/3",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Smash Talk",
+    "url": "http://80.79.6.221:25461/smash/public/15",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Smash Teleshopping",
+    "url": "http://80.79.6.221:25461/smash/public/2",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "CooTel Nicaragua",
+    "url": "http://138.117.4.70:8075/channel9/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Rotterdam Podium TV",
+    "url": "http://ms10.mx-cd.net/tv/141-573565/Podium_Rotterdam.smil/playlist.m3u8",
+    "quality": "480p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Four in a Bed",
+    "url": "https://all3media-four-in-a-bed-1-nl.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Mechplus",
+    "url": "https://mechtvltd-mechplus-1-nl.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Mojitv",
+    "url": "https://odmedia-mojitv-1-nl.samsung.wurl.tv/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "MYZen Fit",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungnl/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Waterbear",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Wicked Tuna",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-samsungnl/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Mechplus",
+    "url": "https://mechtvltd-mechplus-1-no.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Action Hollywood Movies",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Bondi Vet",
+    "url": "https://wtfn-bondivet-1-nz.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Breaking News by LeadStory",
+    "url": "https://amg02703-leadstory-leadstory-samsungnz-vc7nn.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungnz/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Four in a Bed",
+    "url": "https://all3media-four-in-a-bed-1-nz.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Hardcore Pawn",
+    "url": "https://amg00627-banijay-amg00627c8-samsung-nz-1828.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Highway Thru Hell",
+    "url": "https://amg00627-amg00627c15-samsung-nz-2900.playouts.now.amagi.tv/playlist/amg00627-banijayfast-highwaythruhell-samsungnz/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "History and Warfare Now",
+    "url": "https://amg00376-magellan-amg00376c19-samsung-nz-1735.playouts.now.amagi.tv/playlist/amg00376-magellantv-historyandwarfarenowaunzin-samsungnz/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Homeful",
+    "url": "https://amg00090-blueantcanada-amg00090c4-samsung-nz-820.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungnz/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Inside Outside",
+    "url": "https://all3media-international-insideoutside-1-nz.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Life Downunder",
+    "url": "https://wtfn-lifedownunder-1-nz.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "MTRSPT 1",
+    "url": "https://amg02873-kravemedia-mtrspt1-samsungnz-k70ln.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-samsungnz/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "PBS History",
+    "url": "https://amg02333-pbs-amg02333c1-samsung-nz-1254.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungnz/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Pulse TV",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "RCM",
+    "url": "https://amg01076-lightningintern-rialto-samsungnz-03h40.amagi.tv/playlist/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Surf Cinema",
+    "url": "https://amg13231-actve-amg13231c4-samsung-nz-3093.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungnz/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "The Chat Show Channel",
+    "url": "https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "MO Channel",
+    "url": "https://cloudvideo.servers10.com:8081/8070/index.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Love Magazine",
+    "url": "https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Love Pets",
+    "url": "https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Mechplus",
+    "url": "https://mechtvltd-mechplus-1-se.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Myzen Fit",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungse/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "The Chat Show Channel",
+    "url": "https://amg00426-littledotstudio-thechatshow-samsungse-n39q0.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungse/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "The Wicked Tuna Channel",
+    "url": "https://amg00353-lionsgatestudio-wickedtunase-samsungse-w4kcr.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtunase-samsungse/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Waterbear",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Nolan Nanton Productions",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/wbxpvv7l/index.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "TVCARiB Radio",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/agf7yo9x/index.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH3 \u771f\u60c5\u90e8\u843d\u683c \u77ed\u7248",
+    "url": "https://live.streamingfast.net/osmflivech3.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH5 \u5171\u4eab\u89c0\u9ede \u77ed\u7248",
+    "url": "https://live.streamingfast.net/osmflivech5.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH6 \u89aa\u8fd1\u795e \u8a69\u6b4c\u97f3\u6a02",
+    "url": "https://live.streamingfast.net/osmflivech6.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH7 \u79b1\u544a\u5927\u8ecd \u4fe1\u606f",
+    "url": "https://live.streamingfast.net/osmflivech7.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH9 \u611b+\u597d\u91ab\u751f \u77ed\u7248",
+    "url": "https://live.streamingfast.net/osmflivech9.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH12 \u7dad\u4ed6\u547d\u65bd",
+    "url": "https://live.streamingfast.net/osmflivech12.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH14 \u771f\u60c5\u90e8\u843d\u683c",
+    "url": "https://live.streamingfast.net/osmflivech14.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH15 \u771f\u60c5\u4e4b\u591c",
+    "url": "https://live.streamingfast.net/osmflivech15.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH16 \u8449\u5149\u660e",
+    "url": "https://live.streamingfast.net/osmflivech16.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH17 \u5927\u885b\u9b91\u68ee",
+    "url": "https://live.streamingfast.net/osmflivech17.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH18 \u570b\u969b\u8b1b\u54e1",
+    "url": "https://live.streamingfast.net/osmflivech18.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH20 \u6069\u5178\u6642\u5206",
+    "url": "https://live.streamingfast.net/osmflivech20.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH21 \u83ef\u8a9e\u8b1b\u54e1",
+    "url": "https://live.streamingfast.net/osmflivech21.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH24 \u5289\u4e09\u8b1b\u53e4",
+    "url": "https://live.streamingfast.net/osmflivech24.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH27 \u7a7a\u4e2d\u8056\u7d93\u5b78\u9662",
+    "url": "https://live.streamingfast.net/osmflivech27.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH28 \u73fe\u4ee3\u8a69\u6b4c",
+    "url": "https://live.streamingfast.net/osmflivech28.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH29 \u7d93\u5178\u97f3\u6a02\u6cb3",
+    "url": "https://live.streamingfast.net/osmflivech29.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH30 \u5929\u5802\u656c\u62dc",
+    "url": "https://live.streamingfast.net/osmflivech30.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH31 \u798f\u97f3\u4f48\u9053\u97f3\u6a02\u6703",
+    "url": "https://live.streamingfast.net/osmflivech31.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH32 \u7279\u6703\u7cfb\u5217\uff1a\u79b1\u544a\u8207\u8f49\u5316",
+    "url": "https://live.streamingfast.net/osmflivech32.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH33 \u7279\u6703\u7cfb\u5217\uff1a\u7814\u7d93\u57f9\u9748",
+    "url": "https://live.streamingfast.net/osmflivech33.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH38 \u7279\u6703\u7cfb\u5217\uff1a\u9752\u5e74\u7279\u6703",
+    "url": "https://live.streamingfast.net/osmflivech38.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH40 \u5bb6\u5ead8\u9ede\u6a94\u8f49\u8f49\u767c\u73fe\u611b",
+    "url": "https://live.streamingfast.net/osmflivech40.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH45 \u5361\u901a",
+    "url": "https://live.streamingfast.net/osmflivech45.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH47 \u7267\u8005\u983b\u9053",
+    "url": "https://live.streamingfast.net/osmflivech47.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH49 \u79b1\u544a\u983b\u9053",
+    "url": "https://live.streamingfast.net/osmflivech49.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GOOD TV CH50 \u570b\u969b\u8b1b\u54e1 \u4e2d\u6587\u767c\u97f3",
+    "url": "https://live.streamingfast.net/osmflivech50.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Cosmic Frontiers",
+    "url": "https://amg00376-magellan-amg00376c14-rakuten-uk-1694.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowcauk-rakutenuk/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Curiosity Now",
+    "url": "https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Eggheads",
+    "url": "https://amg00654-itv-amg00654c28-rakuten-uk-5302.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Filmzie",
+    "url": "https://filmzie-filmzie-1-eu.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Great British Menu",
+    "url": "https://all3media-great-british-menu-1-gb.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Hardcore Pawn",
+    "url": "https://amg00627-amg00627c8-rakuten-uk-4801.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Highway Thru Hell",
+    "url": "https://amg00627-amg00627c15-rakuten-uk-4803.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "History Hunters",
+    "url": "https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Hotel Inspector",
+    "url": "https://amg00654-itv-amg00654c4-rakuten-uk-5263.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Jail",
+    "url": "https://langleyproductions-jail-1-eu.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Love Pets",
+    "url": "https://rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv/playlist/rakutenAA-blueskyent-lovepetsemea-rakuten/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Mr. Bean Anime",
+    "url": "https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "MyZen Wellbeing TV",
+    "url": "https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Ninja Warrior",
+    "url": "https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Popflix",
+    "url": "https://signatureentertainment-popflix-1-gb.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Real Crime Beta",
+    "url": "https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Tennis+",
+    "url": "https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "The Chat Show Channel",
+    "url": "https://amg00426-lds-amg00426c11-rakuten-uk-3888.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "True Lives",
+    "url": "https://amg00654-itv-amg00654c7-rakuten-uk-1282.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-truelives-rakutenuk/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Vevo Hip-Hop & R&B",
+    "url": "https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Waterbear",
+    "url": "https://waterbear-waterbear-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Wicked Tuna",
+    "url": "https://amg00353-amg00353c25-rakuten-us-4896.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "World War TV",
+    "url": "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "MovieSphere",
+    "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "ABN Freedom of Speech",
+    "url": "https://mediaserver.abnvideos.com/streams/freedom_of_speech.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "ABN I AM",
+    "url": "https://mediaserver.abnvideos.com/streams/i_am_.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "ABN Son of God",
+    "url": "https://mediaserver.abnvideos.com/streams/son_of_god_.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Everyday Refresh",
+    "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Golden Boy",
+    "url": "https://goldenboy.duckhunting.playout.vju.tv/DuckhuntingTV_GoldenBoy/main.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "InfoWars The Alex Jones Show",
+    "url": "https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "InfoWars The American Journal",
+    "url": "https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "InfoWars War Room With Owen Shroyer",
+    "url": "https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Jewelry Television Espanol",
+    "url": "https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/72b5a55e4c35445f9e742871aa0aefa2/index.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "QVC West",
+    "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Toonami Aftermath Movies",
+    "url": "http://api.toonamiaftermath.com:3000/movies/playlist.m3u8",
+    "quality": "540p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Toonami Aftermath Radio",
+    "url": "http://api.toonamiaftermath.com:3000/radio/playlist.m3u8",
+    "quality": "480p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "TVS Frontier Network",
+    "url": "https://rpn.bozztv.com/gusa/gusa-tvsfrontier/index.m3u8",
+    "quality": "360p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "CBS News Texas",
+    "url": "https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Dog Whisperer with Cesar Millan",
+    "url": "https://amg01201-amg01201c30-cineverse-us-3100.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-dogwhispererwithcesarmilan-cineverseus/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "MeatEater",
+    "url": "https://amg01201-amg01201c35-cineverse-us-3139.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-meateater-cineverseus/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Tastemade Home",
+    "url": "https://amg00047-tastemade-amg00047c2-cineverse-us-1357.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadehome-cineverseus/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Cirque du Soleil",
+    "url": "https://amg01439-amg01439c1-amgplt0081.playout.now3.amagi.tv/playlist/amg01439-amg01439c1-amgplt0081/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Fork & Flight",
+    "url": "https://amg00346-vizioono-amg00346c1-distrotv-us-1397.playouts.now.amagi.tv/playlist/amg00346-vizioincfast-forkandflight-distrotvus/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Investigation",
+    "url": "https://amg00346-vizioono-amg00346c2-distrotv-us-1396.playouts.now.amagi.tv/playlist/amg00346-vizioincfast-investigation-distrotvus/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "MTRSPT1",
+    "url": "https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "BBC Top Gear",
+    "url": "https://amg00793-amg00793c5-firetv-us-4068.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Dungeons & Dragons Adventures",
+    "url": "https://amg00461-eone-amg00461c3-firetv-us-5211.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "FGTEEV",
+    "url": "https://amg00285-amg00285c3-firetv-us-6596.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "NBC Chicago News",
+    "url": "https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "NBCU Telemundo Florida",
+    "url": "https://nbcu-telemundoflorida-firetv.amagi.tv/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "NBCU Telemundo North East",
+    "url": "https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "NBCU Telemundo Texas",
+    "url": "https://nbcu-telemundotexas-firetv.amagi.tv/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "NBCU Telemundo West",
+    "url": "https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "NHL",
+    "url": "https://nhl-firetv.amagi.tv/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Power Rangers",
+    "url": "https://amg00461-eone-amg00461c2-firetv-us-5210.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "T2 Tennis Channel",
+    "url": "https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Team USA",
+    "url": "https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Transformers",
+    "url": "https://amg00461-eone-amg00461c1-firetv-us-5209.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "TV Blossom",
+    "url": "https://amg00437-amg00437c3-firetv-us-5409.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Bleav Football",
+    "url": "https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Crime & Justice",
+    "url": "https://linear-474.frequency.stream/dist/glewedtv/474/hls/master/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Property & Reno",
+    "url": "https://linear-476.frequency.stream/dist/glewedtv/476/hls/master/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Real Disaster Channel",
+    "url": "https://linear-475.frequency.stream/dist/glewedtv/475/hls/master/playlist.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Action Hollywood Movies",
+    "url": "https://actionhollywood-klowdtv.amagi.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Aspire TV Life",
+    "url": "https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Beond TV",
+    "url": "https://amg01681-beondtv-amg01681c1-klowdtv-us-1826.playouts.now.amagi.tv/playlist/amg01681-beondtv-beondtv-klowdtvus/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Cine en Espanol",
+    "url": "https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-klowdtvus/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Horror Machine",
+    "url": "https://naviofrequency-horrormachine-klowdtv.amagi.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Life Minute",
+    "url": "https://amg01468-lifeminutetv-lifeminute-klowdtv-r4hhz.amagi.tv/playlist/amg01468-lifeminutetv-lifeminute-klowdtv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Quietude 4k",
+    "url": "https://naviofrequency-quietude4k-klowdtv.amagi.tv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Salem News Channel",
+    "url": "https://amg00732-salemmediagroup-salemnews-klowdtv-79zyj.amagi.tv/playlist/amg00732-salemmediagroup-salemnews-klowdtv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Smart Healthy Green Living",
+    "url": "https://amg16109-shgliving-amg16109c1-klowdtv-us-2235.playouts.now.amagi.tv/playlist/amg16109-shglivingnetwork-smarthealthygreenliving-klowdtvus/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "StashTV Black Stories",
+    "url": "https://amg01720-amg01720c1-klowdtv-us-4664.playouts.now.amagi.tv/playlist/amg01720-filmhub-stashtvblackstories-klowdtvus/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "StashTV The Classics",
+    "url": "https://amg01720-amg01720c2-klowdtv-us-4689.playouts.now.amagi.tv/playlist/amg01720-filmhub-stashtvtheclassics-klowdtvus/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Washington Post TV",
+    "url": "https://amg01655-thewashingtonpo-washingtonpost-klowdtv-fxhac.amagi.tv/playlist/amg01655-thewashingtonpo-washingtonpost-klowdtv/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Cox Meriden Public Access Channel 15 (Meriden CT)",
+    "url": "http://applevalley.coxctv.com/live-1/live/live.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Jacksonville Freedom Fountain Camera Live",
+    "url": "https://reflect-jacksonville.cablecast.tv/live-7/live/live.m3u8",
+    "quality": null,
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Sound View Community Media Government",
+    "url": "https://livestream.telvue.com/soundviewcmt3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "quality": "480p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Cinevault Classics",
+    "url": "https://gsn-cinevault-classics-1-us.roku.wurl.tv/playlist.m3u8",
+    "quality": "540p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Cinevault Murder and Mayhem",
+    "url": "https://gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8",
+    "quality": "540p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Real Crime",
+    "url": "https://d1qznhvm4vjve7.cloudfront.net/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Samuel Goldwyn Films",
+    "url": "https://samuelgoldwyn-films-1-us.roku.wurl.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Spark TV Luz & Amor",
+    "url": "https://candlelightmedia-sparklightlove-6-us.roku.wurl.tv/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Supermarket Sweep",
+    "url": "https://amg00145-buzzr-bigballs-supermarket-rokuus-iqx8g.amagi.tv/playlist/amg00145-buzzr-bigballs-supermarket-rokuus/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "4UV",
+    "url": "https://d3qg1liq0unuxm.cloudfront.net/4UV.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "21 Jump Street",
+    "url": "https://d1oefjzrirx6fc.cloudfront.net/21_Jump_Street_SONO6.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "60 Days In by A&E",
+    "url": "https://d2b8jic9gadlvy.cloudfront.net/v1/aenetworks_60daysin_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "ABC 20/20",
+    "url": "https://d4bq78o8d5tf5.cloudfront.net/ABC_2020.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Acorn TV Mysteries",
+    "url": "https://d25ms2fshb3tcf.cloudfront.net/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "AFV with Alfonso Ribeiro",
+    "url": "https://d1o5yzickeowpa.cloudfront.net/playlist.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "All Babies Channel",
+    "url": "https://d390zi2w1jc4t4.cloudfront.net/master.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "All Out Reality",
+    "url": "https://d3kyucsyhwa3ht.cloudfront.net/All_Out_Reality.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Alone By History",
+    "url": "https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "America's Got Talent",
+    "url": "https://d1i40wgstaij6f.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886062/master.m3u8",
+    "quality": "720p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "American Crimes",
+    "url": "https://pb-kdyzf3w51y7oz.akamaized.net/master.m3u8",
+    "quality": "1080p",
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title":…"
+ https://raw.githubusercontent.com/AdeelWajid/iptv_validated_list/9d9d78f320077ecf9f50d666efdf3357b4065577/validated_streams.json#:~:text=%5B%0A%20%20%7B%0A%20%20%20%20%22channel%22%3A%20null%2C%0A%20%20%20%20%22feed,null%2C%0A%20%20%20%20%22referrer%22%3A%20null%0A%20%20%7D%0A%5D
