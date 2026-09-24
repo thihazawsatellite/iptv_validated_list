@@ -97944,5 +97944,435 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "VietnamToday.vn",
+    "feed": "HD",
+    "title": "Vietnam Today",
+    "url": "https://amagi-live.ondemandkorea.com/amgplt0456.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VietnamToday.vn",
+    "feed": "HD",
+    "title": "Vietnam Today",
+    "url": "https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VijayTakkar.in",
+    "feed": "APAC",
+    "title": "Vijay Takkar APAC",
+    "url": "https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuExplore.ru",
+    "feed": "SD",
+    "title": "viju Explore",
+    "url": "http://stream.mcquack.net/239/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuExplore.ru",
+    "feed": "SD",
+    "title": "viju Explore",
+    "url": "https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuExplore.ru",
+    "feed": "SD",
+    "title": "viju Explore",
+    "url": "http://str2.iptvhd.ru:8080/Viasat_Explorer/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuHistory.ru",
+    "feed": "SD",
+    "title": "viju History",
+    "url": "http://178.124.179.122:8080/HistoryHD/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuHistory.ru",
+    "feed": "SD",
+    "title": "viju History",
+    "url": "http://stream.mcquack.net/101/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuHistory.ru",
+    "feed": "SD",
+    "title": "viju History",
+    "url": "https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuNature.ru",
+    "feed": "HD",
+    "title": "viju Nature HD",
+    "url": "http://str2.iptvhd.ru:8080/Viasat_Nature_HD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuNature.ru",
+    "feed": "SD",
+    "title": "viju Nature",
+    "url": "https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuNature.ru",
+    "feed": "SD",
+    "title": "viju Nature",
+    "url": "https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuPlusComedy.ru",
+    "feed": "HD",
+    "title": "viju+ Comedy HD",
+    "url": "http://stream.mcquack.net/201/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuPlusComedy.ru",
+    "feed": "HD",
+    "title": "viju+ Comedy HD",
+    "url": "http://str2.iptvhd.ru:8080/TV1000_Comedy_HD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuPlusMegahit.ru",
+    "feed": "HD",
+    "title": "viju+ Megahit HD",
+    "url": "http://stream.mcquack.net/200/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuPlusMegahit.ru",
+    "feed": "HD",
+    "title": "viju+ Megahit HD",
+    "url": "http://str2.iptvhd.ru:8080/TV1000_Megahit_HD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuPlusPlanet.ru",
+    "feed": "HD",
+    "title": "viju+ Planet HD",
+    "url": "http://stream.mcquack.net/240/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuPlusPremiere.ru",
+    "feed": "HD",
+    "title": "viju+ Premiere HD",
+    "url": "http://stream.mcquack.net/202/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuPlusPremiere.ru",
+    "feed": "HD",
+    "title": "viju+ Premiere HD",
+    "url": "http://str2.iptvhd.ru:8080/TV1000_Premium_HD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuPlusSerial.ru",
+    "feed": "HD",
+    "title": "viju+ Serial HD",
+    "url": "http://stream.mcquack.net/311/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuPlusSerial.ru",
+    "feed": "HD",
+    "title": "viju+ Serial HD",
+    "url": "http://str2.iptvhd.ru:8080/VIP_Serial_HD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuPlusSport.ru",
+    "feed": "HD",
+    "title": "viju+ Sport HD",
+    "url": "http://str2.iptvhd.ru:8080/Viasat_Sport/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuPlusSport.ru",
+    "feed": "SD",
+    "title": "viju+ Sport",
+    "url": "http://stream.mcquack.net/333/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuPlusSport.ru",
+    "feed": "SD",
+    "title": "viju+ Sport",
+    "url": "https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuPlusSport.ru",
+    "feed": "SD",
+    "title": "viju+ Sport",
+    "url": "https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuTV1000.ru",
+    "feed": "SD",
+    "title": "viju TV1000",
+    "url": "http://stream.mcquack.net/110/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuTV1000.ru",
+    "feed": "SD",
+    "title": "viju TV1000",
+    "url": "https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuTV1000.ru",
+    "feed": "SD",
+    "title": "viju TV1000",
+    "url": "http://str2.iptvhd.ru:8080/TV1000/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuTV1000action.ru",
+    "feed": "SD",
+    "title": "viju TV1000 action",
+    "url": "http://stream.mcquack.net/100/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuTV1000action.ru",
+    "feed": "SD",
+    "title": "viju TV1000 action",
+    "url": "https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuTV1000action.ru",
+    "feed": "SD",
+    "title": "viju TV1000 action",
+    "url": "https://fs.uplink.kz/viju_tv1000_action/mono.m3u8?token=onlinetv",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuTV1000action.ru",
+    "feed": "SD",
+    "title": "viju TV1000 action",
+    "url": "http://str2.iptvhd.ru:8080/TV1000_Action/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuTV1000russkoe.ru",
+    "feed": "SD",
+    "title": "viju TV1000 russkoe",
+    "url": "https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuTV1000russkoe.ru",
+    "feed": "SD",
+    "title": "viju TV1000 russkoe",
+    "url": "https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuTV1000russkoe.ru",
+    "feed": "SD",
+    "title": "viju TV1000 russkoe",
+    "url": "https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "vijuTV1000russkoe.ru",
+    "feed": "SD",
+    "title": "viju TV1000 russkoe",
+    "url": "http://str2.iptvhd.ru:8080/TV1000russkoekino/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VilayetTV.az",
+    "feed": "SD",
+    "title": "Vilayet TV",
+    "url": "https://nl.livekadeh.com/hls2/vilayet.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VillaElisaRadioTV.py",
+    "feed": "SD",
+    "title": "Villa Elisa Radio TV",
+    "url": "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VillageTV.in",
+    "feed": "SD",
+    "title": "Village TV",
+    "url": "https://villagetv.applelive.in/villagetv/villagetv/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VillageTV.in",
+    "feed": "SD",
+    "title": "Village TV",
+    "url": "https://live.villagetv.net/villagetv/hd/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VillaManteroTV.ar",
+    "feed": "SD",
+    "title": "Villa Mantero TV",
+    "url": "https://micanal.ovh/livestreams/515.AUTOOAAZ721F.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VinhLongTV2.vn",
+    "feed": "SD",
+    "title": "Vinh Long TV 2",
+    "url": "https://dethich.pw/thvl2/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VintageMusic.cr",
+    "feed": "SD",
+    "title": "Vintage Music",
+    "url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
