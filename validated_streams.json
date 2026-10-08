@@ -73276,5 +73276,375 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "RCNMas.co",
+    "feed": "SD",
+    "title": "RCN Mas",
+    "url": "http://190.128.214.97:64333/play/a04v/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCNMas.co",
+    "feed": "SD",
+    "title": "RCN M\u00e1s",
+    "url": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCNMas.co",
+    "feed": "SD",
+    "title": "RCN Mas",
+    "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCNNovelas.co",
+    "feed": "SD",
+    "title": "RCN Novelas",
+    "url": "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCNNovelas.co",
+    "feed": "SD",
+    "title": "RCN Novelas",
+    "url": "http://170.238.200.199/rcn-novelas/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCNNovelas.co",
+    "feed": "SD",
+    "title": "RCN Novelas",
+    "url": "http://181.78.8.199:8000/play/a0a7/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCNNovelas.co",
+    "feed": "SD",
+    "title": "RCN Novelas",
+    "url": "http://181.65.191.173:8069/play/a061",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCNNovelas.co",
+    "feed": "SD",
+    "title": "RCN Novelas",
+    "url": "https://stream1.bitred.cl/rcn-novelas/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCTI.id",
+    "feed": "HD",
+    "title": "RCTI HD",
+    "url": "http://202.150.172.59/RCTIHD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCTV3.us",
+    "feed": "SD",
+    "title": "Rancho Cucamonga RCTV3 (Rancho Cucamonga CA)",
+    "url": "https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCTV.id",
+    "feed": "SD",
+    "title": "RCTV",
+    "url": "https://v10.siar.us/rctv/live/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": "https://www.radarcirebon.tv/livestreaming/"
+  },
+  {
+    "channel": "RCTV.us",
+    "feed": "SD",
+    "title": "Rifle Community TV RCTV (Rifle CO)",
+    "url": "https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCVTV.hn",
+    "feed": "SD",
+    "title": "RCV TV",
+    "url": "https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8",
+    "quality": "712p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RDN.do",
+    "feed": "SD",
+    "title": "RDN",
+    "url": "https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RDSSocialTV.it",
+    "feed": "SD",
+    "title": "RDS Social TV",
+    "url": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ReadyTVCanal6.do",
+    "feed": "SD",
+    "title": "Ready TV Canal 6",
+    "url": "https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RealAmericasVoice.us",
+    "feed": "KPVMLD",
+    "title": "Real America's Voice KPVM-LD",
+    "url": "https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RealAmericasVoice.us",
+    "feed": "SD",
+    "title": "Real America's Voice",
+    "url": "https://d2jiqiw4g5lj5k.cloudfront.net/AVSamsung/AVSamsung.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RealitateaTV.md",
+    "feed": "SD",
+    "title": "Rlive TV",
+    "url": "https://realitatealive.md/tv/rlive.m3u8",
+    "quality": "406p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RealityChannel.il",
+    "feed": "SD",
+    "title": "Reality Channel",
+    "url": "https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RealMadridTV.es",
+    "feed": "SD",
+    "title": "Real Madrid TV",
+    "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+    "quality": "726p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RealMadridTVEnglish.es",
+    "feed": "SD",
+    "title": "Real Madrid TV English",
+    "url": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8",
+    "quality": null,
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RealMadridTVEnglish.es",
+    "feed": "SD",
+    "title": "Real Madrid TV English",
+    "url": "http://88.212.15.19/live/real_madrid_tv/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RealNewsKerala.in",
+    "feed": "SD",
+    "title": "Real News Kerala",
+    "url": "http://51.75.127.199:3141/realnewskerala/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RealTelevision.pe",
+    "feed": "SD",
+    "title": "Real Television",
+    "url": "https://live-evg10.tv360.bitel.com.pe/bitel/realtv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RealWild.uk",
+    "feed": "SD",
+    "title": "Real Wild",
+    "url": "https://lds-realwild-samsungau.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RealWild.uk",
+    "feed": "SD",
+    "title": "Real Wild",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RealWild.uk",
+    "feed": "SD",
+    "title": "Real Wild",
+    "url": "https://lds-realwild-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RealWild.uk",
+    "feed": "SD",
+    "title": "Real Wild",
+    "url": "https://lds-realwild-samsunguk.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Record.br",
+    "feed": "SD",
+    "title": "Record",
+    "url": "https://media.cdntvms.com.br/record_nacional_sat/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Record.br",
+    "feed": "SD",
+    "title": "RecordTV",
+    "url": "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RecordNews.br",
+    "feed": "SD",
+    "title": "Record News",
+    "url": "http://45.162.64.114/RECORD_NEWS/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RecordNews.br",
+    "feed": "SD",
+    "title": "Record News",
+    "url": "http://168.197.104.22/RECORD_NEWS/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RecordNews.br",
+    "feed": "SD",
+    "title": "Record News",
+    "url": "http://170.83.16.50/RECORD_NEWS/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RecordNews.br",
+    "feed": "SD",
+    "title": "Record News",
+    "url": "http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RecordNews.br",
+    "feed": "SD",
+    "title": "Record News",
+    "url": "http://186.219.52.187/record_news/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
