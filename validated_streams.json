@@ -69168,5 +69168,319 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "PTCChakde.in",
+    "feed": "SD",
+    "title": "PTC Chakde",
+    "url": "https://mumt06.tangotv.in/qYyB8fXVPTCCHAKDE/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PTCChakde.in",
+    "feed": "SD",
+    "title": "PTC Chakde",
+    "url": "https://cdn.pishow.tv/ott/live/449/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PTCMusic.in",
+    "feed": "SD",
+    "title": "PTC Music",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PTCMusic.in",
+    "feed": "SD",
+    "title": "PTC Music",
+    "url": "https://cdn.pishow.tv/ott/live/1501/master.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PTCMusic.in",
+    "feed": "SD",
+    "title": "PTC Music",
+    "url": "https://mumt04.tangotv.in/m18aqlK4PTCMUSIC/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PTCNews.in",
+    "feed": "SD",
+    "title": "PTC News",
+    "url": "https://streams.tangotv.in/PTCNEWS/ORIGIN/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PTCNews.in",
+    "feed": "SD",
+    "title": "PTC News",
+    "url": "https://mumt06.tangotv.in/qYyB8fXVPTCNEWS/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PTCNews.in",
+    "feed": "SD",
+    "title": "PTC News",
+    "url": "https://cdn.pishow.tv/ott/live/1502/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PTCPunjabi.in",
+    "feed": "HD",
+    "title": "PTC Punjabi HD",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PTCPunjabi.in",
+    "feed": "SD",
+    "title": "PTC Punjabi",
+    "url": "https://cdn.pishow.tv/ott/live/1604/master.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PTCPunjabi.in",
+    "feed": "SD",
+    "title": "PTC Punjabi",
+    "url": "https://streams.tangotv.in/PTCPUNJABI/ORIGIN/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PTCPunjabi.in",
+    "feed": "SD",
+    "title": "PTC Punjabi",
+    "url": "https://mumt04.tangotv.in/m18aqlK4PTCPUNJABI/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PTCPunjabiCanada.ca",
+    "feed": "SD",
+    "title": "PTC Punjabi Canada",
+    "url": "https://stream.ottlive.co.in/ptccanada/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PTCPunjabiGold.in",
+    "feed": "SD",
+    "title": "PTC Punjabi Gold",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PTCPunjabiGold.in",
+    "feed": "SD",
+    "title": "PTC Punjabi Gold",
+    "url": "https://streams.tangotv.in/PTCPUNJABIGOLD/ORIGIN/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PTCPunjabiGold.in",
+    "feed": "SD",
+    "title": "PTC Punjabi Gold",
+    "url": "https://mumt04.tangotv.in/m18aqlK4PTCPUNJABIGOLD/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PTCSimran.in",
+    "feed": "SD",
+    "title": "PTC Simran",
+    "url": "https://cdn.pishow.tv/ott/live/1503/master.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PTCSimran.in",
+    "feed": "SD",
+    "title": "PTC Simran",
+    "url": "https://streams.tangotv.in/PTCSIMRAN/ORIGIN/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PTCSimran.in",
+    "feed": "SD",
+    "title": "PTC Simran",
+    "url": "https://mumt05.tangotv.in/87NeALx2PTCSIMRAN/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PTV.bo",
+    "feed": "SD",
+    "title": "PTV",
+    "url": "https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PTV.ua",
+    "feed": "SD",
+    "title": "PTV",
+    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Public4KTV.np",
+    "feed": "HD",
+    "title": "Public 4K TV",
+    "url": "http://103.180.240.141:8080/hls/main1/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PublicMovies.in",
+    "feed": "SD",
+    "title": "Public Movies",
+    "url": "https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PublicMusic.in",
+    "feed": "SD",
+    "title": "Public Music",
+    "url": "https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PublicMusic.in",
+    "feed": "SD",
+    "title": "Public Music",
+    "url": "https://cdn.pishow.tv/ott/live/441/master.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PublicTV.in",
+    "feed": "SD",
+    "title": "Public TV",
+    "url": "https://streams.tangotv.in/PUBLICTV/ORIGIN/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PublicTV.in",
+    "feed": "SD",
+    "title": "Public TV",
+    "url": "https://mumt04.tangotv.in/m18aqlK4PUBLICTV/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PublicTV.in",
+    "feed": "SD",
+    "title": "Public TV",
+    "url": "https://cdn.pishow.tv/ott/live/439/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PuconTV.cl",
+    "feed": "SD",
+    "title": "Pucon TV",
+    "url": "https://redirector.dps.live/hls/pucontv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PuconTV.cl",
+    "feed": "SD",
+    "title": "Puc\u00f3n TV",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PudhariNews.in",
+    "feed": "SD",
+    "title": "Pudhari News",
+    "url": "https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
