@@ -59108,5 +59108,265 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "NationalAssemblyTV.kr",
+    "feed": "SD",
+    "title": "National Assembly TV",
+    "url": "https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NationalGeographic.cz",
+    "feed": "SD",
+    "title": "National Geographic",
+    "url": "http://88.212.15.19/live/test_ngc/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "NationalGeographic.hr",
+    "feed": "SD",
+    "title": "National Geographic",
+    "url": "http://176.61.157.250/NationalGeographic/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NationalGeographic.hu",
+    "feed": "SD",
+    "title": "National Geographic",
+    "url": "http://88.212.15.19/live/ngc_hun/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "NationalGeographic.in",
+    "feed": "HD",
+    "title": "National Geographic HD",
+    "url": "http://103.185.24.134:3001/NATGEO-HD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NationalGeographic.mx",
+    "feed": "SD",
+    "title": "National Geographic",
+    "url": "http://138.121.15.230:9002/NAT-GEO/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NationalGeographic.ru",
+    "feed": "SD",
+    "title": "National Geographic",
+    "url": "http://stream.mcquack.net/116/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NationalGeographic.ru",
+    "feed": "SD",
+    "title": "National Geographic",
+    "url": "https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NationalGeographic.us",
+    "feed": "East",
+    "title": "National Geographic",
+    "url": "http://212.5.144.156:8080/natgeo/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NationalGeographic.us",
+    "feed": "HDEast",
+    "title": "National Geographic HD East",
+    "url": "http://198.58.104.90:8989/natgeo/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NationalGeographicLatinAmerica.us",
+    "feed": "Panregional",
+    "title": "National Geographic Latin America",
+    "url": "http://181.119.66.28:8081/NATGEO-HD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NationalGeographicLatinAmerica.us",
+    "feed": "Panregional",
+    "title": "National Geographic Latin America",
+    "url": "http://190.93.224.42/NAT-GEO/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NationalGeographicLatinAmerica.us",
+    "feed": "Panregional",
+    "title": "National Geographic Latin America",
+    "url": "http://45.173.231.22:8000/play/a05z/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NationalGeographicLatinAmerica.us",
+    "feed": "Panregional",
+    "title": "National Geographic Latin America",
+    "url": "https://barinaslive1.boldmss.com/NATGEO/NATGEO.isml/NATGEO.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NationalGeographicWild.cz",
+    "feed": "SD",
+    "title": "National Geographic Wild",
+    "url": "http://88.212.15.29/live/test_ngw/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "NationalGeographicWild.hu",
+    "feed": "SD",
+    "title": "National Geographic Wild",
+    "url": "http://88.212.15.19/live/ngw_hun/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "NationalGeographicWild.in",
+    "feed": "HD",
+    "title": "National Geographic Wild HD",
+    "url": "http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NationalGeographicWild.in",
+    "feed": "HD",
+    "title": "National Geographic Wild HD",
+    "url": "http://103.151.60.162:2122/play/a01f/index.m3u8?hls",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NationalGeographicWild.ro",
+    "feed": "SD",
+    "title": "National Geographic Wild",
+    "url": "https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+    "referrer": "https://cool-tv.net/"
+  },
+  {
+    "channel": "NationalGeographicWild.ru",
+    "feed": "SD",
+    "title": "National Geographic Wild",
+    "url": "https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NationalGeographicWild.us",
+    "feed": "HDEast",
+    "title": "National Geographic Wild HD East",
+    "url": "http://198.58.104.90:8989/natgeowild/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NationalIranianCongressTV.us",
+    "feed": "SD",
+    "title": "National Iranian Congress TV",
+    "url": "https://tv.iraniancongress.com/stream/tv.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NationalTV2.ro",
+    "feed": "SD",
+    "title": "National TV2",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-telestar1/live_hq?offsetSeconds=0",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NationalTV.ro",
+    "feed": "SD",
+    "title": "National TV",
+    "url": "https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NationNews.in",
+    "feed": "SD",
+    "title": "Nation News",
+    "url": "https://server.playontv.in/nationnews/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NationTV.th",
+    "feed": "SD",
+    "title": "Nation TV",
+    "url": "https://live-us1.thaimomo.com/live-as/chNation-3/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
