@@ -100498,5 +100498,155 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "VPlusTVI.pt",
+    "feed": "SD",
+    "title": "V+ TVI",
+    "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VPTV.ro",
+    "feed": "SD",
+    "title": "VP TV",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-vp-tv/live_lq?offsetSeconds=0",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Vremya.ru",
+    "feed": "SD",
+    "title": "\u0412\u0440\u0435\u043c\u044f",
+    "url": "https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Vremya.ru",
+    "feed": "SD",
+    "title": "Vremya",
+    "url": "http://stream.mcquack.net/237/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Vremya.ru",
+    "feed": "SD",
+    "title": "Vremya",
+    "url": "https://fs.uplink.kz/vremya/mono.m3u8?token=onlinetv",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VRLive.in",
+    "feed": "SD",
+    "title": "VR Live",
+    "url": "https://channel.vrlivegujarat.com/hls/vrchannel.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VSiN.us",
+    "feed": "SD",
+    "title": "VSiN",
+    "url": "https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VTM2.be",
+    "feed": "SD",
+    "title": "VTM 2",
+    "url": "https://lb.iptvnetwork.net/ls28/10035/playlist.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "VTM3.be",
+    "feed": "SD",
+    "title": "VTM 3",
+    "url": "https://lb.iptvnetwork.net/ls28/10037/playlist.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VTM4.be",
+    "feed": "SD",
+    "title": "VTM 4",
+    "url": "https://lb.iptvnetwork.net/ls28/10038/playlist.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VTM.be",
+    "feed": "SD",
+    "title": "VTM",
+    "url": "https://lb.iptvnetwork.net/ls28/10033/playlist.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "VTU.in",
+    "feed": "SD",
+    "title": "VTU",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VTV2.vn",
+    "feed": "HD",
+    "title": "VTV2 HD",
+    "url": "http://125hvt.ddns.net:21585/vtv2/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VTV.id",
+    "feed": "HD",
+    "title": "VTV HD",
+    "url": "http://202.150.172.59/VTVHD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VTV.mv",
+    "feed": "SD",
+    "title": "VTV",
+    "url": "https://sunplay-cdn.bitratelabs.com/live/local-channel/vtv-7a0f24809c234ea78d972b1f336ac1b9/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
