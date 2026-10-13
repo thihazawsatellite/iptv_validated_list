@@ -24558,5 +24558,317 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "CaracolTV.co",
+    "feed": "SD",
+    "title": "Caracol TV",
+    "url": "http://38.190.100.202:8000/play/a09v/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CaracolTV.co",
+    "feed": "SD",
+    "title": "Caracol TV",
+    "url": "http://190.61.42.218:9000/play/a09n/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CaracolTV.co",
+    "feed": "SD",
+    "title": "Caracol TV",
+    "url": "http://200.122.223.13:55000/play/caracol-tv-hd-tdt/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CaracolTV.co",
+    "feed": "SD",
+    "title": "Caracol TV",
+    "url": "https://barinaslive1.boldmss.com/CARACOL/CARACOL.isml/CARACOL.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CarasTV.ar",
+    "feed": "SD",
+    "title": "Caras TV",
+    "url": "https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CarasTV.ar",
+    "feed": "SD",
+    "title": "Caras TV",
+    "url": "http://190.61.90.17:40000/play/a043/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CaribbeanGospelTV.jm",
+    "feed": "SD",
+    "title": "Caribbean Gospel TV",
+    "url": "https://25466019af9b7aed.servers.dvcloud.tv/hls/iptv_providers/fhvtgifbqbcjp0g19mdd76t18tpalu4k.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CaribbeanHot7TV.lc",
+    "feed": "SD",
+    "title": "Caribbean Hot 7 TV",
+    "url": "https://vids1.intacs.com/caribbeanhot7tv/ch7-1.stream/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CaritasTV.py",
+    "feed": "SD",
+    "title": "C\u00e1ritas TV",
+    "url": "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Carousel.ru",
+    "feed": "Plus4",
+    "title": "Carousel",
+    "url": "http://185.37.150.46/Karusel/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Carousel.ru",
+    "feed": "SD",
+    "title": "Carousel",
+    "url": "https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Carousel.ru",
+    "feed": "SD",
+    "title": "Carousel SD",
+    "url": "http://stream.mcquack.net/120/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Carousel.ru",
+    "feed": "SD",
+    "title": "Carousel",
+    "url": "http://flussonic.linkintel.ru/Karusel/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Carousel.ru",
+    "feed": "SD",
+    "title": "Carousel",
+    "url": "http://31.148.5.241/kanal_8/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Carousel.ru",
+    "feed": "SD",
+    "title": "\u041a\u0430\u0440\u0443\u0441\u0435\u043b\u044c",
+    "url": "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Carousel.ru",
+    "feed": "SD",
+    "title": "\u041a\u0430\u0440\u0443\u0441\u0435\u043b\u044c",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8",
+    "quality": "540p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": "WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",
+    "referrer": null
+  },
+  {
+    "channel": "CarouselInternational.ru",
+    "feed": "SD",
+    "title": "Carousel International",
+    "url": "https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonClassics.pl",
+    "feed": "FAST",
+    "title": "Cartoon Classics",
+    "url": "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonitoAsia.sg",
+    "feed": "SD",
+    "title": "Cartoonito Asia",
+    "url": "http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "CartoonitoCEE.uk",
+    "feed": "Czechia",
+    "title": "Cartoonito CEE Czechia",
+    "url": "http://88.212.15.17/live/test_boomerang_tizen/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetwork.us",
+    "feed": "East",
+    "title": "Cartoon Network",
+    "url": "http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkAsia.sg",
+    "feed": "SD",
+    "title": "Cartoon Network Asia",
+    "url": "https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkCEE.uk",
+    "feed": "CzechRepublic",
+    "title": "Cartoon Network CEE Czech Republic",
+    "url": "http://88.212.15.17/live/test_cartoon_network_tizen/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkCEE.uk",
+    "feed": "Poland",
+    "title": "Cartoon Network CEE Poland",
+    "url": "http://57.128.231.171:8080/293/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkCEE.uk",
+    "feed": "Ukraine",
+    "title": "Cartoon Network CEE Ukraine",
+    "url": "http://45.132.87.69:8080/cartoon_network/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkLatinAmerica.us",
+    "feed": "NorthAtlantic",
+    "title": "Cartoon Network Latin America North Atlantic",
+    "url": "http://170.244.209.30:8000/play/a027/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkLatinAmerica.us",
+    "feed": "SouthAtlantic",
+    "title": "Cartoon Network Latin America South Atlantic",
+    "url": "http://158.172.217.18:8000/play/a03a/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkLatinAmerica.us",
+    "feed": "SouthPacific",
+    "title": "Cartoon Network Latin America South Pacific",
+    "url": "http://45.167.1.138:8000/play/a00w",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CarubanTV.id",
+    "feed": "HD",
+    "title": "Caruban TV",
+    "url": "https://stream.carubantv.id/hls/0/stream.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": "https://stream.carubantv.id"
+  },
+  {
+    "channel": "CasaItalia53.it",
+    "feed": "SD",
+    "title": "Casa Italia 53",
+    "url": "https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CascaraTV.do",
+    "feed": "SD",
+    "title": "Cascara TV",
+    "url": "https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
