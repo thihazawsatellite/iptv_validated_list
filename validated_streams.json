@@ -99180,5 +99180,317 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "UVATV.do",
+    "feed": "HD",
+    "title": "UVA TV",
+    "url": "https://www.uvatvhd.com/hls.php?file=live.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "UzReportTV.uz",
+    "feed": "SD",
+    "title": "UzReport TV",
+    "url": "https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "V2BEATTV.uk",
+    "feed": "SD",
+    "title": "V2BEAT",
+    "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "V6News.in",
+    "feed": "SD",
+    "title": "V6 News",
+    "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "V6News.in",
+    "feed": "SD",
+    "title": "V6 News",
+    "url": "https://mumt05.tangotv.in/87NeALx2V6NEWS/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "V6News.in",
+    "feed": "SD",
+    "title": "V6 News",
+    "url": "https://d1rc86nwwc9fag.cloudfront.net/140622/v6newsdev/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "V6News.in",
+    "feed": "SD",
+    "title": "V6 News",
+    "url": "https://mumbai-edge.smartplaytv.in/V6News/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "V6News.in",
+    "feed": "SD",
+    "title": "V6 News",
+    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/V6News.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "V6News.in",
+    "feed": "SD",
+    "title": "V6 News",
+    "url": "https://cdn.pishow.tv/ott/live/389/master.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "V90.pl",
+    "feed": "SD",
+    "title": "V90",
+    "url": "http://57.128.231.171:8080/228/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VaanavilTV.in",
+    "feed": "SD",
+    "title": "Vaanavil TV",
+    "url": "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VaanavilTV.in",
+    "feed": "SD",
+    "title": "Vaanavil TV",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3VAANAVILTV/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VacationChannel.il",
+    "feed": "SD",
+    "title": "Vacation Channel",
+    "url": "https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ValamTVDayro.in",
+    "feed": "SD",
+    "title": "Valam TV Dayro",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ValeTV.ve",
+    "feed": "SD",
+    "title": "Vale TV",
+    "url": "https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8",
+    "quality": "480p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ValleNuevoTV.do",
+    "feed": "SD",
+    "title": "Valle Nuevo TV",
+    "url": "https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Vallevision.do",
+    "feed": "SD",
+    "title": "Vallevision Canal 10",
+    "url": "https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Value24TV.it",
+    "feed": "SD",
+    "title": "Value 24 TV",
+    "url": "https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VAMTV.cw",
+    "feed": "SD",
+    "title": "VAM Vid's & More",
+    "url": "https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Van65TV.tr",
+    "feed": "SD",
+    "title": "Van 65 TV",
+    "url": "https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VanithaTV.in",
+    "feed": "SD",
+    "title": "Vanitha TV",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3VANITHA/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VanithaTV.in",
+    "feed": "SD",
+    "title": "Vanitha TV",
+    "url": "https://cdn.pishow.tv/ott/live/393/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VasanthTV.in",
+    "feed": "SD",
+    "title": "Vasanth TV",
+    "url": "https://mumt04.tangotv.in/m18aqlK4VASANTHTV/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VasarhelyiTelevizio.hu",
+    "feed": "SD",
+    "title": "V\u00e1s\u00e1rhelyi Telev\u00edzi\u00f3",
+    "url": "https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VatiLao.la",
+    "feed": "SD",
+    "title": "Vati Lao TV",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VBMediaTV.mx",
+    "feed": "SD",
+    "title": "VB Media TV",
+    "url": "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VBSTV.us",
+    "feed": "SD",
+    "title": "VBS TV",
+    "url": "https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8",
+    "quality": "480p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VClassicTV.cl",
+    "feed": "SD",
+    "title": "V Classic TV",
+    "url": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VCV.in",
+    "feed": "SD",
+    "title": "VCV",
+    "url": "https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VeaCanal.gt",
+    "feed": "SD",
+    "title": "Vea Canal",
+    "url": "http://181.78.106.127:5000/play/ca090/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
