@@ -28698,5 +28698,409 @@
     ],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "CNBCUK.uk",
+    "feed": "SD",
+    "title": "CNBC",
+    "url": "https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CNCBugavision.co",
+    "feed": "SD",
+    "title": "CNC Bugavisi\u00f3n",
+    "url": "https://movil.ejeserver.com/live/cncbuga.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CNCBugavision.co",
+    "feed": "SD",
+    "title": "CNC Bugavisi\u00f3n",
+    "url": "https://video.ejeserver.com/live/cncbuga.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CNCMedellin.co",
+    "feed": "HD",
+    "title": "CNC Medellin",
+    "url": "http://138.94.3.106:8000/play/a02o/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CNCPereira.co",
+    "feed": "SD",
+    "title": "CNC Pereira",
+    "url": "https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CNCSantanderdeQuilichao.co",
+    "feed": "SD",
+    "title": "CNC Santander de Quilichao",
+    "url": "https://movil.ejeserver.com/live/cncsantander.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CNCSantanderdeQuilichao.co",
+    "feed": "SD",
+    "title": "CNC Santander de Quilichao",
+    "url": "https://video.ejeserver.com/live/cncsantander.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CNCTulua.co",
+    "feed": "SD",
+    "title": "CNC Tulua",
+    "url": "https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CNCValledupar.co",
+    "feed": "SD",
+    "title": "CNC Valledupar",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CNews.fr",
+    "feed": "SD",
+    "title": "CNews",
+    "url": "https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CNews.fr",
+    "feed": "SD",
+    "title": "CNews",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CnewsBharat.in",
+    "feed": "SD",
+    "title": "Cnews Bharat",
+    "url": "https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CNEWSPRIME.fr",
+    "feed": "HD",
+    "title": "CNEWS PRIME",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CNN.us",
+    "feed": "HD",
+    "title": "CNN HD",
+    "url": "http://212.5.144.156:8080/cnn/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CNN.us",
+    "feed": "SD",
+    "title": "CNN",
+    "url": "https://tvsen6.aynaott.com/cnn/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CNNBrasil.br",
+    "feed": "SD",
+    "title": "CNN Brasil",
+    "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CNNChile.cl",
+    "feed": "SD",
+    "title": "CNN Chile",
+    "url": "http://190.110.96.238:8000/play/a0f5/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CNNenEspanol.us",
+    "feed": "SD",
+    "title": "CNN en Espanol",
+    "url": "https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CNNenEspanol.us",
+    "feed": "SD",
+    "title": "CNN en Espanol",
+    "url": "https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CNNInternational.us",
+    "feed": "Europe",
+    "title": "CNN International",
+    "url": "http://88.212.15.17/live/test_cnn_1200_atk/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CNNInternational.us",
+    "feed": "LatinAmerica",
+    "title": "CNN International Latin America",
+    "url": "http://168.228.44.241:9997/play/a073/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CNNNews18.in",
+    "feed": "SD",
+    "title": "CNN News 18",
+    "url": "https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CNNOriginals.us",
+    "feed": "SD",
+    "title": "CNN Originals",
+    "url": "https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CNNPortugal.pt",
+    "feed": "SD",
+    "title": "CNN Portugal",
+    "url": "https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CNNPrimaNews.cz",
+    "feed": "SD",
+    "title": "CNN Prima News",
+    "url": "http://88.212.15.17/live/test_cnn_pirma_news/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CNTMasTV.do",
+    "feed": "HD",
+    "title": "CNT Mas TV",
+    "url": "https://edge.essastream.com/cntmas/tracks-v1a1/mono.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "COCOTV.do",
+    "feed": "SD",
+    "title": "COCO TV",
+    "url": "https://edge.essastream.com/canalcocotv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CodeFashionTV.bg",
+    "feed": "SD",
+    "title": "Code Fashion TV",
+    "url": "https://cdn2.invivo.bg/Codefashion_5500/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CodeHealthTV.bg",
+    "feed": "SD",
+    "title": "Code Health TV",
+    "url": "https://cdn2.invivo.bg/codehealth_test/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CodigoTV.do",
+    "feed": "HD",
+    "title": "Codigo TV",
+    "url": "https://edge.essastream.com/codigotv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ColdCaseFiles.us",
+    "feed": "SD",
+    "title": "Cold Case Files",
+    "url": "https://pb-ab2qxzv3xf291.akamaized.net/Cold_Case_Files.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ColdCaseFiles.us",
+    "feed": "SD",
+    "title": "Cold Case Files",
+    "url": "https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ColimdoTV.do",
+    "feed": "SD",
+    "title": "ColimdoT TV",
+    "url": "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ColomeTV.do",
+    "feed": "HD",
+    "title": "Colome TV",
+    "url": "https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8",
+    "quality": null,
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Colors.in",
+    "feed": "HD",
+    "title": "Colors HD",
+    "url": "http://103.151.60.162:2122/play/a02q/index.m3u8?hls",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Colors.in",
+    "feed": "HD",
+    "title": "Colors HD",
+    "url": "http://103.135.253.32:8080/Color-HD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Colors.in",
+    "feed": "SD",
+    "title": "Colors",
+    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ColorsBangla.in",
+    "feed": "HD",
+    "title": "Colors Bangla HD",
+    "url": "http://103.151.60.162:2122/play/a02o/index.m3u8?hls",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ColorsBanglaCinema.in",
+    "feed": "SD",
+    "title": "Colors Bangla Cinema",
+    "url": "http://103.151.60.162:2122/play/a02m/index.m3u8?hls",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
