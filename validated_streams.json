@@ -97838,5 +97838,199 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "VevoCountry.us",
+    "feed": "SD",
+    "title": "Vevo Country",
+    "url": "https://pb-xrdbj9zdgm6ez.akamaized.net/Vevo_Country.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VevoHipHop.us",
+    "feed": "SD",
+    "title": "Vevo Hip Hop",
+    "url": "https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VevoLatino.us",
+    "feed": "SD",
+    "title": "Vevo Latino",
+    "url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VevoLatino.us",
+    "feed": "SD",
+    "title": "Vevo Latino",
+    "url": "https://d1vgg34wqvwdqj.cloudfront.net/Vevo_Latino.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VevoPop.us",
+    "feed": "SD",
+    "title": "Vevo Pop",
+    "url": "https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VevoPop.us",
+    "feed": "SD",
+    "title": "Vevo Pop",
+    "url": "https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VevoPop.us",
+    "feed": "SD",
+    "title": "Vevo Pop",
+    "url": "https://d2n5ee9u100agb.cloudfront.net/Vevo_Pop.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VevoRB.us",
+    "feed": "SD",
+    "title": "Vevo R&B",
+    "url": "https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VevoRetroRock.us",
+    "feed": "SD",
+    "title": "Vevo Retro Rock",
+    "url": "https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Vgostyakhuskazki.ru",
+    "feed": "SD",
+    "title": "V gostyakh u skazki",
+    "url": "http://stream.mcquack.net/93/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Vgostyakhuskazki.ru",
+    "feed": "SD",
+    "title": "V gostyakh u skazki",
+    "url": "https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ViaAltomayo.pe",
+    "feed": "SD",
+    "title": "V\u00eda Altomayo",
+    "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ViaMatele.fr",
+    "feed": "SD",
+    "title": "Vi\u00e0Mat\u00e9l\u00e9",
+    "url": "https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ViasatEpicDrama.uk",
+    "feed": "Poland",
+    "title": "Viasat Epic Drama Poland",
+    "url": "http://92.114.85.87:8001/play/a00x/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ViasatEpicDrama.uk",
+    "feed": "Ukraine",
+    "title": "Viasat Epic Drama Ukraine",
+    "url": "http://195.189.60.253/118/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ViasatExplore.bg",
+    "feed": "SD",
+    "title": "Viasat Explore",
+    "url": "https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "ViasatExplore.ua",
+    "feed": "SD",
+    "title": "Viasat Explore",
+    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMyOTgmc3Q9eWVMNVRuX0tiUlAwVWd0UjctYTBMZw%3D%3D&master=79",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "referrer": "http://live.tvstitch.com/"
+  },
+  {
+    "channel": "ViasatHistory.bg",
+    "feed": "SD",
+    "title": "Viasat History",
+    "url": "https://shift03.isp.bg/ViasatHistory_HD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "ViasatHistory.ua",
+    "feed": "SD",
+    "title": "Viasat History",
+    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "referrer": "http://live.tvstitch.com/"
   }
 ]
