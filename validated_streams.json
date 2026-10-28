@@ -44456,5 +44456,263 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "HellsKitchen.us",
+    "feed": "UK",
+    "title": "Hell's Kitchen",
+    "url": "https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HellsKitchen.us",
+    "feed": "UK",
+    "title": "Hell's Kitchen",
+    "url": "https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HellsKitchen.us",
+    "feed": "UK",
+    "title": "Hell's Kitchen",
+    "url": "https://pb-lf7eocnc8ua2e.akamaized.net/Hells_Kitchen_SONO10.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HermanasMirabalTV.do",
+    "feed": "SD",
+    "title": "Hermanas Mirabal TV",
+    "url": "https://fox.hostlagarto.com:8081/hmtv/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HeviziTV.hu",
+    "feed": "SD",
+    "title": "H\u00e9v\u00edzi TV",
+    "url": "https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HGTV.cz",
+    "feed": "SD",
+    "title": "HGTV",
+    "url": "http://88.212.15.50/live/test_hgtv_hevc_25p/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HGTV.hu",
+    "feed": "SD",
+    "title": "HGTV",
+    "url": "http://88.212.7.14/live/hgtv_hun/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HGTV.it",
+    "feed": "SD",
+    "title": "HGTV",
+    "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HGTV.nz",
+    "feed": "SD",
+    "title": "HGTV",
+    "url": "https://mediapackage-sky-hgtv-source.fullscreen.nz/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HGTVLatinAmerica.us",
+    "feed": "Panregional",
+    "title": "HGTV Latin America",
+    "url": "http://38.87.224.19:2220/play/a01p/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Hidabroot.il",
+    "feed": "SD",
+    "title": "Hidabroot",
+    "url": "https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HiDost.in",
+    "feed": "SD",
+    "title": "Hi Dost!",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HiDost.in",
+    "feed": "SD",
+    "title": "Hi Dost!",
+    "url": "https://cdn.pishow.tv/ott/live/224/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HighNews.in",
+    "feed": "SD",
+    "title": "High News",
+    "url": "https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HighTV.gr",
+    "feed": "SD",
+    "title": "High TV",
+    "url": "http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HighVisionTV.us",
+    "feed": "SD",
+    "title": "High Vision",
+    "url": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HillsboroughTV.us",
+    "feed": "SD",
+    "title": "Hillsborough County TV HTV (Hillsborough County FL)",
+    "url": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HimlenTV7.fi",
+    "feed": "SD",
+    "title": "Himlen TV7",
+    "url": "https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HindiHits.in",
+    "feed": "SD",
+    "title": "Hindi Hits",
+    "url": "https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HindiKhabar.in",
+    "feed": "SD",
+    "title": "Hindi Khabar",
+    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/hindikhabar/playlist.m3u8",
+    "quality": "396p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HindiKhabar.in",
+    "feed": "SD",
+    "title": "Hindi Khabar",
+    "url": "https://mumt04.tangotv.in/m18aqlK4HINDIKHABAR/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HindiKhabar.in",
+    "feed": "SD",
+    "title": "Hindi Khabar",
+    "url": "https://stream.ottlive.co.in/hindikhabar/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HindiKhabar.in",
+    "feed": "SD",
+    "title": "Hindi Khabar",
+    "url": "https://cdn.pishow.tv/ott/live/1041/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HinduDharmam.in",
+    "feed": "SD",
+    "title": "Hindu Dharmam",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3HINDUDHARMAM/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HinduDharmam.in",
+    "feed": "SD",
+    "title": "Hindu Dharmam",
+    "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:hindudharmam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
