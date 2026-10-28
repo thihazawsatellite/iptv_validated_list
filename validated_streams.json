@@ -14617,5 +14617,323 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "India",
+    "title": "Angel TV",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3ANGELTVHD/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "India",
+    "title": "Angel TV",
+    "url": "https://mumbai-edge.smartplaytv.in/AngelTV/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "India",
+    "title": "Angel TV",
+    "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:angeltv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "India",
+    "title": "Angel TV",
+    "url": "https://cdn.pishow.tv/ott/live/453/master.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "IndoChina",
+    "title": "Angel TV Indo-China",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "Indonesia",
+    "title": "Angel TV Indonesia",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "Nepal",
+    "title": "Angel TV Nepal",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-109639/nepali/ngrp:angelnepali_all/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "Portuguese",
+    "title": "Angel TV Portuguese",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "Russian",
+    "title": "Angel TV Russian",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "Spanish",
+    "title": "Angel TV Spanish",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngerManagementChannel.us",
+    "feed": "SD",
+    "title": "Anger Management Channel",
+    "url": "https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngerManagementChannel.us",
+    "feed": "SD",
+    "title": "Anger Management Channel",
+    "url": "https://aegis-cloudfront-1.tubi.video/0a019247-55a2-4b3e-8b62-b84c9cbd5b12/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnhuiTV.cn",
+    "feed": "SD",
+    "title": "Anhui TV",
+    "url": "https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Ani.ru",
+    "feed": "SD",
+    "title": "Ani",
+    "url": "http://stream.mcquack.net/306/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnimalPlanet.cz",
+    "feed": "SD",
+    "title": "Animal Planet",
+    "url": "http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnimalPlanet.hu",
+    "feed": "SD",
+    "title": "Animal Planet",
+    "url": "http://88.212.7.14/live/animal_hun/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnimalPlanet.in",
+    "feed": "HD",
+    "title": "Animal Planet HD",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnimalPlanet.in",
+    "feed": "SD",
+    "title": "Animal Planet",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnimalPlanet.ru",
+    "feed": "SD",
+    "title": "Animal Planet",
+    "url": "http://stream.mcquack.net/114/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnimalPlanet.us",
+    "feed": "East",
+    "title": "Animal Planet",
+    "url": "http://23.239.31.26:8989/animalplanet/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnimalPlanet.us",
+    "feed": "East",
+    "title": "Animal Planet",
+    "url": "http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnimalPlanetLatinAmerica.us",
+    "feed": "SD",
+    "title": "Animal Planet Latin America",
+    "url": "http://190.128.214.97:64333/play/a01n/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnimationPlus.us",
+    "feed": "SD",
+    "title": "Animation+",
+    "url": "https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnimaxAsia.sg",
+    "feed": "India",
+    "title": "Animax Asia India",
+    "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnimaxAsia.sg",
+    "feed": "Taiwan",
+    "title": "Animax Asia Taiwan",
+    "url": "http://125.227.210.55:3056/VideoInput/play.ts",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnimexHIDIVE.us",
+    "feed": "SD",
+    "title": "ANIME x HIDIVE",
+    "url": "https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AniplusAsia.sg",
+    "feed": "SD",
+    "title": "Aniplus Asia",
+    "url": "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnjanTV.in",
+    "feed": "SD",
+    "title": "Anjan TV",
+    "url": "https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnjanTV.in",
+    "feed": "SD",
+    "title": "Anjan TV",
+    "url": "https://mumt06.tangotv.in/qYyB8fXVANJANTV/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnjanTV.in",
+    "feed": "SD",
+    "title": "Anjan TV",
+    "url": "https://cdn.pishow.tv/ott/live/993/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnmolTV.in",
+    "feed": "SD",
+    "title": "Anmol TV",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
