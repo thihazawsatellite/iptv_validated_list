@@ -92542,5 +92542,273 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "TNN16.th",
+    "feed": "SD",
+    "title": "TNN16",
+    "url": "https://live-us1.thaimomo.com/live-as/chtnn24-2/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TNORadio.ve",
+    "feed": "SD",
+    "title": "TNO Radio",
+    "url": "https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TNPNews.in",
+    "feed": "SD",
+    "title": "TNP News",
+    "url": "https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TNT4.ru",
+    "feed": "SD",
+    "title": "TNT4",
+    "url": "http://flussonic.linkintel.ru/tnt4/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TNT4.ru",
+    "feed": "SD",
+    "title": "TNT4",
+    "url": "http://stream.mcquack.net/106/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TNT4.ru",
+    "feed": "SD",
+    "title": "\u0422\u041d\u04224",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8",
+    "quality": "450p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": "WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer",
+    "referrer": null
+  },
+  {
+    "channel": "TNT.ru",
+    "feed": "SD",
+    "title": "TNT SD",
+    "url": "http://stream.mcquack.net/135/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TNT.ru",
+    "feed": "SD",
+    "title": "TNT",
+    "url": "http://flussonic.linkintel.ru/tnt/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TNT.ru",
+    "feed": "SD",
+    "title": "TNT",
+    "url": "http://176.118.197.101/THT/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TNT.ru",
+    "feed": "SD",
+    "title": "TNT",
+    "url": "http://31.148.5.241/kanal_19/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TNT.ru",
+    "feed": "SD",
+    "title": "\u0422\u041d\u0422",
+    "url": "https://streaming.televizor-24-tochka.ru/live/38.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TNT.ru",
+    "feed": "SD",
+    "title": "\u0422\u041d\u0422",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8",
+    "quality": "540p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": "WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",
+    "referrer": null
+  },
+  {
+    "channel": "TNT.us",
+    "feed": "East",
+    "title": "TNT",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TNT.us",
+    "feed": "West",
+    "title": "TNT West",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TNTLatinAmerica.us",
+    "feed": "Argentina",
+    "title": "TNT Latin America Argentina",
+    "url": "http://45.134.141.161:2200/ARG/TNT/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TNTLatinAmerica.us",
+    "feed": "Colombia",
+    "title": "TNT Latin America Colombia",
+    "url": "http://181.78.211.244:8005/play/a09g/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TNTNovelas.us",
+    "feed": "Brazil",
+    "title": "TNT Novelas Brazil",
+    "url": "http://45.162.64.114/TNT_NOVELAS/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TNTNovelas.us",
+    "feed": "Colombia",
+    "title": "TNT Novelas Colombia",
+    "url": "http://190.61.47.54:8000/play/a02f/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TNTNovelas.us",
+    "feed": "Panregional",
+    "title": "TNT Novelas",
+    "url": "http://158.172.155.130:8000/play/a0at/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TNTSeriesLatinAmerica.us",
+    "feed": "Panregional",
+    "title": "TNT Series Latin America",
+    "url": "http://168.196.127.137:6001/play/a095/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TNVPlanet.ru",
+    "feed": "SD",
+    "title": "TNV-Planet",
+    "url": "https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TNVPlanet.ru",
+    "feed": "SD",
+    "title": "\u0422\u041d\u0412-\u041f\u043b\u0430\u043d\u0435\u0442\u0430 (\u041a\u0430\u0437\u0430\u043d\u044c)",
+    "url": "https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TNVTatarstan.ru",
+    "feed": "SD",
+    "title": "TNV-Tatarstan",
+    "url": "https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Tochkaotryva.ru",
+    "feed": "SD",
+    "title": "Tochka otryva",
+    "url": "https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TochkaRF.ru",
+    "feed": "SD",
+    "title": "Tochka RF",
+    "url": "http://stream.mcquack.net/161/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TODAYAllDay.us",
+    "feed": "SD",
+    "title": "TODAY All Day",
+    "url": "https://d37kx062o4ii0p.cloudfront.net/master.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
