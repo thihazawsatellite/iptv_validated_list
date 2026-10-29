@@ -31986,5 +31986,475 @@
     "labels": [],
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
     "referrer": null
+  },
+  {
+    "channel": "DDChhattisgarh.in",
+    "feed": "SD",
+    "title": "DD Chhattisgarh",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/5078083881bc489ea14f4c85e7abe4d6/index.m3u8",
+    "quality": "504p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDChhattisgarh.in",
+    "feed": "SD",
+    "title": "DD Chhattisgarh",
+    "url": "https://cdn.pishow.tv/ott/live/15/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDGirnar.in",
+    "feed": "SD",
+    "title": "DD Girnar",
+    "url": "https://fta.ektv.in/live/368/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "DDGirnar.in",
+    "feed": "SD",
+    "title": "DD Girnar",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/558fdb9aebb54bb5bbbf0ced03686148/index.m3u8",
+    "quality": "504p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDGoa.in",
+    "feed": "SD",
+    "title": "DD Goa",
+    "url": "https://fta.ektv.in/live/367/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "DDGoa.in",
+    "feed": "SD",
+    "title": "DD Goa",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8",
+    "quality": "504p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDHaryana.in",
+    "feed": "SD",
+    "title": "DD Haryana",
+    "url": "https://fta.ektv.in/live/580/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "DDHaryana.in",
+    "feed": "SD",
+    "title": "DD Haryana",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8",
+    "quality": "504p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDHimachalPradesh.in",
+    "feed": "SD",
+    "title": "DD Himachal Pradesh",
+    "url": "https://fta.ektv.in/live/575/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "DDHimachalPradesh.in",
+    "feed": "SD",
+    "title": "DD Himachal Pradesh",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8",
+    "quality": "504p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDIndia.in",
+    "feed": "SD",
+    "title": "DD India",
+    "url": "https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chunks.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDIndia.in",
+    "feed": "SD",
+    "title": "DD India",
+    "url": "https://mumt05.tangotv.in/87NeALx2DDINDIA/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDIndia.in",
+    "feed": "SD",
+    "title": "DD India",
+    "url": "https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDIndia.in",
+    "feed": "SD",
+    "title": "DD India",
+    "url": "https://mumbai-edge.smartplaytv.in/DDIndia/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDIndia.in",
+    "feed": "SD",
+    "title": "DD India",
+    "url": "https://fta.ektv.in/live/119/119_0.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "DDIndia.in",
+    "feed": "SD",
+    "title": "DD India",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDIndia.in",
+    "feed": "SD",
+    "title": "DD India (no logo)",
+    "url": "https://cdn.pishow.tv/ott/live/23/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDJharkhand.in",
+    "feed": "SD",
+    "title": "DD Jharkhand",
+    "url": "https://cdn.pishow.tv/ott/live/1617/master.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDJharkhand.in",
+    "feed": "SD",
+    "title": "DD Jharkhand",
+    "url": "https://fta.ektv.in/live/573/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "DDJharkhand.in",
+    "feed": "SD",
+    "title": "DD Jharkhand",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e8c3741f8c154d3185831f4e31777fb2/index.m3u8",
+    "quality": "504p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDKashir.in",
+    "feed": "SD",
+    "title": "DD Kashir",
+    "url": "https://cdn.pishow.tv/ott/live/16/master.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDKashir.in",
+    "feed": "SD",
+    "title": "DD Kashir",
+    "url": "https://fta.ektv.in/live/248/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "DDKashir.in",
+    "feed": "SD",
+    "title": "DD Kashir",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8",
+    "quality": "504p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDKisan.in",
+    "feed": "SD",
+    "title": "DD Kisan",
+    "url": "https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDKisan.in",
+    "feed": "SD",
+    "title": "DD Kisan",
+    "url": "https://cdn.pishow.tv/ott/live/223/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDKisan.in",
+    "feed": "SD",
+    "title": "DD Kisan",
+    "url": "https://fta.ektv.in/live/148/148_0.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "DDKisan.in",
+    "feed": "SD",
+    "title": "DD Kisan",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8",
+    "quality": "504p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDKisan.in",
+    "feed": "SD",
+    "title": "DD Kisan",
+    "url": "https://cdn.pishow.tv/ott/live/9/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDMadhyaPradesh.in",
+    "feed": "SD",
+    "title": "DD Madhya Pradesh",
+    "url": "https://mumbai-edge.smartplaytv.in/ddmadhyapradesh/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDMadhyaPradesh.in",
+    "feed": "SD",
+    "title": "DD Madhya Pradesh",
+    "url": "https://fta.ektv.in/live/578/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "DDMadhyaPradesh.in",
+    "feed": "SD",
+    "title": "DD Madhya Pradesh",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b5256b391a7c4ae6977535b73fd6f591/index.m3u8",
+    "quality": "504p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDMadhyaPradesh.in",
+    "feed": "SD",
+    "title": "DD Madhya Pradesh",
+    "url": "https://cdn.pishow.tv/ott/live/31/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDMalayalam.in",
+    "feed": "SD",
+    "title": "DD Malayalam",
+    "url": "https://fta.ektv.in/live/680/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "DDMalayalam.in",
+    "feed": "SD",
+    "title": "DD Malayalam",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8",
+    "quality": "504p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDManipur.in",
+    "feed": "SD",
+    "title": "DD Manipur",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8",
+    "quality": "504p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDMeghalaya.in",
+    "feed": "SD",
+    "title": "DD Meghalaya",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8",
+    "quality": "504p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDMizoram.in",
+    "feed": "SD",
+    "title": "DD Mizoram",
+    "url": "https://fta.ektv.in/live/381/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "DDMizoram.in",
+    "feed": "SD",
+    "title": "DD Mizoram",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8",
+    "quality": "504p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDNagaland.in",
+    "feed": "SD",
+    "title": "DD Nagaland",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8",
+    "quality": "504p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDNational.in",
+    "feed": "HD",
+    "title": "DD National HD",
+    "url": "https://streams.tangotv.in/DDNATIONALHD/ORIGIN/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDNational.in",
+    "feed": "HD",
+    "title": "DD National HD",
+    "url": "https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDNational.in",
+    "feed": "HD",
+    "title": "DD National HD",
+    "url": "https://fta.ektv.in/live/15/master.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "DDNational.in",
+    "feed": "HD",
+    "title": "DD National HD",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDNational.in",
+    "feed": "SD",
+    "title": "DD National SD",
+    "url": "https://cdn.pishow.tv/ott/live/11/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDNews.in",
+    "feed": "HD",
+    "title": "DD News HD",
+    "url": "https://fta.ektv.in/live/117/117_0.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "DDNews.in",
+    "feed": "HD",
+    "title": "DD News HD",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDNews.in",
+    "feed": "SD",
+    "title": "DD News",
+    "url": "https://streams.tangotv.in/DDNEWS/ORIGIN/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
