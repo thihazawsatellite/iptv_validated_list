@@ -64156,5 +64156,377 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "NewsmaxTV.us",
+    "feed": "SD",
+    "title": "Newsmax TV",
+    "url": "https://dash3.antik.sk/live/test_newsmax_avc/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NewsmaxTV.us",
+    "feed": "SD",
+    "title": "Newsmax TV",
+    "url": "https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NewsmaxTV.us",
+    "feed": "SD",
+    "title": "Newsmax TV",
+    "url": "https://amg00217-newsmax-amg00217c2-zeasn-us-2412.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxn1-zeasnus/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NewsmaxTV.us",
+    "feed": "SD",
+    "title": "Newsmax TV",
+    "url": "https://a-cdn.klowdtv.com/live2/newsmax_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NewsNation81.in",
+    "feed": "SD",
+    "title": "News Nation 81",
+    "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NewsNation.in",
+    "feed": "SD",
+    "title": "News Nation",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NewsNation.in",
+    "feed": "SD",
+    "title": "News Nation",
+    "url": "https://cdn.pishow.tv/ott/live/1493/master.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NewsNation.in",
+    "feed": "SD",
+    "title": "News Nation",
+    "url": "https://streams.tangotv.in/NEWSNATION/ORIGIN/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NewsNation.in",
+    "feed": "SD",
+    "title": "News Nation",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NewsNation.in",
+    "feed": "SD",
+    "title": "News Nation",
+    "url": "https://nn-nextg.originein.in/nntv/national/master_nnna_nextg.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NewsNation.in",
+    "feed": "SD",
+    "title": "News Nation",
+    "url": "https://janya-newsnation.vgcdn.net/ptnr-yupptv/title-NewsNation/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22ee70b6-57e0-4e80-8e18-4737adf55e8a/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NewsNation.in",
+    "feed": "SD",
+    "title": "News Nation",
+    "url": "https://fta.ektv.in/live/93/93_0.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "NewsoftheWorld.us",
+    "feed": "Arabic",
+    "title": "NOW News Arabic",
+    "url": "https://live.nowtelly.com/now_arabic/live/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NewsoftheWorld.us",
+    "feed": "Spanish",
+    "title": "NOW News Spanish",
+    "url": "https://live.nowtelly.com/now_spanish/live/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NewsoftheWorld.us",
+    "feed": "USA",
+    "title": "NOW News USA",
+    "url": "https://live.nowtelly.com/now_usa/live_usa/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NewsOne.pk",
+    "feed": "SD",
+    "title": "News One",
+    "url": "https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NewsStateMPCHG.in",
+    "feed": "SD",
+    "title": "News State MP & CHG",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWSSTATEMPCG/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NewsStateMPCHG.in",
+    "feed": "SD",
+    "title": "News State MP & CHG",
+    "url": "https://fta.ektv.in/live/305/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "NewsStatePunjabHaryanaHimachal.in",
+    "feed": "SD",
+    "title": "News State Punjab Haryana Himachal",
+    "url": "https://fta.ektv.in/live/732/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "NewsStateUPUK.in",
+    "feed": "SD",
+    "title": "News State UP & UK",
+    "url": "https://fta.ektv.in/live/302/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "NewsTamil24x7.in",
+    "feed": "SD",
+    "title": "News Tamil 24x7",
+    "url": "https://cdn.pishow.tv/ott/live/1433/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NewsTamil24x7.in",
+    "feed": "SD",
+    "title": "News Tamil 24x7",
+    "url": "https://streams.tangotv.in/NEWSTAMIL24X7/ORIGIN/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NewsWorld.hk",
+    "feed": "FAST",
+    "title": "NewsWorld",
+    "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NewsX.in",
+    "feed": "SD",
+    "title": "NewsX",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NewsX.in",
+    "feed": "SD",
+    "title": "NewsX",
+    "url": "https://cdn.pishow.tv/ott/live/1765/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NewsX.in",
+    "feed": "SD",
+    "title": "NewsX",
+    "url": "https://fta.ektv.in/live/603/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "NewsXWorld.in",
+    "feed": "HD",
+    "title": "NewsX World",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NewsXWorld.in",
+    "feed": "HD",
+    "title": "NewsX World",
+    "url": "https://cdn.pishow.tv/ott/live/1049/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NewsXWorld.in",
+    "feed": "HD",
+    "title": "NewsX World",
+    "url": "https://fta.ektv.in/live/610/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Newsy.us",
+    "feed": "SD",
+    "title": "Newsy",
+    "url": "https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NewTV.pl",
+    "feed": "SD",
+    "title": "NewTV",
+    "url": "https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NewTV.pl",
+    "feed": "SD",
+    "title": "NewTV",
+    "url": "https://1409502578.rsc.cdn77.org/live/stream-1/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NextHD.py",
+    "feed": "SD",
+    "title": "Next HD",
+    "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NexTVCanal21.pa",
+    "feed": "SD",
+    "title": "Nex TV Canal 21",
+    "url": "https://movil.ejeserver.com/live/nextv.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NexusTV.bd",
+    "feed": "SD",
+    "title": "Nexus TV",
+    "url": "https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NexxoTV.do",
+    "feed": "SD",
+    "title": "Nexxo TV",
+    "url": "https://5790d294af2dc.streamlock.net/Nexxo/Nexxo/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NFLChannel.us",
+    "feed": "SD",
+    "title": "NFL Channel",
+    "url": "https://pb-we3ltka9xobj6.akamaized.net/master.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
   }
 ]
