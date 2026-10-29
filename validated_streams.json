@@ -28168,5 +28168,269 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "CiftciTV.tr",
+    "feed": "SD",
+    "title": "\u00c7ift\u00e7i TV",
+    "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CINDIETV.br",
+    "feed": "HD",
+    "title": "CINDIE TV",
+    "url": "https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "cinebox.bg",
+    "feed": "SD",
+    "title": "cine.box",
+    "url": "http://212.70.131.37:8000/play/a08b",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null
+  },
+  {
+    "channel": "Cinecanal.us",
+    "feed": "Pacific",
+    "title": "Cinecanal Pacific",
+    "url": "http://138.121.15.230:9002/CINECANAL/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cinecanal.us",
+    "feed": "Panregional",
+    "title": "Cinecanal",
+    "url": "http://190.61.47.54:8000/play/a02z/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cinecanal.us",
+    "feed": "Panregional",
+    "title": "Cinecanal",
+    "url": "https://barinaslive1.boldmss.com/CINECANAL/CINECANAL.isml/CINECANAL.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineFriki.es",
+    "feed": "SD",
+    "title": "Zylo Cine Friki",
+    "url": "https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineJomjomat.in",
+    "feed": "SD",
+    "title": "Cine Jomjomat",
+    "url": "https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13779-amg13779c1-amgplt0016/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineLatino.mx",
+    "feed": "SD",
+    "title": "CineLatino",
+    "url": "http://200.115.96.61:9090/play/a0i5/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineLatino.mx",
+    "feed": "SD",
+    "title": "CineLatino",
+    "url": "http://168.196.127.137:6001/play/a08o/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cinema.mn",
+    "feed": "SD",
+    "title": "Cinema",
+    "url": "https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Cinema.mn",
+    "feed": "SD",
+    "title": "Cinema",
+    "url": "https://cdn1.skygo.mn/live/disk1/CinemaTV/HLS-FTA/CinemaTV.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Cinema.mn",
+    "feed": "SD",
+    "title": "Cinema",
+    "url": "https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Cinema.ru",
+    "feed": "SD",
+    "title": "Cinema",
+    "url": "https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cinema.ru",
+    "feed": "SD",
+    "title": "Cinema",
+    "url": "http://flussonic.linkintel.ru/cinema/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CinemaratonPlus.ro",
+    "feed": "HD",
+    "title": "Cinemaraton Plus",
+    "url": "https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8",
+    "quality": "1080i",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CinemaWorld.my",
+    "feed": "SD",
+    "title": "CinemaWorld",
+    "url": "https://cdn.qd.je/163189/cinemaworld",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cinemax2.cz",
+    "feed": "Czechia",
+    "title": "Cinemax 2",
+    "url": "http://88.212.15.50/live/test_cinemax2_hd_hevc/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cinemax.cz",
+    "feed": "Czechia",
+    "title": "Cinemax",
+    "url": "http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cinemax.us",
+    "feed": "West",
+    "title": "Cinemax West",
+    "url": "http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CinemaxAsia.sg",
+    "feed": "HD",
+    "title": "Cinemax Asia HD",
+    "url": "http://125.227.210.55:1001/VideoInput/play.ts",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CinemaxAsia.sg",
+    "feed": "SD",
+    "title": "Cinemax Asia",
+    "url": "https://tinyurl.com/44efw2rx",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CinemaxClassics.us",
+    "feed": "East",
+    "title": "Cinemax Classics",
+    "url": "http://23.237.104.106:8080/USA_5STARMAX/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CinemaxHits.us",
+    "feed": "East",
+    "title": "Cinemax Hits",
+    "url": "http://23.237.104.106:8080/USA_MOREMAX/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CinemaxLatinAmerica.us",
+    "feed": "SD",
+    "title": "Cinemax Latin America",
+    "url": "https://streaming.onnethn.com/CINEMAX/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineNanar.fr",
+    "feed": "SD",
+    "title": "Zylo Cin\u00e9 Nanar",
+    "url": "https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
