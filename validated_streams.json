@@ -39014,5 +39014,339 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "ExpresaTV.mx",
+    "feed": "SD",
+    "title": "Expresa TV",
+    "url": "https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ExpressenTV.se",
+    "feed": "SD",
+    "title": "Expressen TV",
+    "url": "https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Extra86TV.do",
+    "feed": "HD",
+    "title": "Extra 86 TV",
+    "url": "https://video-eu1.streamerr.co/hls/sb77f834a54/live.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ExtremaKidsTV.cr",
+    "feed": "HD",
+    "title": "Extrema Kids TV",
+    "url": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8",
+    "quality": null,
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ExtremaTV.cr",
+    "feed": "SD",
+    "title": "Extrema TV",
+    "url": "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ExtremaTV.us",
+    "feed": "SD",
+    "title": "Extrema TV",
+    "url": "http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "F1Channel.ie",
+    "feed": "US",
+    "title": "F1 Channel",
+    "url": "https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "F10HD.bo",
+    "feed": "SD",
+    "title": "F10 HD",
+    "url": "https://tv2.bitstreaming.net:3235/multi_live/play.m3u8",
+    "quality": null,
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FabulosaEstereo1005FM.pa",
+    "feed": "SD",
+    "title": "Fabulosa Est\u00e9reo 100.5 FM",
+    "url": "https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "Italy",
+    "title": "Failarmy",
+    "url": "https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "UK",
+    "title": "FailArmy",
+    "url": "https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "Failarmy International",
+    "url": "https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "Failarmy International",
+    "url": "https://failarmy-international-dk.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "Failarmy International",
+    "url": "https://failarmy-international-fi.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "Failarmy International",
+    "url": "https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "Failarmy International",
+    "url": "https://failarmy-international-mx.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "Failarmy International",
+    "url": "https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "Failarmy International",
+    "url": "https://failarmy-international-no.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "Failarmy International",
+    "url": "https://failarmy-international-se.samsung.wurl.tv/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "FailArmy",
+    "url": "https://pb-w5ixcojas1swl.akamaized.net/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FairgroundAICreatorTV.us",
+    "feed": "SD",
+    "title": "Fairground AI Creator TV",
+    "url": "https://jmp2.uk/rok-b484db42f3d31b6dc2f604d453c694a0.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fairuz.sa",
+    "feed": "HD",
+    "title": "Fairuz",
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FaithAfrica.za",
+    "feed": "SD",
+    "title": "Faith Africa",
+    "url": "https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FaithAfrica.za",
+    "feed": "SD",
+    "title": "Faith Africa",
+    "url": "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FaithTV.us",
+    "feed": "SD",
+    "title": "Faith TV",
+    "url": "https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FaithUK.uk",
+    "feed": "SD",
+    "title": "Faith UK",
+    "url": "https://faithnow-hls.secdn.net/faithnow-c-channel/play/FaithUK.smil/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FaithWorldTV.uk",
+    "feed": "SD",
+    "title": "Faith World TV",
+    "url": "https://faithworldtv.abs.tv/1826926230/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FajarTV.id",
+    "feed": "SD",
+    "title": "Fajar TV",
+    "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FaktMarathi.in",
+    "feed": "SD",
+    "title": "Fakt Marathi",
+    "url": "https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FaktMarathi.in",
+    "feed": "SD",
+    "title": "Fakt Marathi",
+    "url": "https://fta.ektv.in/live/188/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "FaktMarathi.in",
+    "feed": "SD",
+    "title": "Fakt Marathi",
+    "url": "https://cdn.pishow.tv/ott/live/10002/master.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FalakTV.pk",
+    "feed": "SD",
+    "title": "Falak TV",
+    "url": "https://falak.rst.ae/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
