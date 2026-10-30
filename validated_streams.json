@@ -56298,5 +56298,1031 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "HauntTV.ca",
+    "feed": "SD",
+    "title": "Haunt TV",
+    "url": "https://bamcahaunttvrakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HauntTV.ca",
+    "feed": "SD",
+    "title": "Haunt TV",
+    "url": "https://d1ak5jijks54h1.cloudfront.net/Haunt_TV.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HauntTV.ca",
+    "feed": "SD",
+    "title": "Haunt TV",
+    "url": "https://aegis-cloudfront-1.tubi.video/69da419c-6bb2-473f-98c3-246153fc909b/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBCUGOSports.us",
+    "feed": "SD",
+    "title": "HBCU-GO Sports",
+    "url": "https://a-cdn.klowdtv.com/live3/hbcugo_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBO2.cz",
+    "feed": "SD",
+    "title": "HBO 2",
+    "url": "http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBO2.pl",
+    "feed": "SD",
+    "title": "HBO 2",
+    "url": "http://185.227.34.179:8080/hbo-2-hd/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBO2LatinAmerica.us",
+    "feed": "HD",
+    "title": "HBO 2 Latin America HD",
+    "url": "http://45.171.64.30:6060/play/a00i/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBO3.cz",
+    "feed": "SD",
+    "title": "HBO 3",
+    "url": "http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBO3.pl",
+    "feed": "SD",
+    "title": "HBO 3",
+    "url": "http://185.227.34.179:8080/hbo-3-hd/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBO.cz",
+    "feed": "SD",
+    "title": "HBO",
+    "url": "http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBO.us",
+    "feed": "East",
+    "title": "HBO",
+    "url": "http://tvsen7.aynascope.net/hbo/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBOAsia.sg",
+    "feed": "SD",
+    "title": "HBO Asia SD",
+    "url": "https://tinyurl.com/yn3d3rmd",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBOAsia.sg",
+    "feed": "Taiwan",
+    "title": "HBO Asia Taiwan",
+    "url": "http://125.227.210.55:1003/VideoInput/play.ts",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBOFamilyLatinAmerica.us",
+    "feed": "SD",
+    "title": "HBO Family Latin America",
+    "url": "http://45.171.64.30:6060/play/a00k/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBOHits.us",
+    "feed": "East",
+    "title": "HBO Hits",
+    "url": "http://tvsen7.aynascope.net/hbo2/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBOLatinAmerica.us",
+    "feed": "SD",
+    "title": "HBO Latin America",
+    "url": "https://streaming.onnethn.com/HBO/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+    "referrer": null
+  },
+  {
+    "channel": "HBOPlusLatinAmerica.us",
+    "feed": "SD",
+    "title": "HBO+ Latin America",
+    "url": "http://45.134.141.161:2200/ARG/HBO_HD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HCH.hn",
+    "feed": "SD",
+    "title": "HCH",
+    "url": "https://live.streamhch.com/live/streams/hch1.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HCH.hn",
+    "feed": "SD",
+    "title": "HCH",
+    "url": "http://45.228.234.9:8000/play/a06t/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HD365TV.ro",
+    "feed": "SD",
+    "title": "HD365 TV",
+    "url": "https://s2.netstreaming.eu/hd365.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HeadlinesTripura.in",
+    "feed": "SD",
+    "title": "Headlines Tripura",
+    "url": "https://distro.ottlive.co.in/headlinestripura/headlinestripura/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Heartland.us",
+    "feed": "Eastern",
+    "title": "Heartland",
+    "url": "https://2-fss-2.streamhoster.com/pl_120/201950-2724904-1/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Heartland.us",
+    "feed": "Eastern",
+    "title": "Heartland",
+    "url": "https://freecast-lukentvlive.vgcdn.net/out/v1/ef4c45af299c46aaabc3f8713f92f163/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Heartland.us",
+    "feed": "Web",
+    "title": "Heartland",
+    "url": "https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HeartRadioAruba.aw",
+    "feed": "SD",
+    "title": "Heart Radio Aruba",
+    "url": "https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HebeiTV.cn",
+    "feed": "SD",
+    "title": "Hebei TV",
+    "url": "https://event.pull.hebtv.com/live/live101.m3u8",
+    "quality": "2160p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HebeiTV.cn",
+    "feed": "SD",
+    "title": "Hebei TV",
+    "url": "https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HebiNewsChannel.cn",
+    "feed": "SD",
+    "title": "\u9e64\u58c1\u65b0\u95fb\u7efc\u5408",
+    "url": "http://pili-live-hls.hebitv.com/hebi/hebi.m3u8",
+    "quality": "480p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HebronTV.in",
+    "feed": "SD",
+    "title": "Hebron TV",
+    "url": "https://account20.livebox.co.in/charleshls/live.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HechosEcuador.ec",
+    "feed": "SD",
+    "title": "Hechos Ecuador",
+    "url": "https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HEiNow.py",
+    "feed": "SD",
+    "title": "HEi Now",
+    "url": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": "https://www.heinow.com.py/"
+  },
+  {
+    "channel": "Heleneetlesgarcons.us",
+    "feed": "France",
+    "title": "H\u00e9l\u00e8ne et les gar\u00e7ons",
+    "url": "https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HeliconiaRadioTV.co",
+    "feed": "SD",
+    "title": "Heliconia Radio TV",
+    "url": "https://eu1.servers10.com:8081/8178/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HellenicParliamentTV.gr",
+    "feed": "SD",
+    "title": "\u0392\u03bf\u03c5\u03bb\u03ae \u03a4\u03b7\u03bb\u03b5\u03cc\u03c1\u03b1\u03c3\u03b7",
+    "url": "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8",
+    "quality": "360p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HellenicTV.uk",
+    "feed": "SD",
+    "title": "Hellenic TV",
+    "url": "https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HelloTaste.ro",
+    "feed": "SD",
+    "title": "Hello Taste",
+    "url": "https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HellsKitchen.us",
+    "feed": "UK",
+    "title": "Hell's Kitchen",
+    "url": "https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HellsKitchen.us",
+    "feed": "UK",
+    "title": "Hell's Kitchen",
+    "url": "https://jmp2.uk/plu-644257fe7cb4b100081ed874.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HellsKitchen.us",
+    "feed": "UK",
+    "title": "Hell's Kitchen",
+    "url": "https://jmp2.uk/plu-61c194ff6f23a7000780073a.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HellsKitchen.us",
+    "feed": "UK",
+    "title": "Hell's Kitchen",
+    "url": "https://jmp2.uk/plu-664f0ddbf78a8500092dcffa.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HellsKitchen.us",
+    "feed": "UK",
+    "title": "Hell's Kitchen",
+    "url": "https://jmp2.uk/plu-62022f7b9fcc3800076f8c26.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HellsKitchen.us",
+    "feed": "UK",
+    "title": "Hell's Kitchen",
+    "url": "https://jmp2.uk/plu-61c1871dac860c0007684974.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HellsKitchen.us",
+    "feed": "UK",
+    "title": "Hell's Kitchen",
+    "url": "https://jmp2.uk/plu-5e6f38792075160007d85823.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HellsKitchen.us",
+    "feed": "UK",
+    "title": "Hell's Kitchen",
+    "url": "https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HellsKitchen.us",
+    "feed": "UK",
+    "title": "Hell's Kitchen",
+    "url": "https://pb-lf7eocnc8ua2e.akamaized.net/Hells_Kitchen_SONO10.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HermanasMirabalTV.do",
+    "feed": "SD",
+    "title": "Hermanas Mirabal TV",
+    "url": "https://fox.hostlagarto.com:8081/hmtv/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HeviziTV.hu",
+    "feed": "SD",
+    "title": "H\u00e9v\u00edzi TV",
+    "url": "https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HeyArnold.us",
+    "feed": "LatAm",
+    "title": "Hey Arnold!",
+    "url": "https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HGTV.cz",
+    "feed": "SD",
+    "title": "HGTV",
+    "url": "http://88.212.15.50/live/test_hgtv_hevc_25p/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HGTV.hu",
+    "feed": "SD",
+    "title": "HGTV",
+    "url": "http://88.212.7.14/live/hgtv_hun/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HGTV.it",
+    "feed": "SD",
+    "title": "HGTV",
+    "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HGTV.nz",
+    "feed": "SD",
+    "title": "HGTV",
+    "url": "https://mediapackage-sky-hgtv-source.fullscreen.nz/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HGTV.us",
+    "feed": "East",
+    "title": "HGTV",
+    "url": "http://tvsen7.aynascope.net/hgtv/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HGTVLatinAmerica.us",
+    "feed": "Panregional",
+    "title": "HGTV Latin America",
+    "url": "http://38.87.224.19:2220/play/a01p/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Hidabroot.il",
+    "feed": "SD",
+    "title": "Hidabroot",
+    "url": "https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HiDost.in",
+    "feed": "SD",
+    "title": "Hi Dost!",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HiDost.in",
+    "feed": "SD",
+    "title": "Hi Dost!",
+    "url": "https://cdn.pishow.tv/ott/live/224/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HighNews.in",
+    "feed": "SD",
+    "title": "High News",
+    "url": "https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HighTV.gr",
+    "feed": "SD",
+    "title": "High TV",
+    "url": "http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HighVisionTV.us",
+    "feed": "SD",
+    "title": "High Vision",
+    "url": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HighwaytoHeaven.us",
+    "feed": "UK",
+    "title": "Highway to Heaven",
+    "url": "https://jmp2.uk/plu-68bff9a63efb41cd97562e46.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HighwaytoHeaven.us",
+    "feed": "UK",
+    "title": "Highway to Heaven",
+    "url": "https://jmp2.uk/plu-68c014ee337652ee75dab43b.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HighwaytoHeaven.us",
+    "feed": "UK",
+    "title": "Highway to Heaven",
+    "url": "https://jmp2.uk/plu-68c015dc6523408b14f54dee.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HighwaytoHeaven.us",
+    "feed": "UK",
+    "title": "Highway to Heaven",
+    "url": "https://jmp2.uk/plu-6081738748d3200007afb24b.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HillsboroughTV.us",
+    "feed": "SD",
+    "title": "Hillsborough County TV HTV (Hillsborough County FL)",
+    "url": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HimlenTV7.fi",
+    "feed": "SD",
+    "title": "Himlen TV7",
+    "url": "https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HindiHits.in",
+    "feed": "SD",
+    "title": "Hindi Hits",
+    "url": "https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HindiKhabar.in",
+    "feed": "SD",
+    "title": "Hindi Khabar",
+    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/hindikhabar/playlist.m3u8",
+    "quality": "396p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HindiKhabar.in",
+    "feed": "SD",
+    "title": "Hindi Khabar",
+    "url": "https://mumt04.tangotv.in/m18aqlK4HINDIKHABAR/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HindiKhabar.in",
+    "feed": "SD",
+    "title": "Hindi Khabar",
+    "url": "https://stream.ottlive.co.in/hindikhabar/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HindiKhabar.in",
+    "feed": "SD",
+    "title": "Hindi Khabar",
+    "url": "https://fta.ektv.in/live/96/96_0.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "HindiKhabar.in",
+    "feed": "SD",
+    "title": "Hindi Khabar",
+    "url": "https://cdn.pishow.tv/ott/live/1041/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HinduDharmam.in",
+    "feed": "SD",
+    "title": "Hindu Dharmam",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3HINDUDHARMAM/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HinduDharmam.in",
+    "feed": "SD",
+    "title": "Hindu Dharmam",
+    "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:hindudharmam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HinduDharmam.in",
+    "feed": "SD",
+    "title": "Hindu Dharmam",
+    "url": "https://cdn.pishow.tv/ott/live/959/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HiruTV.lk",
+    "feed": "SD",
+    "title": "Hiru TV",
+    "url": "https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8",
+    "quality": "360p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HisGloryTV.us",
+    "feed": "SD",
+    "title": "His Glory TV",
+    "url": "https://customer-6itfaqopbksp5p0q.cloudflarestream.com/3972e89fb79bf6d6dd2a16c75455087a/manifest/video.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Historia.es",
+    "feed": "HD",
+    "title": "Historia HD",
+    "url": "https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Historia.es",
+    "feed": "SD",
+    "title": "Historia",
+    "url": "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HistoriaYVida.es",
+    "feed": "SD",
+    "title": "Historia y Vida",
+    "url": "https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "History2.cz",
+    "feed": "SD",
+    "title": "History2",
+    "url": "http://88.212.15.50/live/test_h2/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "History2LatinAmerica.us",
+    "feed": "Panregional",
+    "title": "History 2 Latin America",
+    "url": "http://138.121.15.230:9002/HISTORY-2/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "History2LatinAmerica.us",
+    "feed": "Panregional",
+    "title": "History 2 Latin America",
+    "url": "http://190.93.224.42/HISTORY-2/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "History.bg",
+    "feed": "SD",
+    "title": "History",
+    "url": "http://213.91.179.28:8000/play/a0c1",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null
+  },
+  {
+    "channel": "History.br",
+    "feed": "SD",
+    "title": "History",
+    "url": "http://170.83.16.50/HISTORY/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "History.cz",
+    "feed": "SD",
+    "title": "History",
+    "url": "http://88.212.15.50/live/test_history/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null
+  },
+  {
+    "channel": "History.hu",
+    "feed": "SD",
+    "title": "History",
+    "url": "http://88.212.7.14/live/history_hun/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "History.pl",
+    "feed": "SD",
+    "title": "History",
+    "url": "http://92.114.85.87:8015/play/a00c/index.m3u8",
+    "quality": "576i",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "History.us",
+    "feed": "East",
+    "title": "History",
+    "url": "http://212.5.144.156:8080/history/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HistoryHit.uk",
+    "feed": "SD",
+    "title": "History Hit",
+    "url": "https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HistoryHit.uk",
+    "feed": "SD",
+    "title": "History Hit",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HistoryHit.uk",
+    "feed": "SD",
+    "title": "History Hit",
+    "url": "https://lds-timeline-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HistoryHit.uk",
+    "feed": "SD",
+    "title": "History Hit",
+    "url": "https://timeline-samsung-uk.amagi.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HistoryHit.uk",
+    "feed": "SD",
+    "title": "History Hit",
+    "url": "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HistoryLatinAmerica.us",
+    "feed": "Panregional",
+    "title": "History Latin America",
+    "url": "http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HistoryLatinAmerica.us",
+    "feed": "Panregional",
+    "title": "History Latin America",
+    "url": "http://190.93.224.42/HISTORY/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HistoryTV18.in",
+    "feed": "HD",
+    "title": "History TV18 HD",
+    "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HistoryTV18.in",
+    "feed": "HD",
+    "title": "History TV18 HD Hindi",
+    "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Hit.ru",
+    "feed": "HD",
+    "title": "Hit HD",
+    "url": "http://stream.mcquack.net/363/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HitFM.md",
+    "feed": "SD",
+    "title": "Hit FM",
+    "url": "https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
