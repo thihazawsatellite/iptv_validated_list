@@ -41566,5 +41566,375 @@
     ],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "Dateline247.us",
+    "feed": "SD",
+    "title": "Dateline 24/7",
+    "url": "https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DatingDisasters.us",
+    "feed": "SD",
+    "title": "Dating Disasters",
+    "url": "https://jmp2.uk/plu-651f239d9c7aeb0008286823.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DatingNakedUK.se",
+    "feed": "DK",
+    "title": "Dating Naked UK",
+    "url": "https://jmp2.uk/plu-692edc78d52ea9e4858cf78f.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DatingNakedUK.se",
+    "feed": "NO",
+    "title": "Dating Naked UK",
+    "url": "https://jmp2.uk/plu-692edcff77f0147d69f19498.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DatingNakedUK.se",
+    "feed": "SE",
+    "title": "Dating Naked UK",
+    "url": "https://jmp2.uk/plu-692edd6bdb8695f63e14f3b9.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DaVinci.ru",
+    "feed": "SD",
+    "title": "Da Vinci",
+    "url": "http://stream.mcquack.net/238/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DaVinci.ru",
+    "feed": "SD",
+    "title": "Da Vinci",
+    "url": "https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DaystarTV.us",
+    "feed": "WSLFLD",
+    "title": "WSLF-LD 35.1",
+    "url": "https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DaystarTVEspanol.us",
+    "feed": "SD",
+    "title": "Daystar TV Espanol",
+    "url": "http://167.249.23.102:8000/play/a0ev/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DAZN3.uk",
+    "feed": "Portugal",
+    "title": "DAZN 3 Portugal",
+    "url": "http://23.237.104.106:8080/DAZN_3/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DAZN4.uk",
+    "feed": "Portugal",
+    "title": "DAZN 4",
+    "url": "http://23.237.104.106:8080/DAZN_4/index.m3u8",
+    "quality": "540p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DAZN5.uk",
+    "feed": "Portugal",
+    "title": "DAZN 5",
+    "url": "http://23.237.104.106:8080/DAZN_5/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DAZNCombat.uk",
+    "feed": "SD",
+    "title": "DAZN Combat",
+    "url": "https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8",
+    "quality": "684p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DAZNDartsxPlutoTV.de",
+    "feed": "DACH",
+    "title": "DAZN Darts x Pluto TV",
+    "url": "https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DAZNHeldinnenxPlutoTV.de",
+    "feed": "DACH",
+    "title": "DAZN Heldinnen x Pluto TV",
+    "url": "https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DBMTV.fr",
+    "feed": "SD",
+    "title": "DBM TV",
+    "url": "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DBSTV.lc",
+    "feed": "SD",
+    "title": "DBS TV",
+    "url": "https://stream.dbstvstlucia.com/hls/dbstv_main.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DCC.us",
+    "feed": "SD",
+    "title": "DC Council Channel",
+    "url": "https://video.oct.dc.gov/out/u/15_12.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DCC.us",
+    "feed": "SD",
+    "title": "DC.gov DCC (Washington DC)",
+    "url": "https://video.oct.dc.gov/out/u/DCC.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DCCMakingtheTeam.us",
+    "feed": "SD",
+    "title": "DCC: Making the Team",
+    "url": "https://jmp2.uk/plu-5d40855b3fb0855028c99b6f.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DCCouncilHearingRoom120.us",
+    "feed": "SD",
+    "title": "DC.gov Council Hearing Room 120 (Washington DC)",
+    "url": "https://video.oct.dc.gov/out/u/97_12.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DCHTV.cl",
+    "feed": "SD",
+    "title": "DCH TV",
+    "url": "https://v2.tustreaming.cl/dchtv/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDArunPrabha.in",
+    "feed": "SD",
+    "title": "DD Arun Prabha",
+    "url": "https://cdn.pishow.tv/ott/live/32/master.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDArunPrabha.in",
+    "feed": "SD",
+    "title": "DD Arun Prabha",
+    "url": "https://fta.ektv.in/live/203/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "DDArunPrabha.in",
+    "feed": "SD",
+    "title": "DD Arun Prabha",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDAssam.in",
+    "feed": "SD",
+    "title": "DD Assam",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8",
+    "quality": "504p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDBangla.in",
+    "feed": "SD",
+    "title": "DD Bangla",
+    "url": "https://cdn.pishow.tv/ott/live/37/master.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDBangla.in",
+    "feed": "SD",
+    "title": "DD Bangla",
+    "url": "https://fta.ektv.in/live/197/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "DDBangla.in",
+    "feed": "SD",
+    "title": "DD Bangla",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8",
+    "quality": "504p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDBharati.in",
+    "feed": "SD",
+    "title": "DD Bharati",
+    "url": "https://fta.ektv.in/live/335/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "DDBharati.in",
+    "feed": "SD",
+    "title": "DD Bharati",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8",
+    "quality": "504p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDBharati.in",
+    "feed": "SD",
+    "title": "DD Bharati",
+    "url": "https://cdn.pishow.tv/ott/live/10/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDBihar.in",
+    "feed": "SD",
+    "title": "DD Bihar",
+    "url": "https://mumbai-edge.smartplaytv.in/ddbihar/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDBihar.in",
+    "feed": "SD",
+    "title": "DD Bihar",
+    "url": "https://fta.ektv.in/live/172/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "DDBihar.in",
+    "feed": "SD",
+    "title": "DD Bihar",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/380b0765f87741a4812bc952ec6fbf21/index.m3u8",
+    "quality": "504p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDBihar.in",
+    "feed": "SD",
+    "title": "DD Bihar",
+    "url": "https://cdn.pishow.tv/ott/live/35/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DDChandana.in",
+    "feed": "SD",
+    "title": "DD Chandana",
+    "url": "https://cdn.pishow.tv/ott/live/28/master.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
