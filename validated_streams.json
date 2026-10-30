@@ -3178,5 +3178,505 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Travelxp Germany",
+    "url": "https://travelxp-travelxp-2-de.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Vevo Pop Germany",
+    "url": "https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Vevo Schlager Pop",
+    "url": "https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Wicked Tuna Germany",
+    "url": "https://amg00353-amg00353c28-rakuten-us-4895.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "3point.dk",
+    "url": "https://jmp2.uk/plu-65b915780cb1a1000889b837.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "21 Jump Street",
+    "url": "https://jmp2.uk/plu-699c15a9f0b71f2e2eec4393.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Afterwork TV",
+    "url": "https://jmp2.uk/plu-6915e0eda570568f53435398.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "All exclusive",
+    "url": "https://jmp2.uk/plu-6577224bb3801200084865d6.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "America's Funniest Home Videos",
+    "url": "https://jmp2.uk/plu-69143de2a570568f53230cab.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "AWSN",
+    "url": "https://jmp2.uk/plu-660e7404e8fba8000853abc0.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Beauty and the Beast",
+    "url": "https://jmp2.uk/plu-6512ec7a2ce8e40008bdb433.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "BET25 LIVE",
+    "url": "https://jmp2.uk/plu-6405d444d200410008009419.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "BET25 Live+",
+    "url": "https://jmp2.uk/plu-675c0762f433320008707f68.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Celeb Reality",
+    "url": "https://jmp2.uk/plu-65788076b228b7000843fc9a.m3u8",
+    "quality": "684p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Cheaters",
+    "url": "https://jmp2.uk/plu-651e719b575f660008d2e629.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Come Dine with Me",
+    "url": "https://jmp2.uk/plu-65d7239066eec8000881e293.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Crime Scene Solvers",
+    "url": "https://jmp2.uk/plu-6426a821a3ade7000800031c.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Dance Moms",
+    "url": "https://jmp2.uk/plu-65787eefcbd0d60008f85b3f.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Den gode gerning",
+    "url": "https://jmp2.uk/plu-689a0ab0f4af1aaca24530ae.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "DFB Play TV",
+    "url": "https://jmp2.uk/plu-66461eb33d173b000805ecd3.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Ditzel & Turbomodul",
+    "url": "https://jmp2.uk/plu-678f8676ad083171df19ca07.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Dollars",
+    "url": "https://jmp2.uk/plu-68f0fa98fae18f8db62a920a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Dominance FC TV",
+    "url": "https://jmp2.uk/plu-67a23b4e15d6eb000827a20d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Dr. Quinn Medicine Woman",
+    "url": "https://jmp2.uk/plu-68f0f71bb45f4453e05c0863.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Escape to the Country",
+    "url": "https://jmp2.uk/plu-66d712fdabec540008ba66cd.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Flipper: The New Adventures",
+    "url": "https://jmp2.uk/plu-698ddd6ec144dcc29b866133.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Fristet",
+    "url": "https://jmp2.uk/plu-6969fc6c3b9ce349c9e41670.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Hardcore Pawn",
+    "url": "https://jmp2.uk/plu-6909fc4b74601d957a380613.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Horse & Country",
+    "url": "https://jmp2.uk/plu-671b4dc049c4060008f91d3a.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Hot Ones",
+    "url": "https://jmp2.uk/plu-655ca7405812e80008883d4e.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Hundehviskeren",
+    "url": "https://jmp2.uk/plu-6501af923a0d700008b71b53.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "I Survived",
+    "url": "https://jmp2.uk/plu-657881c46e4f6a00087414c2.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Ice Road Truckers",
+    "url": "https://jmp2.uk/plu-633560bfa693390008b99cf0.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Inter 24/7",
+    "url": "https://jmp2.uk/plu-691ed751bef819002f2c7296.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Jade Fever",
+    "url": "https://jmp2.uk/plu-660d6ade0cd4630008f4a127.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Kvart i Bold",
+    "url": "https://jmp2.uk/plu-657c0954dfed030008d82ea1.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Love Boat",
+    "url": "https://jmp2.uk/plu-654a4cc3f91d250008ac11f6.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Love Island Danmark",
+    "url": "https://jmp2.uk/plu-61c19bfb3bf4940007804d32.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Love Island UK",
+    "url": "https://jmp2.uk/plu-62bed7cb3279cb0007735327.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Love Island USA",
+    "url": "https://jmp2.uk/plu-695e2857026be6e9d3ad59d3.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Love Island: All Stars",
+    "url": "https://jmp2.uk/plu-68ad8bececd330dcb0f050b5.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Mediano TV",
+    "url": "https://jmp2.uk/plu-66952e1ed512590008867b5a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Modern Marvels",
+    "url": "https://jmp2.uk/plu-6578812b12d5ee000884c5c6.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "MODUS Super Series Darts",
+    "url": "https://jmp2.uk/plu-671656a37d5da50008de6514.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "P\u00e5 Tur",
+    "url": "https://jmp2.uk/plu-65649791954b020008d09565.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Project Runway",
+    "url": "https://jmp2.uk/plu-627254d6ba35210007e5d4ca.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Reality Awards",
+    "url": "https://jmp2.uk/plu-692ec3a76f84242a60f75f59.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Realmadrid TV",
+    "url": "https://jmp2.uk/plu-660d714719ca71000849cc1f.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Renegade",
+    "url": "https://jmp2.uk/plu-699c18cbf2ad90a4792fd5b8.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Retake E-sport Live",
+    "url": "https://jmp2.uk/plu-66fd1338ec9d6d00081e0443.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
