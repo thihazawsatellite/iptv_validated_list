@@ -69358,5 +69358,739 @@
     "labels": [],
     "user_agent": "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
     "referrer": null
+  },
+  {
+    "channel": "MantavyaNews.in",
+    "feed": "SD",
+    "title": "Mantavya News",
+    "url": "https://fta.ektv.in/live/657/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "ManuChat.iq",
+    "feed": "SD",
+    "title": "Manu Chat",
+    "url": "https://vmi747311.contaboserver.net/hls/livetv.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ManwithaPlan.se",
+    "feed": "DK",
+    "title": "Man with a Plan",
+    "url": "https://jmp2.uk/plu-678f88bb272ded16b1558c5e.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ManwithaPlan.se",
+    "feed": "NO",
+    "title": "Man with a Plan",
+    "url": "https://jmp2.uk/plu-6825eeeeb19ce6d4a34ebb2a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ManwithaPlan.se",
+    "feed": "SE",
+    "title": "Man with a Plan",
+    "url": "https://jmp2.uk/plu-6825efbb9eed174f7ffbe5b0.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Maraya.sa",
+    "feed": "HD",
+    "title": "Maraya",
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MarayTV.cl",
+    "feed": "SD",
+    "title": "Maray TV",
+    "url": "https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MarcaTV.ec",
+    "feed": "SD",
+    "title": "Marca TV",
+    "url": "http://200.7.219.221:8088/live/livetv/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MargaMargaTV.cl",
+    "feed": "SD",
+    "title": "Marga Marga TV",
+    "url": "https://v1.tustreaming.cl/margamargatv/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MariaPlusVisionMedjugorje.ba",
+    "feed": "SD",
+    "title": "Mar\u00eda+Visi\u00f3n Medjugorje",
+    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MariaVision.mx",
+    "feed": "SD",
+    "title": "Mar\u00eda Visi\u00f3n Mexico",
+    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8",
+    "quality": "360p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MariaVisionItalia.it",
+    "feed": "SD",
+    "title": "Maria Vision",
+    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MariaVisionUSA.us",
+    "feed": "SD",
+    "title": "Maria Vision USA",
+    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amls:PALMIAMI/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MarjaeyatTVArabic.iq",
+    "feed": "SD",
+    "title": "Marjaeyat TV Arabic",
+    "url": "https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MarjaeyatTVEnglish.iq",
+    "feed": "SD",
+    "title": "Marjaeyat TV English",
+    "url": "https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MarjaeyatTVPersian.iq",
+    "feed": "SD",
+    "title": "Marjaeyat TV Persian",
+    "url": "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8",
+    "quality": "240p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MarkaTV.do",
+    "feed": "HD",
+    "title": "Marka TV",
+    "url": "https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MarlaVision.do",
+    "feed": "SD",
+    "title": "Marla Vision",
+    "url": "https://soportedvb.click:3877/live/merlavisionlive.m3u8",
+    "quality": "576p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MarriedwithChildren.us",
+    "feed": "UK",
+    "title": "Married... with Children",
+    "url": "https://jmp2.uk/plu-66bb3212fe11e5000883ea6b.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MarsellaTV.co",
+    "feed": "SD",
+    "title": "Marsella TV",
+    "url": "https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MartinCountyTV.us",
+    "feed": "SD",
+    "title": "Martin County MCTV (Martin County FL)",
+    "url": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MarutamTV.in",
+    "feed": "SD",
+    "title": "MNTV",
+    "url": "https://mntv.livebox.co.in/mntvhls/live.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Mas23TV.pa",
+    "feed": "SD",
+    "title": "Mas23 TV",
+    "url": "https://movil.ejeserver.com/live/mas23tv.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Masadrenalina.us",
+    "feed": "SD",
+    "title": "M\u00e1s adrenalina",
+    "url": "https://jmp2.uk/plu-687fea9a4fa995eff284a1c8.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MasalaTV.pk",
+    "feed": "SD",
+    "title": "Masala TV",
+    "url": "https://cdn4.mjunoon.tv:8087/streamtest/81M/chunks.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MasFM.ar",
+    "feed": "SD",
+    "title": "M\u00e1s FM 95.9",
+    "url": "https://vivo.solumedia.com:19360/masfm/masfm.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MasMusicaFM.co",
+    "feed": "SD",
+    "title": "MasMusica FM",
+    "url": "https://movil.ejeserver.com/live/masmusica.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MasMusicaFM.co",
+    "feed": "SD",
+    "title": "MasMusica FM",
+    "url": "https://video.ejeserver.com/live/masmusica.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MasonTV.ua",
+    "feed": "SD",
+    "title": "Mason TV",
+    "url": "http://stream.mcquack.net/346/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "MasTalk.ve",
+    "feed": "SD",
+    "title": "M\u00e1s Talk",
+    "url": "https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MasterChef.us",
+    "feed": "Brazil",
+    "title": "MasterChef",
+    "url": "https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MasterChef.us",
+    "feed": "Brazil",
+    "title": "MasterChef",
+    "url": "https://jmp2.uk/plu-5e3ddbd27091820009f86dd9.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MasterChefDanmarksstorstemadtalenter.se",
+    "feed": "DK",
+    "title": "MasterChef Danmarks st\u00f8rste madtalenter",
+    "url": "https://jmp2.uk/plu-61c19edbf535220007075c4e.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MasterChefsAcademyTV.uk",
+    "feed": "HD",
+    "title": "Master Chefs Academy TV",
+    "url": "https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MasterTV.pe",
+    "feed": "SD",
+    "title": "Master TV",
+    "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MasterTV.pe",
+    "feed": "SD",
+    "title": "Master TV",
+    "url": "https://live.obslivestream.com/mastertv/index.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Mastiii.in",
+    "feed": "SD",
+    "title": "Mastiii",
+    "url": "https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Match4.hu",
+    "feed": "SD",
+    "title": "Match4",
+    "url": "http://141.94.193.53:80/Match4_HD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MatchArena.ru",
+    "feed": "SD",
+    "title": "Match! Arena",
+    "url": "http://stream.mcquack.net/163/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MatchBoets.ru",
+    "feed": "SD",
+    "title": "Match! Boets",
+    "url": "http://stream.mcquack.net/112/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MatchIgra.ru",
+    "feed": "SD",
+    "title": "Match! Igra",
+    "url": "http://stream.mcquack.net/188/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MatchPremier.ru",
+    "feed": "SD",
+    "title": "Match! Premier",
+    "url": "http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MatchStrana.ru",
+    "feed": "SD",
+    "title": "Match! Strana",
+    "url": "http://stream.mcquack.net/143/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MatchUltra.ru",
+    "feed": "4K",
+    "title": "Match! Ultra",
+    "url": "http://stream.mcquack.net/169/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MatchUltra.ru",
+    "feed": "4K",
+    "title": "Match! Ultra",
+    "url": "http://flussonic.linkintel.ru/match/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MatchUltra.ru",
+    "feed": "4K",
+    "title": "Match! Ultra",
+    "url": "http://45.132.87.69:8080/match/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MatchUltra.ru",
+    "feed": "4K",
+    "title": "Match! Ultra",
+    "url": "http://tv.tuva.ru/machtv/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MatchUltra.ru",
+    "feed": "4K",
+    "title": "Match! Ultra",
+    "url": "http://31.148.5.241/kanal_3/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Matele.be",
+    "feed": "SD",
+    "title": "MaTele",
+    "url": "https://live.matele.be/hls/live.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MathrubhumiNews.in",
+    "feed": "SD",
+    "title": "Mathrubhumi News",
+    "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8",
+    "quality": "576p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MathrubhumiNews.in",
+    "feed": "SD",
+    "title": "Mathrubhumi News",
+    "url": "https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MathrubhumiNews.in",
+    "feed": "SD",
+    "title": "Mathrubhumi News",
+    "url": "https://streams.tangotv.in/MATHRUBHUMINEWS/ORIGIN/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Matlock.se",
+    "feed": "DK",
+    "title": "Matlock",
+    "url": "https://jmp2.uk/plu-66290a779e68c20008a18cf3.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Matlock.se",
+    "feed": "NO",
+    "title": "Matlock",
+    "url": "https://jmp2.uk/plu-66290b7523e24f000832cc17.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Matlock.se",
+    "feed": "SE",
+    "title": "Matlock",
+    "url": "https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Matlock.us",
+    "feed": "CA",
+    "title": "Matlock",
+    "url": "https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Matlock.us",
+    "feed": "SD",
+    "title": "Matlock",
+    "url": "https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MatribhumiTV.bd",
+    "feed": "HD",
+    "title": "Matribhumi TV",
+    "url": "http://live.playmax.live/matribhumi/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MaverickBlackCinema.us",
+    "feed": "SD",
+    "title": "Maverick Black Cinema",
+    "url": "https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MaverickBlackCinema.us",
+    "feed": "SD",
+    "title": "Maverick Black Cinema",
+    "url": "https://maverick-maverick-black-cinema-1-us.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MaverickBlackCinema.us",
+    "feed": "SD",
+    "title": "Maverick Black Cinema",
+    "url": "https://aegis-cloudfront-1.tubi.video/55607a73-d5bd-4a09-979e-5933354469ee/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MaviKaradenizTV.tr",
+    "feed": "SD",
+    "title": "MaviKaradeniz",
+    "url": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MAX4.hu",
+    "feed": "SD",
+    "title": "MAX4",
+    "url": "http://141.94.193.53:80/MAX4_HD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MAXAnime.ve",
+    "feed": "SD",
+    "title": "MAX Anime",
+    "url": "https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MAXAnime.ve",
+    "feed": "SD",
+    "title": "MAX Anime",
+    "url": "http://45.228.234.9:8000/play/a06u/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Maxcine2.us",
+    "feed": "HD",
+    "title": "Maxcine 2",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Maxcine.us",
+    "feed": "HD",
+    "title": "Maxcine",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MaxcineComedy.us",
+    "feed": "HD",
+    "title": "Maxcine Comedy",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MaxcineFamily.us",
+    "feed": "HD",
+    "title": "Maxcine Family",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MaxcineKids.us",
+    "feed": "HD",
+    "title": "Maxcine Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MaxivisionTV.gt",
+    "feed": "SD",
+    "title": "Maxivisi\u00f3n TV",
+    "url": "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MaxSport1.bg",
+    "feed": "SD",
+    "title": "Max Sport 1",
+    "url": "http://213.91.179.28:8000/play/a0as",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36x",
+    "referrer": null
   }
 ]
