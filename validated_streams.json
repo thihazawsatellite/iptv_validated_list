@@ -85836,5 +85836,287 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "PetClubTV.hk",
+    "feed": "SD",
+    "title": "Pet Club TV",
+    "url": "https://petclub-samsungaus.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PetClubTV.hk",
+    "feed": "SD",
+    "title": "Pet Club TV",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PetloversTV.br",
+    "feed": "SD",
+    "title": "Petlovers TV",
+    "url": "https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PetsTV.us",
+    "feed": "SD",
+    "title": "Pets.TV",
+    "url": "https://a-cdn.klowdtv.com/live2/petstv_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PFLMMA.us",
+    "feed": "SD",
+    "title": "PFL MMA",
+    "url": "https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PFLMMA.us",
+    "feed": "SD",
+    "title": "PFL MMA",
+    "url": "https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PFLMMA.us",
+    "feed": "SD",
+    "title": "PFL MMA",
+    "url": "https://jmp2.uk/plu-6334a574605f140007e233c4.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PGATour.us",
+    "feed": "SD",
+    "title": "PGA TOUR",
+    "url": "https://jmp2.uk/plu-66c870112630fc0008137ae2.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PGATour.us",
+    "feed": "SD",
+    "title": "PGA TOUR",
+    "url": "https://jmp2.uk/plu-66c86fff9ba9e800080d8ebe.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PGATour.us",
+    "feed": "SD",
+    "title": "PGA TOUR",
+    "url": "https://jmp2.uk/plu-66c86fed85e28d0008f8a9ec.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PGATour.us",
+    "feed": "SD",
+    "title": "PGA TOUR",
+    "url": "https://jmp2.uk/plu-66d885aef0f17500084b6750.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PGATour.us",
+    "feed": "SD",
+    "title": "PGA Tour",
+    "url": "https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PGATour.us",
+    "feed": "SD",
+    "title": "PGA TOUR",
+    "url": "https://jmp2.uk/plu-5de94dacb394a300099fa22a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PGATour.us",
+    "feed": "SD",
+    "title": "PGA Tour",
+    "url": "https://pb-783hpus5r91wv.akamaized.net/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PhillyCAM.us",
+    "feed": "SD",
+    "title": "PhillyCAM",
+    "url": "https://livestream.telvue.com/phillycam1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PHLgovTV.us",
+    "feed": "SD",
+    "title": "PHLgovTV",
+    "url": "https://livestream.telvue.com/ctyphiladelphia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PHXTV.us",
+    "feed": "SD",
+    "title": "PHXTV",
+    "url": "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PichilemuTV.cl",
+    "feed": "SD",
+    "title": "Pichilemu TV",
+    "url": "https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PimpMyRide.se",
+    "feed": "DK",
+    "title": "Pimp My Ride",
+    "url": "https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PimpMyRide.se",
+    "feed": "NO",
+    "title": "Pimp My Ride",
+    "url": "https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PimpMyRide.se",
+    "feed": "SE",
+    "title": "Pimp My Ride",
+    "url": "https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PindinTV.pa",
+    "feed": "SD",
+    "title": "Pindin TV",
+    "url": "https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Pitaara.in",
+    "feed": "SD",
+    "title": "Pitaara",
+    "url": "https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Pitaara.in",
+    "feed": "SD",
+    "title": "Pitaara",
+    "url": "https://streams.tangotv.in/PITAARA/ORIGIN/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Pitaara.in",
+    "feed": "SD",
+    "title": "Pitaara",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Pitaara.in",
+    "feed": "SD",
+    "title": "Pitaara",
+    "url": "https://pitaara-lg.vgcdn.net/v1/vglive-sk-326599/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Pitaara.in",
+    "feed": "SD",
+    "title": "Pitaara",
+    "url": "https://d3i5c1nmken8bh.cloudfront.net/Live/Pitaara_TV_SCTE/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Pitaara.in",
+    "feed": "SD",
+    "title": "Pitaara",
+    "url": "https://fta.ektv.in/live/352/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
   }
 ]
