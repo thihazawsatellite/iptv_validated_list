@@ -34648,5 +34648,415 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "CBNNews.us",
+    "feed": "SD",
+    "title": "CBN News Channel",
+    "url": "https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBNTV.vg",
+    "feed": "SD",
+    "title": "CBN TV",
+    "url": "https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "KIROTV",
+    "title": "KIRO-DT1",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "KMTVTV",
+    "title": "CBS 3 Omaha NE (KMTV-TV)",
+    "url": "https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "KZTV",
+    "title": "KZTV-DT1",
+    "url": "https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "WCBITV",
+    "title": "WCBI (Columbus MI)",
+    "url": "https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "WDEFTV",
+    "title": "WDEF-TV News Chattanooga TN",
+    "url": "https://townnews.g-mana.live/media/a54a6409-5e91-46f0-9fee-06904c1fd094/main.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "WHIOTV",
+    "title": "WHIO-DT1",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "WJAXTV",
+    "title": "WJAX-DT1",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "WTVRTV",
+    "title": "CBS 6 Richmond VA (WTVR)",
+    "url": "https://aegis-cloudfront-1.tubi.video/d8fc1d6c-fd55-45c8-973b-b7327ee1a6e0/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSenespanol.us",
+    "feed": "SD",
+    "title": "CBS en espa\u00f1ol",
+    "url": "https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNews247.us",
+    "feed": "SD",
+    "title": "CBS News 24/7",
+    "url": "https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNews247.us",
+    "feed": "SD",
+    "title": "CBS News 24/7",
+    "url": "https://jmp2.uk/plu-62441d6ded1827000763dcda.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNews247.us",
+    "feed": "SD",
+    "title": "CBS News 24/7",
+    "url": "https://jmp2.uk/plu-61e82af27027f9000753c6e4.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNews247.us",
+    "feed": "SD",
+    "title": "CBS News 24/7",
+    "url": "https://jmp2.uk/plu-6231ede1be5b460007f91bc1.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNews247.us",
+    "feed": "SD",
+    "title": "CBS News 24/7",
+    "url": "https://jmp2.uk/plu-6231ec93779a9d00079ba8e2.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNews247.us",
+    "feed": "SD",
+    "title": "CBS News 24/7",
+    "url": "https://jmp2.uk/plu-6231ec4b62cd1f0007093c7b.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNews247.us",
+    "feed": "SD",
+    "title": "CBS News 24/7",
+    "url": "https://jmp2.uk/plu-6231e909bc960f00075d8e7c.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNews247.us",
+    "feed": "SD",
+    "title": "CBS News 24/7",
+    "url": "https://jmp2.uk/plu-6231e9b7f6deff00074674f4.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNews247.us",
+    "feed": "SD",
+    "title": "CBS News 24/7",
+    "url": "https://jmp2.uk/plu-6231eb3865be650007f59595.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNews247.us",
+    "feed": "SD",
+    "title": "CBS News 24/7",
+    "url": "https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNews247.us",
+    "feed": "SD",
+    "title": "CBS News 24/7",
+    "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNews247.us",
+    "feed": "SD",
+    "title": "CBS News 24/7",
+    "url": "https://jmp2.uk/plu-5a6b92f6e22a617379789618.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNewsBaltimore.us",
+    "feed": "SD",
+    "title": "CBS News Baltimore",
+    "url": "https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNewsBaltimore.us",
+    "feed": "SD",
+    "title": "CBS News Baltimore",
+    "url": "https://jmp2.uk/plu-60f75919718aed0007250d7a.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNewsBayArea.us",
+    "feed": "SD",
+    "title": "CBS News Bay Area",
+    "url": "https://cbsn-sf.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNewsBayArea.us",
+    "feed": "SD",
+    "title": "CBS News Bay Area",
+    "url": "https://jmp2.uk/plu-5eb1afb21486df0007abc57c.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNewsBoston.us",
+    "feed": "SD",
+    "title": "CBS News Boston",
+    "url": "https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNewsBoston.us",
+    "feed": "SD",
+    "title": "CBS News Boston",
+    "url": "https://jmp2.uk/plu-5eb1af2ad345340008fccd1e.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNewsChicago.us",
+    "feed": "SD",
+    "title": "CBS News Chicago",
+    "url": "https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNewsChicago.us",
+    "feed": "SD",
+    "title": "CBS News Chicago",
+    "url": "https://jmp2.uk/plu-5eb1aeb2fd4b8a00076c2047.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNewsColorado.us",
+    "feed": "SD",
+    "title": "CBS News Colorado",
+    "url": "https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNewsColorado.us",
+    "feed": "SD",
+    "title": "CBS News Colorado",
+    "url": "https://jmp2.uk/plu-5eb1b12146cba40007aa7e5d.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNewsDetroit.us",
+    "feed": "SD",
+    "title": "CBS News Detroit",
+    "url": "https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNewsDetroit.us",
+    "feed": "SD",
+    "title": "CBS News Detroit",
+    "url": "https://jmp2.uk/plu-634f2610d5023700078f7dee.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNewsLosAngeles.us",
+    "feed": "SD",
+    "title": "CBS News Los Angeles",
+    "url": "https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNewsLosAngeles.us",
+    "feed": "SD",
+    "title": "CBS News Los Angeles",
+    "url": "https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNewsLosAngeles.us",
+    "feed": "SD",
+    "title": "CBS News Los Angeles",
+    "url": "https://jmp2.uk/plu-5dc481cda1d430000948a1b4.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNewsMiami.us",
+    "feed": "SD",
+    "title": "CBS News Miami",
+    "url": "https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNewsMiami.us",
+    "feed": "SD",
+    "title": "CBS News Miami",
+    "url": "https://lineup.cbsivideo.com/playout/8796731e-7ce7-4bcf-bb04-41ef5a969c62/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNewsMiami.us",
+    "feed": "SD",
+    "title": "CBS News Miami",
+    "url": "https://jmp2.uk/plu-60fb299b79498900070b29e0.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
