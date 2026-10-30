@@ -89874,5 +89874,505 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "PlutoTVSpace.de",
+    "feed": "GB",
+    "title": "Pluto TV Space",
+    "url": "https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSpace.se",
+    "feed": "DK",
+    "title": "Pluto TV Space",
+    "url": "https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSport.de",
+    "feed": "IT",
+    "title": "Pluto TV Sport",
+    "url": "https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSport.se",
+    "feed": "DK",
+    "title": "Pluto TV Sport",
+    "url": "https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSport.se",
+    "feed": "NO",
+    "title": "Pluto TV Sport",
+    "url": "https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSport.se",
+    "feed": "SE",
+    "title": "Pluto TV Sport",
+    "url": "https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSpotlight.us",
+    "feed": "SD",
+    "title": "Pluto TV Spotlight",
+    "url": "https://jmp2.uk/plu-5ba3fb9c4b078e0f37ad34e8.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVStaffPicks.us",
+    "feed": "SD",
+    "title": "Pluto TV Staff Picks",
+    "url": "https://jmp2.uk/plu-5f4d863b98b41000076cd061.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVStarTrek.de",
+    "feed": "DACH",
+    "title": "Pluto TV Star Trek",
+    "url": "https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVStarTrek.se",
+    "feed": "DK",
+    "title": "Pluto TV Star Trek",
+    "url": "https://jmp2.uk/plu-61c1979dfa307000070bbe4d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVStarTrekAnimation.de",
+    "feed": "DACH",
+    "title": "Pluto TV Star Trek: Animation",
+    "url": "https://jmp2.uk/plu-69492467ae33e24d916e56cf.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVStorageWars.us",
+    "feed": "SD",
+    "title": "Storage Wars by A&E",
+    "url": "https://jmp2.uk/plu-6887aaf4e3703b7d42b71a1e.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVStoria.de",
+    "feed": "IT",
+    "title": "Pluto TV Storia",
+    "url": "https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSuperKids.de",
+    "feed": "FR",
+    "title": "Pluto TV Super Kids",
+    "url": "https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVTecknadeklassiker.se",
+    "feed": "SE",
+    "title": "Pluto TV Tecknade klassiker",
+    "url": "https://jmp2.uk/plu-67f5095a3481170e6843d95d.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVTecknat.se",
+    "feed": "SE",
+    "title": "Pluto TV Tecknat",
+    "url": "https://jmp2.uk/plu-61c0b6f028e94c000782684a.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVTeen.de",
+    "feed": "ES",
+    "title": "Pluto TV Teen",
+    "url": "https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVTeen.de",
+    "feed": "FR",
+    "title": "Pluto TV Teen",
+    "url": "https://jmp2.uk/plu-5f8eb99ff17815000784a3b0.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVTeen.de",
+    "feed": "IT",
+    "title": "Pluto TV Teen",
+    "url": "https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVTegnefilm.se",
+    "feed": "DK",
+    "title": "Pluto TV Tegnefilm",
+    "url": "https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVTegnefilm.se",
+    "feed": "NO",
+    "title": "Pluto TV Tegnefilm",
+    "url": "https://jmp2.uk/plu-61c1e914bf8c520007a93ff1.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVTelenovelasClasicas.de",
+    "feed": "ES",
+    "title": "Pluto TV Telenovelas Cl\u00e1sicas",
+    "url": "https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVTelerealiteFrance.de",
+    "feed": "FR",
+    "title": "Pluto TV T\u00e9l\u00e9r\u00e9alit\u00e9 France",
+    "url": "https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVTerror.us",
+    "feed": "SD",
+    "title": "Pluto TV Terror",
+    "url": "https://jmp2.uk/plu-5c6dc88fcd232425a6e0f06e.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVTerrorTrash.us",
+    "feed": "BR",
+    "title": "Pluto TV Terror Trash",
+    "url": "https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVTheTwilightZone.us",
+    "feed": "SD",
+    "title": "The Twilight Zone",
+    "url": "https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVThrillers.de",
+    "feed": "ES",
+    "title": "Pluto TV Thrillers",
+    "url": "https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVThrillers.de",
+    "feed": "GB",
+    "title": "Pluto TV Thrillers",
+    "url": "https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVThrillers.us",
+    "feed": "US",
+    "title": "Pluto TV Thrillers",
+    "url": "https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVToons.de",
+    "feed": "FR",
+    "title": "Pluto TV Toons",
+    "url": "https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVToto.de",
+    "feed": "IT",
+    "title": "Pluto TV Tot\u00f2",
+    "url": "https://jmp2.uk/plu-65253f9881f942000833ccd5.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVToughJobs.de",
+    "feed": "GB",
+    "title": "Pluto TV Tough Jobs",
+    "url": "https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVTrendingNow.us",
+    "feed": "SD",
+    "title": "Pluto TV Trending Now",
+    "url": "https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVTrueCrime.de",
+    "feed": "DACH",
+    "title": "Pluto TV True Crime",
+    "url": "https://jmp2.uk/plu-615333098185f00008715a56.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVTrueCrime.de",
+    "feed": "ES",
+    "title": "Pluto TV True Crime",
+    "url": "https://jmp2.uk/plu-64a3f200f238ce0008d47247.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVTrueCrime.de",
+    "feed": "IT",
+    "title": "Pluto TV True Crime",
+    "url": "https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVTrueCrime.se",
+    "feed": "DK",
+    "title": "Pluto TV True Crime",
+    "url": "https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVTrueCrime.se",
+    "feed": "NO",
+    "title": "Pluto TV True Crime",
+    "url": "https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVTrueCrime.se",
+    "feed": "SE",
+    "title": "Pluto TV True Crime",
+    "url": "https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVTrueCrime.us",
+    "feed": "CA",
+    "title": "Pluto TV True Crime",
+    "url": "https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVTrueCrime.us",
+    "feed": "US",
+    "title": "Pluto TV True Crime",
+    "url": "https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVTurbo.us",
+    "feed": "BR",
+    "title": "Pluto TV Turbo",
+    "url": "https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVUngdomsserier.se",
+    "feed": "DK",
+    "title": "Pluto TV Ungdomsserier",
+    "url": "https://jmp2.uk/plu-67f3fb1cdea1c5e0d588ac1b.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVUngdomsserier.se",
+    "feed": "NO",
+    "title": "Pluto TV Ungdomsserier",
+    "url": "https://jmp2.uk/plu-67f3fb7d07d2ba4121bd0c8b.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVUngdomsserier.se",
+    "feed": "SE",
+    "title": "Pluto TV Ungdomsserier",
+    "url": "https://jmp2.uk/plu-67f3fc1707d2ba4121bd34a8.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVVarldskrigen.se",
+    "feed": "SE",
+    "title": "Pluto TV V\u00e4rldskrigen",
+    "url": "https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVVelocidad.us",
+    "feed": "LatAm",
+    "title": "Pluto TV Velocidad",
+    "url": "https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVVerdenskrigene.se",
+    "feed": "DK",
+    "title": "Pluto TV Verdenskrigene",
+    "url": "https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVVerdenskrigene.se",
+    "feed": "NO",
+    "title": "Pluto TV Verdenskrigene",
+    "url": "https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVViagens.us",
+    "feed": "BR",
+    "title": "Pluto TV Viagens",
+    "url": "https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
