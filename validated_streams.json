@@ -1854,5 +1854,919 @@
     ],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u56db\u5ddd \u2160 \u5df4\u4e2d\u7efc\u5408\u53f0",
+    "url": "http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.flv",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u56db\u5e73\u65b0\u95fb\u7efc\u5408",
+    "url": "https://stream2.jlntv.cn/sptv/sd/live.m3u8",
+    "quality": null,
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u5d4a\u5dde\u7efc\u5408",
+    "url": "https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u5ef6\u8fb9\u65b0\u95fb\u7efc\u5408",
+    "url": "https://stream2.jlntv.cn/jlyb/sd/live.m3u8",
+    "quality": null,
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u677e\u539f\u65b0\u95fb\u7efc\u5408",
+    "url": "https://stream2.jlntv.cn/sytv/sd/live.m3u8",
+    "quality": null,
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u6b66\u8fdb\u65b0\u95fb",
+    "url": "https://live.wjyanghu.com/live/CH1.m3u8",
+    "quality": "576p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u6b66\u8fdb\u751f\u6d3b",
+    "url": "https://live.wjyanghu.com/live/CH2.m3u8",
+    "quality": "576p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u6c5f\u6d25\u65b0\u95fb\u7efc\u5408",
+    "url": "http://222.179.155.21:1935/ch1.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u6c5f\u6d25\u7ecf\u6d4e\u751f\u6d3b",
+    "url": "http://222.179.155.21:1935/ch0.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u6d59\u6c5f\u56fd\u9645",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u6d59\u6c5f\u6559\u79d1",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u6d59\u6c5f\u65b0\u95fb",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u6d59\u6c5f\u6c11\u751f",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u6d59\u6c5f\u7ecf\u6d4e",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u6d59\u6c5f\u94b1\u6c5f",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u767d\u5c71\u65b0\u95fb\u7efc\u5408",
+    "url": "https://stream2.jlntv.cn/baishan1/sd/live.m3u8",
+    "quality": null,
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u798f\u5dde\u5e7f\u64ad\u7535\u89c6\u53f0\u65b0\u95fb\u7efc\u5408\u9891\u9053 (FZTV-1)",
+    "url": "http://live.zohi.tv/video/s10001-fztv-1/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u798f\u5dde\u5e7f\u64ad\u7535\u89c6\u53f0\u90fd\u5e02\u751f\u6d3b\u9891\u9053 (FZTV-3)",
+    "url": "http://live.zohi.tv/video/s10001-fztv-3/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u798f\u5dde\u7535\u89c6\u53f0\u5c11\u513f\u9891\u9053 (FZTV-\u5c11\u513f)",
+    "url": "http://live.zohi.tv/video/s10001-fztv-4/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u8363\u660c\u7efc\u5408",
+    "url": "http://183.64.181.25:40023/rongchang01.m3u8",
+    "quality": "404p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u8427\u5c71\u65b0\u95fb\u7efc\u5408",
+    "url": "https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u856d\u5c71\u751f\u6d3b\u983b\u9053",
+    "url": "https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u8fbd\u6e90\u65b0\u95fb\u7efc\u5408",
+    "url": "https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8",
+    "quality": null,
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u901a\u5316\u65b0\u95fb",
+    "url": "https://stream2.jlntv.cn/tonghua1/sd/live.m3u8",
+    "quality": null,
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u957f\u6625\u7efc\u5408",
+    "url": "https://stream2.jlntv.cn/jlcc/sd/live.m3u8",
+    "quality": null,
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u96c6\u5b89\u7efc\u5408",
+    "url": "https://stream2.jlntv.cn/ja/sd/live.m3u8",
+    "quality": null,
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u9756\u6c5f\u65b0\u95fb\u7d9c\u5408",
+    "url": "http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8",
+    "quality": "480p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u9918\u59da\u59da\u6c5f\u6587\u5316",
+    "url": "https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8",
+    "quality": "576p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "douyu9",
+    "url": "http://epg.112114.xyz/douyu/6140589",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "douyu15",
+    "url": "http://epg.112114.xyz/douyu/8770422",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "douyu20",
+    "url": "http://epg.112114.xyz/douyu/52787",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "douyu24",
+    "url": "http://epg.112114.xyz/douyu/36337",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "douyu25",
+    "url": "http://epg.112114.xyz/douyu/8814650",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "douyu28",
+    "url": "http://epg.112114.xyz/douyu/263824",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "douyu44",
+    "url": "http://epg.112114.xyz/douyu/323876",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u5218\u5fb7\u534e",
+    "url": "http://epg.112114.xyz/douyu/2516864",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u5b87\u54e5\u7535\u5f71",
+    "url": "http://epg.112114.xyz/douyu/413573",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u6797\u6b63\u82f1",
+    "url": "http://epg.112114.xyz/douyu/218859",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u6b27\u7f8e\u5927\u72473",
+    "url": "http://epg.112114.xyz/douyu/9249162",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "\u8d1d\u7237\u5f71\u5385",
+    "url": "http://epg.112114.xyz/douyu/252802",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Canal 17 TV Nosara",
+    "url": "https://latamvdo.com:3870/hybrid/play.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "FrankenPlus",
+    "url": "https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "21 Jump Street",
+    "url": "https://jmp2.uk/plu-686cffbf3ffa5e0c91cdcfb3.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Auto Motor Sport",
+    "url": "https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Ax Men Die Holzf\u00e4ller",
+    "url": "https://jmp2.uk/plu-6914913274601d957ae35565.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Axel!",
+    "url": "https://jmp2.uk/plu-667d63d236a2f90008f72269.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Blue Mountain State",
+    "url": "https://jmp2.uk/plu-67ff7dd84906b1acfad97330.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Bronco",
+    "url": "https://jmp2.uk/plu-684ac10236c9361b1977f7bc.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "BVB-Frauen",
+    "url": "https://jmp2.uk/plu-66337ea1307fa300082c28a0.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Call My Agent!",
+    "url": "https://jmp2.uk/plu-69776f2b2c00406316a01945.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "CNN Headlines International",
+    "url": "https://jmp2.uk/plu-66337e365a402e00087eccaf.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Dating hinter Gittern",
+    "url": "https://jmp2.uk/plu-691b2b690d121b44ad4a53ef.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Der Bergdoktor",
+    "url": "https://jmp2.uk/plu-69b0167477cdde1f05c8a625.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Der Chef",
+    "url": "https://jmp2.uk/plu-67dc21ce5a15c0759a07ee19.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Der Denver-Clan",
+    "url": "https://jmp2.uk/plu-62cebd7302478b00073a6b71.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Die fliegenden \u00c4rzte",
+    "url": "https://jmp2.uk/plu-688734b9035d6ef9c34aac16.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Die glorreichen Sieben",
+    "url": "https://jmp2.uk/plu-69c2ac2b14c0213702da7a29.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Die Nanny",
+    "url": "https://jmp2.uk/plu-66c6fc06489bab0008b6f9da.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Die Sieben-Millionen-Dollar-Frau",
+    "url": "https://jmp2.uk/plu-677fb078a4af36ad50111032.m3u8",
+    "quality": "684p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Dominance FC TV",
+    "url": "https://jmp2.uk/plu-685aaec481c345899e4458bb.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Don Matteo",
+    "url": "https://jmp2.uk/plu-686d004094a028da3aac8cb0.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Dyn Sport Mix",
+    "url": "https://jmp2.uk/plu-6866525c8a412a0e95c438b4.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Ein Engel auf Erden",
+    "url": "https://jmp2.uk/plu-622f487722d9d400075f74dd.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Eine himmlische Familie",
+    "url": "https://jmp2.uk/plu-66a244d5cd0d3100083b1e47.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Eine schrecklich nette Familie",
+    "url": "https://jmp2.uk/plu-67a324d221af380008105d6f.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "F.B.I. Files",
+    "url": "https://jmp2.uk/plu-64eddce19001910008df22b8.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Farmland TV",
+    "url": "https://jmp2.uk/plu-663a15d7cb3ea10008edac88.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Filmgold",
+    "url": "https://jmp2.uk/plu-6305ca798bd95300072d2f93.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Flipper",
+    "url": "https://jmp2.uk/plu-68d277fb12bf71eaaed3e9f1.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Fluss-Monster",
+    "url": "https://jmp2.uk/plu-62a0b2aff4cf470007e47e29.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Fury",
+    "url": "https://jmp2.uk/plu-6270ea4345f5bc0007823048.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Gigolos",
+    "url": "https://jmp2.uk/plu-68d27437e6767bdeb23f0336.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Hausmeister Krause",
+    "url": "https://jmp2.uk/plu-622f6faf65be650007f57aab.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Just.fishing",
+    "url": "https://jmp2.uk/plu-61b33085897b9d000702b72e.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "KultKrimi",
+    "url": "https://jmp2.uk/plu-5cb5cfe5caf83414128f209e.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "KultKrimi: Der Alte",
+    "url": "https://jmp2.uk/plu-65dde5ef28730900089af7cf.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "KultKrimi: Der Kommissar",
+    "url": "https://jmp2.uk/plu-65dde626ec9fda0008b3dc89.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "KultKrimi: Derrick",
+    "url": "https://jmp2.uk/plu-65dde5848145cb00083277f6.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "KultKrimi: Die Rettungsflieger",
+    "url": "https://jmp2.uk/plu-67ed0c86f7c5d70b90889a51.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "KultKrimi: Ein Fall f\u00fcr zwei",
+    "url": "https://jmp2.uk/plu-68590366010ddd78ef837d29.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "KultKrimi: K\u00fcstenwache",
+    "url": "https://jmp2.uk/plu-67ebbdced2832b463faa1e79.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Ladykracher",
+    "url": "https://jmp2.uk/plu-667d3534ca74680008696051.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Liebe S\u00fcnde",
+    "url": "https://jmp2.uk/plu-68d276ce59fd82da32267d0d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Love Boat",
+    "url": "https://jmp2.uk/plu-655ca3d1fbc15b00081f1186.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Merhaba T\u00fcrkische Serien",
+    "url": "https://jmp2.uk/plu-6864e8f264d94c1425fb4563.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Missions",
+    "url": "https://jmp2.uk/plu-6824539e1295f98347e95242.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "MODUS Super Series Darts",
+    "url": "https://jmp2.uk/plu-66337e6ba0a74e000889563b.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Mork vom Ork",
+    "url": "https://jmp2.uk/plu-642ad2127ef83900085f8910.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
