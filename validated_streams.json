@@ -104878,5 +104878,951 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "SouthPark.se",
+    "feed": "DK",
+    "title": "South Park",
+    "url": "https://jmp2.uk/plu-61c098df897b9d00070375c8.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthPark.se",
+    "feed": "NO",
+    "title": "South Park",
+    "url": "https://jmp2.uk/plu-61c1e88cd168ea0007068133.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthPark.se",
+    "feed": "SE",
+    "title": "South Park",
+    "url": "https://jmp2.uk/plu-61c0b627e3ed94000793c18a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthPark.us",
+    "feed": "CA",
+    "title": "South Park",
+    "url": "https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkArmageddon.se",
+    "feed": "DK",
+    "title": "South Park Armageddon",
+    "url": "https://jmp2.uk/plu-660bff28516d260008479e23.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkArmageddon.se",
+    "feed": "NO",
+    "title": "South Park Armageddon",
+    "url": "https://jmp2.uk/plu-660bff5724e1d000085b7c07.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkArmageddon.se",
+    "feed": "SE",
+    "title": "South Park Armageddon",
+    "url": "https://jmp2.uk/plu-660bff7dc8311c0008b4bdb4.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkButtersCollection.de",
+    "feed": "DACH",
+    "title": "South Park: Butters Collection",
+    "url": "https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkButtersCollection.se",
+    "feed": "DK",
+    "title": "South Park: Butters Collection",
+    "url": "https://jmp2.uk/plu-65d87a66ec9fda0008a5ac11.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkButtersCollection.se",
+    "feed": "NO",
+    "title": "South Park: Butters Collection",
+    "url": "https://jmp2.uk/plu-65d87fcb66eec8000887f4aa.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkButtersCollection.se",
+    "feed": "SE",
+    "title": "South Park: Butters Collection",
+    "url": "https://jmp2.uk/plu-65d881d566eec8000887f6bb.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkCartmanCollection.de",
+    "feed": "DACH",
+    "title": "South Park: Cartman Collection",
+    "url": "https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkCartmanCollection.se",
+    "feed": "DK",
+    "title": "South Park: Cartman Collection",
+    "url": "https://jmp2.uk/plu-65d87a058145cb0008265c2e.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkCartmanCollection.se",
+    "feed": "NO",
+    "title": "South Park: Cartman Collection",
+    "url": "https://jmp2.uk/plu-65d87fa0f7f0af0008b2358b.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkCartmanCollection.se",
+    "feed": "SE",
+    "title": "South Park: Cartman Collection",
+    "url": "https://jmp2.uk/plu-65d881b1332fec000833a122.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkCartmanCollection.us",
+    "feed": "CA",
+    "title": "South Park: Cartman Collection",
+    "url": "https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkColecaoCartman.us",
+    "feed": "BR",
+    "title": "South Park: Cole\u00e7\u00e3o Cartman",
+    "url": "https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkColecaoKenny.us",
+    "feed": "BR",
+    "title": "South Park: Cole\u00e7\u00e3o Kenny",
+    "url": "https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkColecaoKyle.us",
+    "feed": "BR",
+    "title": "South Park: Cole\u00e7\u00e3o Kyle",
+    "url": "https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkColecaoStan.us",
+    "feed": "BR",
+    "title": "South Park: Cole\u00e7\u00e3o Stan",
+    "url": "https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkColeccionCartman.us",
+    "feed": "LatAm",
+    "title": "South Park: Colecci\u00f3n Cartman",
+    "url": "https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkColeccionKenny.us",
+    "feed": "LatAm",
+    "title": "South Park: Colecci\u00f3n Kenny",
+    "url": "https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkColeccionKyle.us",
+    "feed": "LatAm",
+    "title": "South Park: Colecci\u00f3n Kyle",
+    "url": "https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkColeccionStan.us",
+    "feed": "LatAm",
+    "title": "South Park: Colecci\u00f3n Stan",
+    "url": "https://jmp2.uk/plu-65df72db18036500081a8292.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkEnFrancais.us",
+    "feed": "CA",
+    "title": "South Park En Fran\u00e7ais",
+    "url": "https://jmp2.uk/plu-62bdb919d36cbd0007e6ab8a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkIntotheStars.se",
+    "feed": "DK",
+    "title": "South Park: Into the Stars",
+    "url": "https://jmp2.uk/plu-664f0eaa8ce31100088036bd.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkIntotheStars.se",
+    "feed": "NO",
+    "title": "South Park: Into the Stars",
+    "url": "https://jmp2.uk/plu-664f0ecc41af640008e37b43.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkIntotheStars.se",
+    "feed": "SE",
+    "title": "South Park: Into the Stars",
+    "url": "https://jmp2.uk/plu-664f0eea0120f40008bf97d6.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkKennyCollection.de",
+    "feed": "DACH",
+    "title": "South Park: Kenny Collection",
+    "url": "https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkKennyCollection.se",
+    "feed": "DK",
+    "title": "South Park: Kenny Collection",
+    "url": "https://jmp2.uk/plu-65d879bd0d4561000805d190.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkKennyCollection.se",
+    "feed": "NO",
+    "title": "South Park: Kenny Collection",
+    "url": "https://jmp2.uk/plu-65d87f53ec9fda0008a5b810.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkKennyCollection.se",
+    "feed": "SE",
+    "title": "South Park: Kenny Collection",
+    "url": "https://jmp2.uk/plu-65d880cea25d5e0008315b0a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkKennyCollection.us",
+    "feed": "CA",
+    "title": "South Park: Kenny Collection",
+    "url": "https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkKyleCollection.de",
+    "feed": "DACH",
+    "title": "South Park: Kyle Collection",
+    "url": "https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkKyleCollection.se",
+    "feed": "DK",
+    "title": "South Park: Kyle Collection",
+    "url": "https://jmp2.uk/plu-65d87a908145cb0008265c6d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkKyleCollection.se",
+    "feed": "NO",
+    "title": "South Park: Kyle Collection",
+    "url": "https://jmp2.uk/plu-65d88004ec9fda0008a5b8b3.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkKyleCollection.se",
+    "feed": "SE",
+    "title": "South Park: Kyle Collection",
+    "url": "https://jmp2.uk/plu-65d882394e01740008a36768.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkKyleCollection.us",
+    "feed": "CA",
+    "title": "South Park: Kyle Collection",
+    "url": "https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkOriginalVersion.de",
+    "feed": "DACH",
+    "title": "South Park: Original Version",
+    "url": "https://jmp2.uk/plu-646b150a15939400089e2702.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkRockinOut.se",
+    "feed": "DK",
+    "title": "South Park Rockin' Out",
+    "url": "https://jmp2.uk/plu-664f132c8ea5560008ce4d86.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkRockinOut.se",
+    "feed": "NO",
+    "title": "South Park Rockin' Out",
+    "url": "https://jmp2.uk/plu-664f1370f78a8500092df452.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkRockinOut.se",
+    "feed": "SE",
+    "title": "South Park Rockin' Out",
+    "url": "https://jmp2.uk/plu-664f13aff9992200084a3532.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkStanCollection.de",
+    "feed": "DACH",
+    "title": "South Park: Stan Collection",
+    "url": "https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkStanCollection.se",
+    "feed": "DK",
+    "title": "South Park: Stan Collection",
+    "url": "https://jmp2.uk/plu-65d879e266eec8000887e91b.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkStanCollection.se",
+    "feed": "NO",
+    "title": "South Park: Stan Collection",
+    "url": "https://jmp2.uk/plu-65d87f7a28730900088e7fbf.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkStanCollection.se",
+    "feed": "SE",
+    "title": "South Park: Stan Collection",
+    "url": "https://jmp2.uk/plu-65d881914e01740008a36603.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkStanCollection.us",
+    "feed": "CA",
+    "title": "South Park: Stan Collection",
+    "url": "https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkVersionOriginal.de",
+    "feed": "ES",
+    "title": "South Park Versi\u00f3n Original",
+    "url": "https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkWelcometoCanada.us",
+    "feed": "CA",
+    "title": "South Park: Welcome to Canada!",
+    "url": "https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SOUTV.br",
+    "feed": "SD",
+    "title": "SOU TV",
+    "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SowetoTV.za",
+    "feed": "SD",
+    "title": "Soweto TV",
+    "url": "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SoyonGegeeruulegchTV.mn",
+    "feed": "SD",
+    "title": "\u0421\u043e\u0451\u043d \u0413\u044d\u0433\u044d\u044d\u0440\u04af\u04af\u043b\u044d\u0433\u0447",
+    "url": "https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/DASH-FTA/SoyonGegeeruulegch.mpd",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "SoyonGegeeruulegchTV.mn",
+    "feed": "SD",
+    "title": "\u0421\u043e\u0451\u043d \u0413\u044d\u0433\u044d\u044d\u0440\u04af\u04af\u043b\u044d\u0433\u0447",
+    "url": "https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/HLSv3-FTA/SoyonGegeeruulegch.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "SOYPlanchaTV.cr",
+    "feed": "SD",
+    "title": "SOY Plancha TV",
+    "url": "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Soyuz.ru",
+    "feed": "SD",
+    "title": "\u0421\u043e\u044e\u0437",
+    "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Soyuzny.ru",
+    "feed": "SD",
+    "title": "Soyuzny",
+    "url": "https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Soyuzny.ru",
+    "feed": "SD",
+    "title": "Soyuzny",
+    "url": "http://178.124.179.122:8080/TRO/index.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Space.ar",
+    "feed": "Panregional",
+    "title": "Space",
+    "url": "http://45.171.64.30:6060/play/a04n/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpaceLivepoweredbysen.uk",
+    "feed": "SD",
+    "title": "Space Live",
+    "url": "https://jmp2.uk/plu-69a554497ed3b3fff0b9ca80.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpaceLivepoweredbysen.uk",
+    "feed": "SD",
+    "title": "Space Live",
+    "url": "https://jmp2.uk/plu-69b16dc543d0f313203b714c.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpaceLivepoweredbysen.uk",
+    "feed": "SD",
+    "title": "Space Live",
+    "url": "https://jmp2.uk/plu-69b3db5d61e8e298254c7108.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpaceLivepoweredbysen.uk",
+    "feed": "SD",
+    "title": "Space Live",
+    "url": "https://jmp2.uk/plu-69b3db536c0414a7ecf564fb.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpaceLivepoweredbysen.uk",
+    "feed": "SD",
+    "title": "Space Live",
+    "url": "https://jmp2.uk/plu-69b1489b5828e7c242d83064.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpaceLivepoweredbysen.uk",
+    "feed": "SD",
+    "title": "Space Live",
+    "url": "https://jmp2.uk/plu-69b16df6ed2a2444365e7ff1.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpaceLivepoweredbysen.uk",
+    "feed": "SD",
+    "title": "Space Live",
+    "url": "https://jmp2.uk/plu-69b16e2b65c1df7564fc750b.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpaceLivepoweredbysen.uk",
+    "feed": "SD",
+    "title": "Space Live",
+    "url": "https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpacetoonArabic.ae",
+    "feed": "SD",
+    "title": "Spacetoon Arabic",
+    "url": "https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": "https://spacetoon.com"
+  },
+  {
+    "channel": "SpacetoonTurkey.tr",
+    "feed": "SD",
+    "title": "Spacetoon Turkey",
+    "url": "https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": "https://spacetoon.com.tr/"
+  },
+  {
+    "channel": "SparkTV.uk",
+    "feed": "SD",
+    "title": "Spark TV",
+    "url": "https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Spas.ru",
+    "feed": "SD",
+    "title": "Spas",
+    "url": "https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Spas.ru",
+    "feed": "SD",
+    "title": "Spas",
+    "url": "http://31.148.5.241/kanal_12/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Spas.ru",
+    "feed": "SD",
+    "title": "\u0421\u043f\u0430\u0441",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8",
+    "quality": "450p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": "WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer",
+    "referrer": null
+  },
+  {
+    "channel": "SpektraTV.es",
+    "feed": "SD",
+    "title": "SpektraTV",
+    "url": "https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Spektrum.cz",
+    "feed": "SD",
+    "title": "Spektrum",
+    "url": "http://88.212.15.50/live/test_spektrum/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Spektrum.hu",
+    "feed": "SD",
+    "title": "Spektrum",
+    "url": "http://88.212.7.14/live/spektrum_hun/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "SpektrumHome.cz",
+    "feed": "SD",
+    "title": "Spektrum Home",
+    "url": "http://88.212.15.50/live/test_home_hevc/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpektrumHome.hu",
+    "feed": "SD",
+    "title": "Spektrum Home",
+    "url": "http://88.212.7.14/live/spektrum_home_hun/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "SperantaTV.ro",
+    "feed": "SD",
+    "title": "SperantaTV",
+    "url": "https://jstre.am/live/jsl:2gNjpghXRLE.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpikeOutdoors.us",
+    "feed": "SD",
+    "title": "Spike Outdoors",
+    "url": "https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpikePlutoTV.us",
+    "feed": "SD",
+    "title": "Spike Pluto TV",
+    "url": "https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Spiler1.hu",
+    "feed": "SD",
+    "title": "Spiler 1",
+    "url": "http://88.212.7.14/live/spiler1/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Spiler2.hu",
+    "feed": "SD",
+    "title": "Spiler 2",
+    "url": "http://88.212.7.14/live/spiler2/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "SpiritTV.us",
+    "feed": "SD",
+    "title": "Spirit TV",
+    "url": "https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Spondon.in",
+    "feed": "SD",
+    "title": "Spondon",
+    "url": "https://mumt05.tangotv.in/87NeALx2SPONDON/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpongeBobSchwammkopf.de",
+    "feed": "DACH",
+    "title": "SpongeBob Schwammkopf",
+    "url": "https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpongeBobSquarePants.us",
+    "feed": "CA",
+    "title": "SpongeBob SquarePants",
+    "url": "https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Sport1.cz",
+    "feed": "SD",
+    "title": "Sport1",
+    "url": "http://88.212.15.50/live/test_sport1_25p/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Sport1.hu",
+    "feed": "SD",
+    "title": "Sport 1",
+    "url": "http://88.212.7.14/live/sport1_hun/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Sport1.ua",
+    "feed": "SD",
+    "title": "Sport 1",
+    "url": "http://stream.mcquack.net/391/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Sport1Baltic.ua",
+    "feed": "SD",
+    "title": "Sport 1 Baltic",
+    "url": "http://stream.mcquack.net/461/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Sport2.cz",
+    "feed": "SD",
+    "title": "Sport2",
+    "url": "http://88.212.15.50/live/test_sport_2/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Sport2.hu",
+    "feed": "SD",
+    "title": "Sport 2",
+    "url": "http://88.212.7.14/live/sport2_hun/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Sport2.ua",
+    "feed": "SD",
+    "title": "Sport 2",
+    "url": "http://stream.mcquack.net/392/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Sport3.ua",
+    "feed": "SD",
+    "title": "Sport 3",
+    "url": "http://stream.mcquack.net/393/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
   }
 ]
