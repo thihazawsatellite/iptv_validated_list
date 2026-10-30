@@ -79404,5 +79404,395 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.uk",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "http://tvsen7.aynascope.net/nicklodean/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.us",
+    "feed": "East",
+    "title": "Nickelodeon",
+    "url": "http://198.58.104.90:8989/nickelodeon/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonCIS.kz",
+    "feed": "SD",
+    "title": "Nickelodeon CIS",
+    "url": "https://stream8.cinerama.uz/1500/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonClasico.us",
+    "feed": "LatAm",
+    "title": "Nickelodeon Cl\u00e1sico",
+    "url": "https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonClassico.us",
+    "feed": "BR",
+    "title": "Nickelodeon Cl\u00e1ssico",
+    "url": "https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonClassics.de",
+    "feed": "DACH",
+    "title": "Nickelodeon Classics",
+    "url": "https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeonenespanol.us",
+    "feed": "SD",
+    "title": "Nickelodeon en espa\u00f1ol",
+    "url": "https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonLatinAmerica.us",
+    "feed": "Panregional",
+    "title": "Nickelodeon Latin America",
+    "url": "http://190.93.224.42/NICK/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonLatinAmerica.us",
+    "feed": "Panregional",
+    "title": "Nickelodeon Latin America",
+    "url": "https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonLatinAmerica.us",
+    "feed": "Panregional",
+    "title": "Nickelodeon Latin America",
+    "url": "http://181.78.79.131:8000/play/a0qm",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonPlutoTV.us",
+    "feed": "SD",
+    "title": "Nickelodeon Pluto TV",
+    "url": "https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonTeen.de",
+    "feed": "DACH",
+    "title": "Nickelodeon Teen",
+    "url": "https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonTeen.us",
+    "feed": "BR",
+    "title": "Nickelodeon Teen",
+    "url": "https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonTeen.us",
+    "feed": "LatAm",
+    "title": "Nickelodeon Teen",
+    "url": "https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonToons.de",
+    "feed": "DACH",
+    "title": "Nickelodeon Toons",
+    "url": "https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonToons.us",
+    "feed": "BR",
+    "title": "Nickelodeon Toons",
+    "url": "https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonToons.us",
+    "feed": "LatAm",
+    "title": "Nickelodeon Toons",
+    "url": "https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJr.cz",
+    "feed": "SD",
+    "title": "Nick Jr.",
+    "url": "http://88.212.15.50/live/test_nick_jr/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "NickJr.hr",
+    "feed": "SD",
+    "title": "Nick Jr.",
+    "url": "http://176.61.157.250/NickJr/index.m3u8",
+    "quality": "540p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJr.hu",
+    "feed": "SD",
+    "title": "Nick Jr.",
+    "url": "http://88.212.7.14/live/nick_junior_hun/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "NickJr.it",
+    "feed": "SD",
+    "title": "Nick Jr.",
+    "url": "http://102.129.186.182:81/nick/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJr.it",
+    "feed": "SD",
+    "title": "Nick Jr.",
+    "url": "https://streamer-jv9.pages.dev/italy/nickjr.m3u",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJr.pl",
+    "feed": "SD",
+    "title": "Nick Jr.",
+    "url": "http://92.114.85.87:8013/play/a004/index.m3u8",
+    "quality": "576i",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJr.ru",
+    "feed": "SD",
+    "title": "Nick Jr.",
+    "url": "http://stream.mcquack.net/220/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJr.ru",
+    "feed": "SD",
+    "title": "Nick Jr.",
+    "url": "https://stream8.cinerama.uz/1501/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJr.us",
+    "feed": "East",
+    "title": "Nick Jr.",
+    "url": "http://212.5.144.156:8080/nickjr/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJr.us",
+    "feed": "East",
+    "title": "Nick Jr.",
+    "url": "http://tvsen7.aynascope.net/nickjr/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJrClub.de",
+    "feed": "DACH",
+    "title": "Nick Jr. Club",
+    "url": "https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJrClub.us",
+    "feed": "BR",
+    "title": "Nick Jr. Club",
+    "url": "https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJrClub.us",
+    "feed": "LatAm",
+    "title": "Nick Jr. Club",
+    "url": "https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJrLatinAmerica.us",
+    "feed": "Panregional",
+    "title": "Nick Jr. Latin America",
+    "url": "https://streaming.onnethn.com/NICK_JR/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJrPlutoTV.us",
+    "feed": "CA",
+    "title": "Nick Jr. Pluto TV",
+    "url": "https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJrPlutoTV.us",
+    "feed": "US",
+    "title": "Nick Jr. Pluto TV",
+    "url": "https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nicktoons.cz",
+    "feed": "SD",
+    "title": "Nicktoons",
+    "url": "http://88.212.15.50/live/test_nicktoons/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nicktoons.hu",
+    "feed": "SD",
+    "title": "Nicktoons",
+    "url": "http://88.212.7.14/live/nicktoons_hungary/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Nicktoons.pl",
+    "feed": "SD",
+    "title": "Nicktoons",
+    "url": "http://92.114.85.87:8013/play/a008/index.m3u8",
+    "quality": "576i",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nicktoons.us",
+    "feed": "CA",
+    "title": "NickToons",
+    "url": "https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nicktoons.us",
+    "feed": "East",
+    "title": "Nicktoons",
+    "url": "http://41.205.93.154/NICKTOONS/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nicktoons.us",
+    "feed": "East",
+    "title": "Nicktoons",
+    "url": "https://tvsen7.aynascope.net/nicktoons/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
