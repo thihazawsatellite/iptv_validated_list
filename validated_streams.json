@@ -36620,5 +36620,1637 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "ChannelDivya.in",
+    "feed": "SD",
+    "title": "Channel Divya",
+    "url": "https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChannelDivya.in",
+    "feed": "SD",
+    "title": "Channel Divya",
+    "url": "https://mumbai-edge.smartplaytv.in/channeldivya/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChannelDivya.in",
+    "feed": "SD",
+    "title": "Channel Divya",
+    "url": "https://mumt05.tangotv.in/87NeALx2DIVYA/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChannelDivya.in",
+    "feed": "SD",
+    "title": "Channel Divya",
+    "url": "https://fta.ektv.in/live/166/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "ChannelOne.ru",
+    "feed": "Europa",
+    "title": "Channel One Europa",
+    "url": "https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChannelOne.ru",
+    "feed": "Europe",
+    "title": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043a\u0430\u043d\u0430\u043b \u0415\u0432\u0440\u043e\u043f\u0430",
+    "url": "https://streaming.thestream.cyou/live/210.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChannelOne.ru",
+    "feed": "SD",
+    "title": "Channel One",
+    "url": "http://178.217.49.7/1/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChannelOne.ru",
+    "feed": "SD",
+    "title": "Channel One",
+    "url": "http://31.148.5.241/kanal_1/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChannelOne.ru",
+    "feed": "SD",
+    "title": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043a\u0430\u043d\u0430\u043b",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8",
+    "quality": "450p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": "WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer",
+    "referrer": null
+  },
+  {
+    "channel": "ChannelS.bd",
+    "feed": "SD",
+    "title": "Channel S",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChannelS.uk",
+    "feed": "SD",
+    "title": "Channel S",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChannelU.sg",
+    "feed": "SD",
+    "title": "Channel U",
+    "url": "https://cdn.qd.je/163189/chu",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChannelWIN.in",
+    "feed": "SD",
+    "title": "Channel WIN",
+    "url": "https://mumt05.tangotv.in/87NeALx2CHANNELWIN/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChannelWIN.in",
+    "feed": "SD",
+    "title": "Channel WIN",
+    "url": "https://fta.ektv.in/live/648/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "ChannelWIN.in",
+    "feed": "SD",
+    "title": "Channel WIN",
+    "url": "https://cdn.pishow.tv/ott/live/229/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChaosCity.us",
+    "feed": "Germany",
+    "title": "Chaos City",
+    "url": "https://jmp2.uk/plu-60afbad343e3840007164348.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChaozhouPublicChannel.cn",
+    "feed": "SD",
+    "title": "Chaozhou Public Channel",
+    "url": "http://113.64.146.48:1688/hls/4/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChappellesShow.se",
+    "feed": "DK",
+    "title": "Chappelle's Show",
+    "url": "https://jmp2.uk/plu-65e976ad0d456100082d9b74.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChappellesShow.se",
+    "feed": "NO",
+    "title": "Chappelle's Show",
+    "url": "https://jmp2.uk/plu-65e977a618036500082ec972.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChappellesShow.se",
+    "feed": "SE",
+    "title": "Chappelle's Show",
+    "url": "https://jmp2.uk/plu-65e9783b0d456100082d9e05.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChardiklaGurbaaniTV.in",
+    "feed": "SD",
+    "title": "Chardikla Gurbaani TV",
+    "url": "https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChardiklaTimeTV.in",
+    "feed": "SD",
+    "title": "Chardikla Time TV",
+    "url": "https://cdn.pishow.tv/ott/live/1627/master.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChardiklaTimeTV.in",
+    "feed": "SD",
+    "title": "Chardikla Time TV",
+    "url": "https://streams.tangotv.in/CHARDIKALATIMETV/ORIGIN/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChardiklaTimeTV.in",
+    "feed": "SD",
+    "title": "Chardikla Time TV",
+    "url": "https://mumt07.tangotv.in/zHjX9OFlCHARDIKALATIMETV/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChardiklaTimeTV.in",
+    "feed": "SD",
+    "title": "Chardikla Time TV",
+    "url": "https://fta.ektv.in/live/645/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "ChardiklaTimeTVNorthAmerica.in",
+    "feed": "SD",
+    "title": "Chardikla Time TV North America",
+    "url": "https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Charge.us",
+    "feed": "SD",
+    "title": "Charge!",
+    "url": "https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CharityTV.lb",
+    "feed": "SD",
+    "title": "Charity TV",
+    "url": "https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CharityTV.lb",
+    "feed": "SD",
+    "title": "CharityTV",
+    "url": "http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CharoenCable37TV.th",
+    "feed": "SD",
+    "title": "Charoen Cable 37 TV",
+    "url": "http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Charterfeber.se",
+    "feed": "NO",
+    "title": "Charterfeber",
+    "url": "https://jmp2.uk/plu-61c1dda0fe470d00080f85b8.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Che.ru",
+    "feed": "SD",
+    "title": "Che!",
+    "url": "http://flussonic.linkintel.ru/che/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Che.ru",
+    "feed": "SD",
+    "title": "Che!",
+    "url": "http://176.118.197.101/Che/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Che.ru",
+    "feed": "SD",
+    "title": "\u0427\u0435!",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8",
+    "quality": "540p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": "WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",
+    "referrer": null
+  },
+  {
+    "channel": "CheddarNews.us",
+    "feed": "SD",
+    "title": "Cheddar News",
+    "url": "https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CheddarNews.us",
+    "feed": "SD",
+    "title": "Cheddar News",
+    "url": "https://wurlcheddar.global.transmit.live/hls/689ceac9301c34d3919676f3/v1/Cheddar/samsung_us/latest/main/hls/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cheers.de",
+    "feed": "DACH",
+    "title": "Cheers",
+    "url": "https://jmp2.uk/plu-611e7f224676bf00076a4d8d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cheers.de",
+    "feed": "FR",
+    "title": "Cheers",
+    "url": "https://jmp2.uk/plu-65cce14060eb870008dbd003.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cheers.se",
+    "feed": "NO",
+    "title": "Cheers",
+    "url": "https://jmp2.uk/plu-63e389dcc111bc0008ee5b8c.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cheers.us",
+    "feed": "CA",
+    "title": "Cheers",
+    "url": "https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CheersPlusFrasier.us",
+    "feed": "SD",
+    "title": "Cheers + Frasier",
+    "url": "https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChefChampion.us",
+    "feed": "SD",
+    "title": "Chef Champion",
+    "url": "https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Chefiro.ro",
+    "feed": "SD",
+    "title": "Chefi.ro",
+    "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChefRocShow.us",
+    "feed": "SD",
+    "title": "Chef Roc Show",
+    "url": "https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CheksizTV.uz",
+    "feed": "SD",
+    "title": "Cheksiz TV",
+    "url": "https://fl.biztv.media/cheksiz_tv_480_unif7hujidth7f4du83jrhuid3k94j8hfj8d93eubych8eju93n4ubt/tracks-v1a1/mono.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChemodanTV.ua",
+    "feed": "SD",
+    "title": "Chemodan TV",
+    "url": "http://stream.mcquack.net/399/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "ChhayaChitramTelugu.in",
+    "feed": "SD",
+    "title": "Chhaya Chitram Telugu",
+    "url": "https://samitaorigin.tangotv.in/CHHAYACHITRAMTELUGU/SAMITAORIGIN/index.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChifengComprehensiveNewsChanel.cn",
+    "feed": "SD",
+    "title": "Chifeng Comprehensive News Chanel",
+    "url": "http://play1-qk.nmtv.cn/live/1735546697341033.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Chikitoonz.pe",
+    "feed": "SD",
+    "title": "Chikitoonz",
+    "url": "http://45.70.201.81:8000/play/a00p/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChileChannel.cl",
+    "feed": "SD",
+    "title": "Chile Channel",
+    "url": "https://v2.tustreaming.cl/chilechannel/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChiloeRed25.cl",
+    "feed": "SD",
+    "title": "Chiloe Red 25",
+    "url": "https://v2.tustreaming.cl/chiloered/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChinaChannel.cl",
+    "feed": "SD",
+    "title": "China Channel",
+    "url": "https://v2.tustreaming.cl/chinachannel/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChinaTravel.cn",
+    "feed": "SD",
+    "title": "China Travel",
+    "url": "https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChinaTravel.cn",
+    "feed": "SD",
+    "title": "China Travel",
+    "url": "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChinolaTV.do",
+    "feed": "SD",
+    "title": "Chinola TV",
+    "url": "https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChintpurniLive.in",
+    "feed": "SD",
+    "title": "Chintpurni Live",
+    "url": "https://samitaorigin.tangotv.in/CHINTPURNILIVE/SAMITAORIGIN/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChintpurniLive.in",
+    "feed": "SD",
+    "title": "Chintpurni Live",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Chithiram.in",
+    "feed": "SD",
+    "title": "Chithiram",
+    "url": "https://cdn.pishow.tv/ott/live/1243/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CholutecaTV.hn",
+    "feed": "SD",
+    "title": "Choluteca TV",
+    "url": "https://s.emisoras.tv:8081/cholutecatv/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Choppertown.us",
+    "feed": "SD",
+    "title": "Choppertown",
+    "url": "https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChosenTVEnglish.ng",
+    "feed": "SD",
+    "title": "Chosen TV English",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChristianYouthChannelCYC.us",
+    "feed": "SD",
+    "title": "Christian Youth Channel (CYC)",
+    "url": "http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChristianYouthChannelCYC.us",
+    "feed": "SD",
+    "title": "Christian Youth Channel (CYC)",
+    "url": "http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChromaTV.br",
+    "feed": "SD",
+    "title": "Chroma TV",
+    "url": "https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CHTV.hn",
+    "feed": "SD",
+    "title": "CHTV",
+    "url": "https://viewhn.com/chtv/live/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ChuxiongNewsChannel.cn",
+    "feed": "SD",
+    "title": "Chuxiong News Channel",
+    "url": "http://hwapi.yntv.net/ew265l/848y54.m3u8",
+    "quality": null,
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CibaenaTV.do",
+    "feed": "SD",
+    "title": "Cibae\u00f1a TV",
+    "url": "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CieloTV.do",
+    "feed": "SD",
+    "title": "Cielo TV",
+    "url": "https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CiftciTV.tr",
+    "feed": "SD",
+    "title": "\u00c7ift\u00e7i TV",
+    "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CinCin.de",
+    "feed": "IT",
+    "title": "Cin Cin",
+    "url": "https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cine666byPlutoTV.de",
+    "feed": "FR",
+    "title": "Cin\u00e9 666 by Pluto TV",
+    "url": "https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineActionbyPlutoTV.de",
+    "feed": "FR",
+    "title": "Cin\u00e9 Action by Pluto TV",
+    "url": "https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineAdrenalina.us",
+    "feed": "SD",
+    "title": "Cine adrenalina",
+    "url": "https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineAmor.us",
+    "feed": "SD",
+    "title": "Cine Amor",
+    "url": "https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cineaventura.us",
+    "feed": "SD",
+    "title": "Cine aventura",
+    "url": "https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "cinebox.bg",
+    "feed": "SD",
+    "title": "cine.box",
+    "url": "http://212.70.131.37:8000/play/a08b",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null
+  },
+  {
+    "channel": "CinebyPlutoTV.de",
+    "feed": "FR",
+    "title": "Cin\u00e9 by Pluto TV",
+    "url": "https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cinecanal.us",
+    "feed": "Pacific",
+    "title": "Cinecanal Pacific",
+    "url": "http://138.121.15.230:9002/CINECANAL/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cinecanal.us",
+    "feed": "Panregional",
+    "title": "Cinecanal",
+    "url": "http://190.61.47.54:8000/play/a02z/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cinecanal.us",
+    "feed": "Panregional",
+    "title": "Cinecanal",
+    "url": "https://barinaslive1.boldmss.com/CINECANAL/CINECANAL.isml/CINECANAL.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineCatastrophebyPlutoTV.de",
+    "feed": "FR",
+    "title": "Cin\u00e9 Catastrophe by Pluto TV",
+    "url": "https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CinedAsiebyPlutoTV.de",
+    "feed": "FR",
+    "title": "Cin\u00e9 d'Asie by Pluto TV",
+    "url": "https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cineenespanol.us",
+    "feed": "SD",
+    "title": "Cine en espa\u00f1ol",
+    "url": "https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineFriki.es",
+    "feed": "SD",
+    "title": "Zylo Cine Friki",
+    "url": "https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineHorreurbyPlutoTV.de",
+    "feed": "FR",
+    "title": "Cin\u00e9 Horreur by Pluto TV",
+    "url": "https://jmp2.uk/plu-66e1978babec540008ce41ac.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineJomjomat.in",
+    "feed": "SD",
+    "title": "Cine Jomjomat",
+    "url": "https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13779-amg13779c1-amgplt0016/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineLatino.mx",
+    "feed": "SD",
+    "title": "CineLatino",
+    "url": "http://200.115.96.61:9090/play/a0i5/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineLatino.mx",
+    "feed": "SD",
+    "title": "CineLatino",
+    "url": "http://168.196.127.137:6001/play/a08o/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cinema.mn",
+    "feed": "SD",
+    "title": "Cinema",
+    "url": "https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Cinema.mn",
+    "feed": "SD",
+    "title": "Cinema",
+    "url": "https://cdn1.skygo.mn/live/disk1/CinemaTV/HLS-FTA/CinemaTV.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Cinema.mn",
+    "feed": "SD",
+    "title": "Cinema",
+    "url": "https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Cinema.ru",
+    "feed": "SD",
+    "title": "Cinema",
+    "url": "https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cinema.ru",
+    "feed": "SD",
+    "title": "Cinema",
+    "url": "http://flussonic.linkintel.ru/cinema/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CinemaratonPlus.ro",
+    "feed": "HD",
+    "title": "Cinemaraton Plus",
+    "url": "https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8",
+    "quality": "1080i",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CinemaWorld.my",
+    "feed": "SD",
+    "title": "CinemaWorld",
+    "url": "https://cdn.qd.je/163189/cinemaworld",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cinemax2.cz",
+    "feed": "Czechia",
+    "title": "Cinemax 2",
+    "url": "http://88.212.15.50/live/test_cinemax2_hd_hevc/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cinemax.cz",
+    "feed": "Czechia",
+    "title": "Cinemax",
+    "url": "http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cinemax.us",
+    "feed": "West",
+    "title": "Cinemax West",
+    "url": "http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CinemaxAsia.sg",
+    "feed": "HD",
+    "title": "Cinemax Asia HD",
+    "url": "http://125.227.210.55:1001/VideoInput/play.ts",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CinemaxAsia.sg",
+    "feed": "SD",
+    "title": "Cinemax Asia",
+    "url": "https://tinyurl.com/44efw2rx",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CinemaxClassics.us",
+    "feed": "East",
+    "title": "Cinemax Classics",
+    "url": "http://23.237.104.106:8080/USA_5STARMAX/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CinemaxHits.us",
+    "feed": "East",
+    "title": "Cinemax Hits",
+    "url": "http://23.237.104.106:8080/USA_MOREMAX/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CinemaxLatinAmerica.us",
+    "feed": "SD",
+    "title": "Cinemax Latin America",
+    "url": "https://streaming.onnethn.com/CINEMAX/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineNanar.fr",
+    "feed": "SD",
+    "title": "Zylo Cin\u00e9 Nanar",
+    "url": "https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CinePlus.ua",
+    "feed": "SD",
+    "title": "Cine+",
+    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2gzMy90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1MjM2MiZzdD12bmp2elZKY2JtUndKMkFzY1l0UWpR&master=567",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "referrer": "http://live.tvstitch.com/"
+  },
+  {
+    "channel": "CinePlusHit.ua",
+    "feed": "SD",
+    "title": "Cine+ Hit",
+    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw%3D%3D&master=539",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "referrer": "http://live.tvstitch.com/"
+  },
+  {
+    "channel": "CinePlusKids.ua",
+    "feed": "SD",
+    "title": "Cine+ Kids",
+    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNzUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI5MDYmc3Q9TUtpMWlxbmN6NGFDdjRrdmN0TkVtUQ%3D%3D&master=540",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "referrer": "http://live.tvstitch.com/"
+  },
+  {
+    "channel": "CinePlusLegend.ua",
+    "feed": "SD",
+    "title": "Cine+ Legend",
+    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ%3D%3D&master=568",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "referrer": "http://live.tvstitch.com/"
+  },
+  {
+    "channel": "CinePremiere.us",
+    "feed": "SD",
+    "title": "Cine Premiere",
+    "url": "https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CinePremium.us",
+    "feed": "SD",
+    "title": "Cine Premium",
+    "url": "http://190.61.90.17:40000/play/a02i/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CinePride.us",
+    "feed": "SD",
+    "title": "CinePride",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2223",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineRetrobyPlutoTV.de",
+    "feed": "FR",
+    "title": "Cin\u00e9 R\u00e9tro by Pluto TV",
+    "url": "https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineRomancebyPlutoTV.de",
+    "feed": "FR",
+    "title": "Cin\u00e9 Romance by Pluto TV",
+    "url": "https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineSciFibyPlutoTV.de",
+    "feed": "FR",
+    "title": "Cin\u00e9 Sci-Fi by Pluto TV",
+    "url": "https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineSony.us",
+    "feed": "SD",
+    "title": "Cine Sony",
+    "url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineStar1Bulgaria.bg",
+    "feed": "SD",
+    "title": "CineStar 1 Bulgaria",
+    "url": "http://213.91.179.28:8000/play/a05h",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineTerror.us",
+    "feed": "BR",
+    "title": "Pluto TV Cine Terror",
+    "url": "https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineTerror.us",
+    "feed": "LatAm",
+    "title": "Pluto TV Cine Terror",
+    "url": "https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineTerror.us",
+    "feed": "US",
+    "title": "Cine terror",
+    "url": "https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineThrillersbyPlutoTV.de",
+    "feed": "FR",
+    "title": "Cin\u00e9 Thrillers by Pluto TV",
+    "url": "https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cinevault80s.us",
+    "feed": "SD",
+    "title": "Cinevault 80s",
+    "url": "https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8",
+    "quality": "540p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CinevaultWesterns.us",
+    "feed": "SD",
+    "title": "Cinevault Westerns",
+    "url": "https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8",
+    "quality": "540p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CinevisionCanal19.do",
+    "feed": "SD",
+    "title": "Cinevision Canal 19",
+    "url": "https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineWestern.fr",
+    "feed": "SD",
+    "title": "Zylo Cin\u00e9 Western",
+    "url": "https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineWesternbyPlutoTV.de",
+    "feed": "FR",
+    "title": "Cin\u00e9 Western by Pluto TV",
+    "url": "https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CineWow.ro",
+    "feed": "SD",
+    "title": "CineWow",
+    "url": "https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8",
+    "quality": "576i",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CinturaoVerde.br",
+    "feed": "SD",
+    "title": "Cinturao Verde",
+    "url": "https://play.redecinturaoverde.com.br/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CiracuTV.ec",
+    "feed": "SD",
+    "title": "Ciracu TV",
+    "url": "https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CiraTV.de",
+    "feed": "SD",
+    "title": "Cira TV",
+    "url": "https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Circle.us",
+    "feed": "SD",
+    "title": "Circle",
+    "url": "https://amg00432-circletvfast-amg00432c1-cineverse-us-1112.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-cineverseus/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Circle.us",
+    "feed": "SD",
+    "title": "Circle",
+    "url": "https://circle-klowdtv.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Circle.us",
+    "feed": "SD",
+    "title": "Circle",
+    "url": "https://circle-roku.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Circle.us",
+    "feed": "SD",
+    "title": "Circle",
+    "url": "https://circle-samsung.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Circle.us",
+    "feed": "SD",
+    "title": "Circle",
+    "url": "https://circle-xumo.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CitricoTV.do",
+    "feed": "SD",
+    "title": "Citrico TV",
+    "url": "https://edge.essastream.com/citricotv/playlist.m3u8",
+    "quality": "480p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CityNewsCalgary.ca",
+    "feed": "SD",
+    "title": "CityNews Calgary",
+    "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CityNewsEdmonton.ca",
+    "feed": "SD",
+    "title": "CityNews Edmonton",
+    "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CityNewsToronto.ca",
+    "feed": "SD",
+    "title": "CityNews Toronto",
+    "url": "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CityNewsVancouver.ca",
+    "feed": "SD",
+    "title": "CityNews Vancouver",
+    "url": "https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CityofFortPierce.us",
+    "feed": "SD",
+    "title": "Fort Pierce Live Stream (Fort Pierce FL)",
+    "url": "https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CityofPompanoBeach.us",
+    "feed": "SD",
+    "title": "Pompano Beach Web Streaming (Pompano Beach FL)",
+    "url": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/pompano/G0765_005/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CityTV20SantaMonica.us",
+    "feed": "SD",
+    "title": "Santa Monica City TV 20 (Santa Monica CA)",
+    "url": "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8",
+    "quality": "360p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CityTV.bg",
+    "feed": "SD",
+    "title": "City TV",
+    "url": "https://tv.city.bg/play/tshls/citytv/index.m3u8",
+    "quality": "576p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CityTV.hu",
+    "feed": "SD",
+    "title": "City TV",
+    "url": "https://citytv.hu/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CitytvBogota.co",
+    "feed": "SD",
+    "title": "Citytv Bogota",
+    "url": "http://138.121.15.230:9002/CITY-TV/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CityTVCarlsbad.us",
+    "feed": "SD",
+    "title": "Carlsbad City TV Channel (Carlsbad CA)",
+    "url": "https://edge-f.swagit.com/live/carlsbadca/live-3-a-1/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CityTVChannel341.us",
+    "feed": "SD",
+    "title": "Chino Hills City TV Channel 3/41",
+    "url": "https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CityTVLakewood.us",
+    "feed": "SD",
+    "title": "Lakewood CityTV",
+    "url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/lakewood/live/ch1/video.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CityTVSanDiego.us",
+    "feed": "SD",
+    "title": "CityTV San Diego",
+    "url": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CiudadesdelOcioTV.es",
+    "feed": "SD",
+    "title": "Ciudades Del Ocio TV",
+    "url": "https://cloudvideo.servers10.com:8081/8024/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CiudadMagica.ar",
+    "feed": "SD",
+    "title": "Ciudad Magica",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CiudadTVResistencia.ar",
+    "feed": "SD",
+    "title": "Ciudad TV Resistencia",
+    "url": "https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CJOnStyle.kr",
+    "feed": "SD",
+    "title": "CJ OnStyle",
+    "url": "https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8",
+    "quality": "540p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CJOnStylePlus.kr",
+    "feed": "SD",
+    "title": "CJ OnStyle Plus",
+    "url": "https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8",
+    "quality": "540p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Clan.es",
+    "feed": "SD",
+    "title": "Clan",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Clan.es",
+    "feed": "SD",
+    "title": "Clan TVE",
+    "url": "https://ztnr.rtve.es/ztnr/5466990.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Clan.es",
+    "feed": "SD",
+    "title": "Clan",
+    "url": "https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ClanInternacional.es",
+    "feed": "SD",
+    "title": "Clan Internacional Americas",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Clarity4K.us",
+    "feed": "SD",
+    "title": "Clarity 4K",
+    "url": "https://pb-qyrvophnifz47.akamaized.net/Clarity_4K.m3u8",
+    "quality": "2160p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
   }
 ]
