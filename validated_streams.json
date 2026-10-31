@@ -112840,5 +112840,425 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "TheFirstTV.us",
+    "feed": "SD",
+    "title": "The First TV",
+    "url": "https://thefirst-oando.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheFirstTV.us",
+    "feed": "SD",
+    "title": "Redseat The First",
+    "url": "https://a-cdn.klowdtv.com/live2/thefirst_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheFirstTV.us",
+    "feed": "SD",
+    "title": "The First",
+    "url": "https://jmp2.uk/plu-5d486acc34ceb37d3c458a64.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheFirstTV.us",
+    "feed": "SD",
+    "title": "The First",
+    "url": "https://pb-7dne0wn288z2f.akamaized.net/The_First.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheFishingHuntingChannel.hu",
+    "feed": "HD",
+    "title": "The Fishing & Hunting Channel HD",
+    "url": "http://88.212.7.14/live/fishing_hun/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "TheFishingHuntingChannel.hu",
+    "feed": "SD",
+    "title": "The Fishing & Hunting Channel",
+    "url": "http://88.212.7.14/live/test_fishing_hunting/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheGrahamNortonShow.uk",
+    "feed": "SD",
+    "title": "The Graham Norton Show",
+    "url": "https://jmp2.uk/plu-66166ce7aec96800080f6bd3.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheGrahamNortonShow.uk",
+    "feed": "SD",
+    "title": "The Graham Norton Show",
+    "url": "https://jmp2.uk/plu-6915dd5ca570568f53431c7f.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheGrahamNortonShow.uk",
+    "feed": "SD",
+    "title": "The Graham Norton Show",
+    "url": "https://jmp2.uk/plu-6915ddcb0d121b44ad1b6bf2.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheGrahamNortonShow.uk",
+    "feed": "SD",
+    "title": "The Graham Norton Show",
+    "url": "https://jmp2.uk/plu-6915de3d74601d957afa4592.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheGrahamNortonShow.uk",
+    "feed": "SD",
+    "title": "The Graham Norton Show",
+    "url": "https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheGrahamNortonShow.uk",
+    "feed": "SD",
+    "title": "The Graham Norton Show",
+    "url": "https://jmp2.uk/plu-66e06576abec540008cc17a9.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheGrahamNortonShow.uk",
+    "feed": "SD",
+    "title": "The Graham Norton Show",
+    "url": "https://amg00654-itv-amg00654c14-samsung-gb-2308.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheHillTV.us",
+    "feed": "SD",
+    "title": "The Hill",
+    "url": "https://pb-aq5tqlshz44jr.akamaized.net/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheIndonesiaChannel.id",
+    "feed": "SD",
+    "title": "The Indonesia Channel",
+    "url": "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheIslamicNetwork.tt",
+    "feed": "SD",
+    "title": "The Islamic Network",
+    "url": "https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheJamieOliverChannel.us",
+    "feed": "SD",
+    "title": "The Jamie Oliver Channel",
+    "url": "https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheJamieOliverChannel.us",
+    "feed": "SD",
+    "title": "The Jamie Oliver Channel",
+    "url": "https://jmp2.uk/plu-64dab9df3d48f40008868091.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheJamieOliverChannel.us",
+    "feed": "SD",
+    "title": "Jamie Oliver",
+    "url": "https://pb-gxzycliwq14lw.akamaized.net/Jamie_Oliver.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheJamieOliverChannel.us",
+    "feed": "SD",
+    "title": "The Jamie Oliver Channel",
+    "url": "https://jamieoliver-xumo.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheJudgeJudyChannel.us",
+    "feed": "CA",
+    "title": "The Judge Judy Channel",
+    "url": "https://jmp2.uk/plu-62e92e536f28870007fa9b3a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheJudgeJudyChannel.us",
+    "feed": "SD",
+    "title": "The Judge Judy Channel",
+    "url": "https://jmp2.uk/plu-6283d51144ad8f0007fa382d.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheLoop.us",
+    "feed": "SD",
+    "title": "The Loop",
+    "url": "https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheLoveBoat.us",
+    "feed": "SD",
+    "title": "The Love Boat",
+    "url": "https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheLWord.se",
+    "feed": "DK",
+    "title": "The L Word",
+    "url": "https://jmp2.uk/plu-693ae48864476d678e9b6235.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheLWord.se",
+    "feed": "NO",
+    "title": "The L Word",
+    "url": "https://jmp2.uk/plu-693ae4b616c2bba998852c21.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheLWord.se",
+    "feed": "SE",
+    "title": "The L Word",
+    "url": "https://jmp2.uk/plu-693ae4ee25e9a6646b198fb0.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheLWordWennFrauenlieben.de",
+    "feed": "DACH",
+    "title": "The L Word \u2013 Wenn Frauen lieben",
+    "url": "https://jmp2.uk/plu-68d2759a59fd82da3226492d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThemaTelevision.cl",
+    "feed": "SD",
+    "title": "Thema Televisi\u00f3n (La Serena)",
+    "url": "https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThemaTelevision.cl",
+    "feed": "SD",
+    "title": "Thema Televisi\u00f3n (La Serena)",
+    "url": "https://unlimited6-cl.dps.live/thema/thema.smil/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheMillers.se",
+    "feed": "DK",
+    "title": "The Millers",
+    "url": "https://jmp2.uk/plu-69afeefa0a7f2095e768401c.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheMillers.se",
+    "feed": "NO",
+    "title": "The Millers",
+    "url": "https://jmp2.uk/plu-69afef233bd16a4ed07108e9.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheMillers.se",
+    "feed": "SE",
+    "title": "The Millers",
+    "url": "https://jmp2.uk/plu-69afef4b0306b277744de1e4.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheMontereyChannel.us",
+    "feed": "SD",
+    "title": "Access Media Productions Monterey Channel",
+    "url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch3/video.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheMovieClub.in",
+    "feed": "HD",
+    "title": "The Movie Club",
+    "url": "https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheNanny.us",
+    "feed": "UK",
+    "title": "The Nanny",
+    "url": "https://jmp2.uk/plu-6391cef9edb23c0008598cee.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheNanny.us",
+    "feed": "UK",
+    "title": "The Nanny",
+    "url": "https://jmp2.uk/plu-6391df52d146a40007c265f3.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheNest.us",
+    "feed": "SD",
+    "title": "The Nest",
+    "url": "https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheNewDetectives.de",
+    "feed": "GB",
+    "title": "The New Detectives",
+    "url": "https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheNewDetectives.se",
+    "feed": "DK",
+    "title": "The New Detectives",
+    "url": "https://jmp2.uk/plu-618147d2a814250007b42916.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheNewDetectives.se",
+    "feed": "NO",
+    "title": "The New Detectives",
+    "url": "https://jmp2.uk/plu-6181511c1e13690007b143c2.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
