@@ -40124,5 +40124,685 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "Crime360.us",
+    "feed": "SD",
+    "title": "Crime 360",
+    "url": "https://jmp2.uk/plu-6578848a6e4f6a0008741910.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Crime360.us",
+    "feed": "SD",
+    "title": "Crime 360",
+    "url": "https://jmp2.uk/plu-6578875614fbe400086e319e.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Crimea24.ru",
+    "feed": "SD",
+    "title": "\u041a\u0440\u044b\u043c 24",
+    "url": "https://streaming.televizor-24-tochka.ru/live/28.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CrimenesImperfectos.us",
+    "feed": "SD",
+    "title": "Cr\u00edmenes imperfectos",
+    "url": "https://jmp2.uk/plu-5e94cd036cc69d0007e8a1ba.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CrimenHistoria.es",
+    "feed": "SD",
+    "title": "Crimen & Historia",
+    "url": "https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CrimePlusInvestigation.us",
+    "feed": "SD",
+    "title": "Crime + Investigation",
+    "url": "http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CrimePlusInvestigationAsia.sg",
+    "feed": "SD",
+    "title": "Crime + Investigation Asia HD",
+    "url": "https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CrimePlusInvestigationCEE.uk",
+    "feed": "SD",
+    "title": "Crime + Investigation CEE",
+    "url": "http://88.212.7.14/live/test_cai_hevc/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CrimePlusInvestigationPolsat.pl",
+    "feed": "SD",
+    "title": "Crime + Investigation Polsat",
+    "url": "http://92.114.85.87:8015/play/a00d/index.m3u8",
+    "quality": "576i",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cristovision.co",
+    "feed": "SD",
+    "title": "Cristovision",
+    "url": "https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CristoVisionCanal31.cr",
+    "feed": "SD",
+    "title": "Cristo Vision Canal 31",
+    "url": "https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CromTV.do",
+    "feed": "SD",
+    "title": "CromTV",
+    "url": "https://fox.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CRTelevision.pe",
+    "feed": "SD",
+    "title": "CR Televisi\u00f3n Moyobamba",
+    "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CRTV.cl",
+    "feed": "SD",
+    "title": "CRTV",
+    "url": "https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CRTV.cm",
+    "feed": "SD",
+    "title": "CRTV",
+    "url": "https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CRTVNews.cm",
+    "feed": "SD",
+    "title": "CRTV News",
+    "url": "https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CRTVSportsandEntertainment.cm",
+    "feed": "SD",
+    "title": "CRTV Sports and Entertainment",
+    "url": "https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": "https://crtv.cm/live/crtv-sport"
+  },
+  {
+    "channel": "Crunchyroll.us",
+    "feed": "SD",
+    "title": "Crunchyroll",
+    "url": "https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CruzTV.us",
+    "feed": "SD",
+    "title": "Cruz TV",
+    "url": "https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CSatTV.us",
+    "feed": "SD",
+    "title": "CSat TV",
+    "url": "http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CSatTV.us",
+    "feed": "SD",
+    "title": "CSat TV",
+    "url": "https://5b622f07944df.streamlock.net/csat.tv/csat.smil/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CSatTV.us",
+    "feed": "SD",
+    "title": "CSat TV",
+    "url": "https://5d12bc59c4748.streamlock.net/redirect/csat.tv/csat.smil?type=m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CSI.se",
+    "feed": "DK",
+    "title": "CSI",
+    "url": "https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CSI.us",
+    "feed": "SD",
+    "title": "CSI",
+    "url": "https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CSICrimeSceneInvestigation.de",
+    "feed": "GB",
+    "title": "CSI: Crime Scene Investigation",
+    "url": "https://jmp2.uk/plu-6304f8d5ffb61000071ab478.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CSIenespanol.us",
+    "feed": "SD",
+    "title": "CSI en Espa\u00f1ol",
+    "url": "https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CSIMiami.us",
+    "feed": "BR",
+    "title": "CSI: Miami",
+    "url": "https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CSIMiami.us",
+    "feed": "LatAm",
+    "title": "CSI: Miami",
+    "url": "https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CSIMiami.us",
+    "feed": "SD",
+    "title": "CSI: Miami",
+    "url": "https://jmp2.uk/plu-62f54c11b3af68000702c304.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CSIMiamienespanol.us",
+    "feed": "SD",
+    "title": "CSI: Miami en espa\u00f1ol",
+    "url": "https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CSINY.us",
+    "feed": "SD",
+    "title": "CSI: NY",
+    "url": "https://jmp2.uk/plu-62f54c6439183b000769fb8f.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CSINYenespanol.us",
+    "feed": "SD",
+    "title": "CSI: NY en espa\u00f1ol",
+    "url": "https://jmp2.uk/plu-632b606e12a67b0007c9e371.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CStar.fr",
+    "feed": "SD",
+    "title": "C Star",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8",
+    "quality": "477p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CT1.cz",
+    "feed": "SD",
+    "title": "\u010cT 1",
+    "url": "http://88.212.15.50/live/test_ct1_25p/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CT2.cz",
+    "feed": "SD",
+    "title": "\u010cT 2",
+    "url": "http://88.212.15.50/live/test_ct2_25p/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CT24.cz",
+    "feed": "SD",
+    "title": "\u010cT24",
+    "url": "http://88.212.15.50/live/test_ct24_hevc/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CT24.cz",
+    "feed": "SD",
+    "title": "CT24",
+    "url": "https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CTDecko.cz",
+    "feed": "SD",
+    "title": "\u010cT:D/\u010cT art",
+    "url": "http://88.212.15.50/live/ct_art_avc_25p/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CTN.us",
+    "feed": "SD",
+    "title": "CTN",
+    "url": "https://d3k5y954fiztgy.cloudfront.net/FREECAST/CTN-2b0dd347-f7b0-e7ed-9096-68966d29db50/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CTNCourtFeed.us",
+    "feed": "SD",
+    "title": "CT-N Court Feed",
+    "url": "http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8",
+    "quality": "360p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CTNLiveStream2.us",
+    "feed": "SD",
+    "title": "CT-N Live Stream 2",
+    "url": "http://video.ct-n.com/live/web2stream/playlist.m3u8",
+    "quality": "360p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CTNTVConneticut.us",
+    "feed": "SD",
+    "title": "CT-N TV Conneticut",
+    "url": "http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CTSport.cz",
+    "feed": "SD",
+    "title": "\u010cT Sport",
+    "url": "http://88.212.15.50/live/test_ctsport_25p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CTTCanal49.do",
+    "feed": "SD",
+    "title": "CTT Canal 49",
+    "url": "https://cdnfox.hostlagarto.com/cct49/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CTV9.kh",
+    "feed": "SD",
+    "title": "CTV 9",
+    "url": "http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CTV9.kh",
+    "feed": "SD",
+    "title": "CTV 9",
+    "url": "https://stream.pdtvhd.com/live/streams/ctv9_hd_playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CTVNAKDPlus.in",
+    "feed": "SD",
+    "title": "CTVN AKD Plus",
+    "url": "https://live.legitpro.co.in/ctvnakdplus/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CTVNAKDPlus.in",
+    "feed": "SD",
+    "title": "CTVN AKD Plus",
+    "url": "https://cdn.pishow.tv/ott/live/448/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CTVNAKDPlus.in",
+    "feed": "SD",
+    "title": "CTVN AKD Plus",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HCTVNAKDPLUS/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cultura24.pe",
+    "feed": "SD",
+    "title": "Cultura 24",
+    "url": "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CulturaFast.br",
+    "feed": "SD",
+    "title": "Cultura Fast",
+    "url": "https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CumbiaMix.ar",
+    "feed": "HD",
+    "title": "Cumbia Mix",
+    "url": "https://cloud.tvomix.com/CUMBIAMIX/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CuriosityChannel.de",
+    "feed": "SD",
+    "title": "SPIEGEL TV",
+    "url": "https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CuriosityNOW.de",
+    "feed": "EN",
+    "title": "Curiosity Now",
+    "url": "https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CurrentTimeTV.cz",
+    "feed": "SD",
+    "title": "Current Time TV",
+    "url": "http://stream.mcquack.net/384/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CurrentTimeTV.cz",
+    "feed": "SD",
+    "title": "\u041d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u0435 \u0412\u0440\u0435\u043c\u044f",
+    "url": "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CurrentTimeTV.cz",
+    "feed": "SD",
+    "title": "\u041d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u0435 \u0432\u0440\u0435\u043c\u044f",
+    "url": "https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CurroJimenez.us",
+    "feed": "Spain",
+    "title": "Curro Jim\u00e9nez",
+    "url": "https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CusanoItaliaTV.it",
+    "feed": "SD",
+    "title": "Cusano Italia TV",
+    "url": "https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CVCEducation.us",
+    "feed": "SD",
+    "title": "Bolton Community Voice Channel (CVC) Education (Bolton CT)",
+    "url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CVCGovernment.us",
+    "feed": "SD",
+    "title": "Bolton Community Voice Channel (CVC) Government (Bolton CT)",
+    "url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch3/video.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CVCPublic.us",
+    "feed": "SD",
+    "title": "Bolton Community Voice Channel (CVC) Public (Bolton CT)",
+    "url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch1/video.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CVREnglish.in",
+    "feed": "SD",
+    "title": "CVR English",
+    "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:cvrnewseng.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CVREnglish.in",
+    "feed": "SD",
+    "title": "CVR English",
+    "url": "https://mumbai-edge.smartplaytv.in/CVREnglishNews/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CVREnglish.in",
+    "feed": "SD",
+    "title": "CVR English",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HCVRNEWSENGLISH/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CVREnglish.in",
+    "feed": "SD",
+    "title": "CVR English",
+    "url": "https://fta.ektv.in/live/701/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
   }
 ]
