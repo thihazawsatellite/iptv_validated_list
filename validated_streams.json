@@ -69140,5 +69140,411 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "Mango.in",
+    "feed": "SD",
+    "title": "Mango",
+    "url": "https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MangoMobileTV.in",
+    "feed": "HD",
+    "title": "Mango Mobile TV",
+    "url": "https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ManielTV.do",
+    "feed": "HD",
+    "title": "Maniel TV",
+    "url": "https://5790d294af2dc.streamlock.net/manieltv/manieltv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ManoramaNews.in",
+    "feed": "SD",
+    "title": "Manorama News",
+    "url": "https://streams.tangotv.in/MANORAMANEWSNORTH/ORIGIN/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ManoramaNews.in",
+    "feed": "SD",
+    "title": "Manorama News",
+    "url": "https://cdn.pishow.tv/ott/live/463/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ManoramaNews.in",
+    "feed": "SD",
+    "title": "Manorama News",
+    "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/manoramanews_nim_https/240122/manoramanews/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ManoramaNews.in",
+    "feed": "SD",
+    "title": "Manorama News",
+    "url": "https://segment.yuppcdn.net/240122/manoramanews/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ManoramaNews.in",
+    "feed": "SD",
+    "title": "Manorama News",
+    "url": "https://fta.ektv.in/live/55/55_0.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "ManoranjanGrand.in",
+    "feed": "SD",
+    "title": "Manoranjan Grand",
+    "url": "https://mumt06.tangotv.in/qYyB8fXVMANORANJANGRAND/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ManoranjanGrand.in",
+    "feed": "SD",
+    "title": "Manoranjan Grand",
+    "url": "https://fta.ektv.in/live/19/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "ManoranjanGrand.in",
+    "feed": "SD",
+    "title": "Manoranjan Grand",
+    "url": "https://cdn.pishow.tv/ott/live/1011/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ManoranjanMovies.in",
+    "feed": "SD",
+    "title": "Manoranjan Movies",
+    "url": "https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ManoranjanMovies.in",
+    "feed": "SD",
+    "title": "Manoranjan Movies",
+    "url": "https://fta.ektv.in/live/47/47_0.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "ManoranjanPrime.in",
+    "feed": "SD",
+    "title": "Manoranjan Prime",
+    "url": "https://cdn.pishow.tv/ott/live/1474/master.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ManoranjanPrime.in",
+    "feed": "SD",
+    "title": "Manoranjan Prime",
+    "url": "https://mumt06.tangotv.in/qYyB8fXVMANORANJANPRIME/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ManoranjanPrime.in",
+    "feed": "SD",
+    "title": "Manoranjan Prime",
+    "url": "https://fta.ektv.in/live/345/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "ManoranjanTV.in",
+    "feed": "SD",
+    "title": "Manoranjan TV",
+    "url": "https://streams.tangotv.in/MANORANJANTV/ORIGIN/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ManoranjanTV.in",
+    "feed": "SD",
+    "title": "Manoranjan TV",
+    "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ManoranjanTV.in",
+    "feed": "SD",
+    "title": "Manoranjan TV",
+    "url": "https://mumt04.tangotv.in/m18aqlK4MANORANJANTV/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ManoranjanTV.in",
+    "feed": "SD",
+    "title": "Manoranjan TV",
+    "url": "https://fta.ektv.in/live/23/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "ManoranjanTV.in",
+    "feed": "SD",
+    "title": "Manoranjan TV",
+    "url": "https://cdn.pishow.tv/ott/live/1013/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MantavyaNews.in",
+    "feed": "SD",
+    "title": "Mantavya News",
+    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/mantavya/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MantavyaNews.in",
+    "feed": "SD",
+    "title": "Mantavya News",
+    "url": "https://mumt07.tangotv.in/zHjX9OFlMANTAVYA24X7NEWS/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MantavyaNews.in",
+    "feed": "SD",
+    "title": "Mantavya News",
+    "url": "https://fta.ektv.in/live/656/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "MantavyaNews.in",
+    "feed": "SD",
+    "title": "Mantavya News",
+    "url": "https://fta.ektv.in/live/657/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "ManuChat.iq",
+    "feed": "SD",
+    "title": "Manu Chat",
+    "url": "https://vmi747311.contaboserver.net/hls/livetv.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ManwithaPlan.se",
+    "feed": "DK",
+    "title": "Man with a Plan",
+    "url": "https://jmp2.uk/plu-678f88bb272ded16b1558c5e.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ManwithaPlan.se",
+    "feed": "NO",
+    "title": "Man with a Plan",
+    "url": "https://jmp2.uk/plu-6825eeeeb19ce6d4a34ebb2a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ManwithaPlan.se",
+    "feed": "SE",
+    "title": "Man with a Plan",
+    "url": "https://jmp2.uk/plu-6825efbb9eed174f7ffbe5b0.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Maraya.sa",
+    "feed": "HD",
+    "title": "Maraya",
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MarayTV.cl",
+    "feed": "SD",
+    "title": "Maray TV",
+    "url": "https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MarcaTV.ec",
+    "feed": "SD",
+    "title": "Marca TV",
+    "url": "http://200.7.219.221:8088/live/livetv/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MargaMargaTV.cl",
+    "feed": "SD",
+    "title": "Marga Marga TV",
+    "url": "https://v1.tustreaming.cl/margamargatv/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MariaPlusVisionMedjugorje.ba",
+    "feed": "SD",
+    "title": "Mar\u00eda+Visi\u00f3n Medjugorje",
+    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MariaVision.mx",
+    "feed": "SD",
+    "title": "Mar\u00eda Visi\u00f3n Mexico",
+    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8",
+    "quality": "360p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MariaVisionItalia.it",
+    "feed": "SD",
+    "title": "Maria Vision",
+    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MariaVisionUSA.us",
+    "feed": "SD",
+    "title": "Maria Vision USA",
+    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amls:PALMIAMI/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MarjaeyatTVArabic.iq",
+    "feed": "SD",
+    "title": "Marjaeyat TV Arabic",
+    "url": "https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MarjaeyatTVEnglish.iq",
+    "feed": "SD",
+    "title": "Marjaeyat TV English",
+    "url": "https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MarjaeyatTVPersian.iq",
+    "feed": "SD",
+    "title": "Marjaeyat TV Persian",
+    "url": "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8",
+    "quality": "240p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
   }
 ]
