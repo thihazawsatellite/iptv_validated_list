@@ -51412,5 +51412,767 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "FokusTV.pl",
+    "feed": "SD",
+    "title": "Fokus TV",
+    "url": "http://92.114.85.87:8018/play/a00i/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FolcloreandoTV.ar",
+    "feed": "SD",
+    "title": "Folcloreando TV",
+    "url": "https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FolkKlubTV.au",
+    "feed": "SD",
+    "title": "Folk Klub",
+    "url": "http://tv1.intv.mk:1935/live2/folkklub/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FolkTV.mk",
+    "feed": "SD",
+    "title": "Folk TV",
+    "url": "https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FolxMusicTelevision.de",
+    "feed": "SD",
+    "title": "Folx Music Television",
+    "url": "https://folxapp.b-cdn.net/1080p/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FolxSlovenija.si",
+    "feed": "SD",
+    "title": "Folx Slovenija",
+    "url": "https://folxsloapp.b-cdn.net/1080p/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FomixTV.nl",
+    "feed": "HD",
+    "title": "FomixTV",
+    "url": "https://stream.fomixmedia.nl/FomixTV/video.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": "https://www.fomix.nl"
+  },
+  {
+    "channel": "FONMusic.ru",
+    "feed": "SD",
+    "title": "FON Music",
+    "url": "https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FonteTV.br",
+    "feed": "SD",
+    "title": "Fonte TV",
+    "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FonteTV.br",
+    "feed": "SD",
+    "title": "Fonte TV",
+    "url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoodFood.in",
+    "feed": "SD",
+    "title": "Food Food",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoodFood.in",
+    "feed": "SD",
+    "title": "Food Food",
+    "url": "https://cdn.pishow.tv/ott/live/267/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoodFood.in",
+    "feed": "SD",
+    "title": "Food Food",
+    "url": "https://fta.ektv.in/live/143/143_0.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "FoodNetwork.cz",
+    "feed": "SD",
+    "title": "Food Network",
+    "url": "http://88.212.15.50/live/test_food_network_atk_tv/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoodNetwork.hu",
+    "feed": "SD",
+    "title": "Food Network",
+    "url": "http://88.212.7.14/live/fn_hungary/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoodNetwork.it",
+    "feed": "SD",
+    "title": "Food Network",
+    "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoodNetwork.ru",
+    "feed": "SD",
+    "title": "Food Network",
+    "url": "http://stream.mcquack.net/298/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoodNetwork.us",
+    "feed": "East",
+    "title": "Food Network",
+    "url": "http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoodNetwork.us",
+    "feed": "East",
+    "title": "Food Network",
+    "url": "http://212.5.144.156:8080/foodnetwork/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoodNetworkLatinAmerica.us",
+    "feed": "Panregional",
+    "title": "Food Network Latin America",
+    "url": "http://168.196.127.137:6001/play/a09v/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoodTime.ru",
+    "feed": "SD",
+    "title": "FoodTime",
+    "url": "http://stream.mcquack.net/216/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ForaTedioTV.br",
+    "feed": "SD",
+    "title": "Fora Tedio TV",
+    "url": "https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": "https://www.foratedio.com"
+  },
+  {
+    "channel": "ForensicFiles.us",
+    "feed": "SD",
+    "title": "Forensic Files",
+    "url": "https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ForensicFiles.us",
+    "feed": "SD",
+    "title": "Forensic Files",
+    "url": "https://jmp2.uk/plu-6181241c1a35d50007874c27.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ForensicFiles.us",
+    "feed": "SD",
+    "title": "Forensic Files",
+    "url": "https://jmp2.uk/plu-64ec5cf50f73a800081310a5.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ForensicFiles.us",
+    "feed": "SD",
+    "title": "Forensic Files",
+    "url": "https://jmp2.uk/plu-6181262dc68b92000780fed2.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ForensicFiles.us",
+    "feed": "SD",
+    "title": "Forensic Files",
+    "url": "https://jmp2.uk/plu-618124b2e53c8d00077b37f8.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ForensicFiles.us",
+    "feed": "SD",
+    "title": "Forensic Files",
+    "url": "https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ForeverKids.us",
+    "feed": "SD",
+    "title": "Forever Kids",
+    "url": "https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Forlaekkertillove.se",
+    "feed": "DK",
+    "title": "For l\u00e6kker til love",
+    "url": "https://jmp2.uk/plu-6272511cb389bb0007b30b09.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Formula.ge",
+    "feed": "SD",
+    "title": "Formula",
+    "url": "https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Formula.ge",
+    "feed": "SD",
+    "title": "Formula",
+    "url": "https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ForoTV.pe",
+    "feed": "SD",
+    "title": "Foro TV",
+    "url": "https://mc.servidor.stream:19360/8274/8274.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Forsidefruer.se",
+    "feed": "DK",
+    "title": "Forsidefruer",
+    "url": "https://jmp2.uk/plu-61c19dcefbb4b50007d242e1.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FortalezaTV.cl",
+    "feed": "SD",
+    "title": "Fortaleza TV",
+    "url": "https://multimedia.fortalezatv.cl/video/video.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FortisTV.ng",
+    "feed": "SD",
+    "title": "Fortis TV",
+    "url": "https://stream.fortistv.com/hls/fortis-news/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FORTTV.ug",
+    "feed": "SD",
+    "title": "FORT TV",
+    "url": "https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FortunaTV.tr",
+    "feed": "HD",
+    "title": "Fortuna TV",
+    "url": "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FortuneTV.mm",
+    "feed": "SD",
+    "title": "FORTUNE TV",
+    "url": "http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.pl",
+    "feed": "SD",
+    "title": "Fox",
+    "url": "http://92.114.85.87:8015/play/a00a/index.m3u8",
+    "quality": "576i",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.ru",
+    "feed": "SD",
+    "title": "Fox",
+    "url": "http://stream.mcquack.net/182/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "KBSI",
+    "title": "FOX 23 Cape Girardeau MO (KBSI-DT1)",
+    "url": "https://live.field59.com/kbsi/kbsi1/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "KDFW",
+    "title": "KDFW-DT1",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "KRIV",
+    "title": "KRIV-DT1",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "KSAZTV",
+    "title": "KSAZ-DT1",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "KTBC",
+    "title": "KTBC-DT1",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "KTTV",
+    "title": "KTTV-DT1",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "WFTXTV",
+    "title": "WFTX News Fort Myers FL",
+    "url": "https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "WHBQTV",
+    "title": "WHBQ-DT1",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "WITI",
+    "title": "WITI-DT1",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "WJBK",
+    "title": "WJBK-DT1",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "WNYW",
+    "title": "WNYW-DT1",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "WTTG",
+    "title": "WTTG-DT1",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "WTVT",
+    "title": "WTVT-DT1",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "WTXFTV",
+    "title": "WTXF-DT1",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "WXXVTV",
+    "title": "WXXV-TV News (Biloxi MS)",
+    "url": "https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxBusinessNetwork.us",
+    "feed": "SD",
+    "title": "Fox Business Network",
+    "url": "https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxBusinessNetwork.us",
+    "feed": "SD",
+    "title": "Fox Business Network",
+    "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxLife.ru",
+    "feed": "SD",
+    "title": "Fox Life",
+    "url": "http://stream.mcquack.net/129/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxNewsChannel.us",
+    "feed": "SD",
+    "title": "Fox News Channel",
+    "url": "http://138.121.15.230:9002/FOX-NEWS/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxNewsChannel.us",
+    "feed": "SD",
+    "title": "Fox News Channel",
+    "url": "http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8",
+    "quality": "144p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxNewsChannel.us",
+    "feed": "SD",
+    "title": "Fox News Channel",
+    "url": "https://tvsen6.aynaott.com/foxnews/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxNewsRadio.us",
+    "feed": "SD",
+    "title": "Fox News Radio",
+    "url": "https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxSoul.us",
+    "feed": "SD",
+    "title": "Fox Soul",
+    "url": "https://foxsoul-vizio.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxSports1.us",
+    "feed": "HD",
+    "title": "Fox Sports 1",
+    "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxSports1.us",
+    "feed": "HD",
+    "title": "Fox Sports 1",
+    "url": "https://tvsen7.aynascope.net/foxsports1/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxSports2.us",
+    "feed": "HD",
+    "title": "Fox Sports 2",
+    "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxSports.ar",
+    "feed": "SD",
+    "title": "Fox Sports",
+    "url": "http://138.59.227.20:8000/play/a085/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxSports.ar",
+    "feed": "SD",
+    "title": "Fox Sports",
+    "url": "http://158.172.155.130:8000/play/a09x/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxSportsNews.au",
+    "feed": "SD",
+    "title": "Fox Sports News",
+    "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxWeather.us",
+    "feed": "SD",
+    "title": "Fox Weather",
+    "url": "https://247wlive.foxweather.com/stream/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxWeather.us",
+    "feed": "SD",
+    "title": "FOX Weather",
+    "url": "https://jmp2.uk/plu-640a68880e884c0009979cc2.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxWeather.us",
+    "feed": "SD",
+    "title": "FOX Weather",
+    "url": "https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxWeather.us",
+    "feed": "SD",
+    "title": "Fox Weather",
+    "url": "https://aegis-cloudfront-1.tubi.video/d4d03a5e-dd3e-4b9a-8b11-b86c88d717fe/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "France2.fr",
+    "feed": "SD",
+    "title": "France 2",
+    "url": "http://149.62.177.107:9999/France_2/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
