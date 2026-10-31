@@ -49028,5 +49028,1081 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "EuronewsItalian.fr",
+    "feed": "SD",
+    "title": "Euronews Italian",
+    "url": "https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EuronewsPortuguese.fr",
+    "feed": "SD",
+    "title": "Euronews Portuguese",
+    "url": "https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EuronewsPortuguese.fr",
+    "feed": "SD",
+    "title": "Euronews Portuguese",
+    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EuronewsRomania.ro",
+    "feed": "SD",
+    "title": "Euronews Romania",
+    "url": "https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EuronewsRussian.fr",
+    "feed": "SD",
+    "title": "Euronews Russian",
+    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EuronewsRussian.fr",
+    "feed": "SD",
+    "title": "Euronews Russian",
+    "url": "https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EuronewsSpanish.fr",
+    "feed": "SD",
+    "title": "Euronews Spanish",
+    "url": "https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EuronewsSpanish.fr",
+    "feed": "SD",
+    "title": "Euronews Spanish",
+    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EuronewsSpanish.fr",
+    "feed": "SD",
+    "title": "Euronews Spanish",
+    "url": "https://iptv.bitred.cl/euronews/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EuronewsSpanish.fr",
+    "feed": "SD",
+    "title": "Euronews Espa\u00f1ol",
+    "url": "https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8",
+    "quality": "684p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EuropaEuropa.ar",
+    "feed": "SD",
+    "title": "Europa Europa",
+    "url": "https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EuropaEuropa.ar",
+    "feed": "SD",
+    "title": "Europa Europa",
+    "url": "http://138.121.15.230:9002/EUROPA-EUROPA/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EuropaEuropa.ar",
+    "feed": "SD",
+    "title": "Europa Europa",
+    "url": "http://45.228.234.9:8000/play/a06z/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EuropaPlusTV.ru",
+    "feed": "Belarus",
+    "title": "Europa Plus TV Belarus",
+    "url": "http://46.53.200.153:7777/play/EuropaPlus/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EuropaPlusTV.ru",
+    "feed": "SD",
+    "title": "Europa Plus TV SD",
+    "url": "http://stream.mcquack.net/184/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Europe1TV.fr",
+    "feed": "HD",
+    "title": "Europe 1 TV",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Eurosport1.fr",
+    "feed": "Hungary",
+    "title": "Eurosport 1 Hungary",
+    "url": "http://88.212.7.14/live/esp1_hun/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Eurosport1.fr",
+    "feed": "Spain",
+    "title": "Eurosport 1 Spain",
+    "url": "http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Eurosport2.fr",
+    "feed": "Hungary",
+    "title": "Eurosport 2 Hungary",
+    "url": "http://88.212.7.14/live/esp2_hun/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Eurosport2.fr",
+    "feed": "Spain",
+    "title": "Eurosport 2 Spain",
+    "url": "http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Eurosport4KCzechia.cz",
+    "feed": "UHD",
+    "title": "Eurosport 4K Czechia",
+    "url": "http://88.212.15.50/live/esp_4k_atk/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Eurosport.in",
+    "feed": "SD",
+    "title": "Eurosport",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EuroTV.gr",
+    "feed": "SD",
+    "title": "Euro TV",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8",
+    "quality": "432p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EuroTV.it",
+    "feed": "SD",
+    "title": "Euro TV",
+    "url": "https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EUTV.br",
+    "feed": "SD",
+    "title": "EUTV",
+    "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EvandisGospelTV.fr",
+    "feed": "SD",
+    "title": "Evandis Gospel TV",
+    "url": "https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EventyrligOppussing.se",
+    "feed": "NO",
+    "title": "Eventyrlig Oppussing",
+    "url": "https://jmp2.uk/plu-61c1de93244e500007581d69.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Eveo.fi",
+    "feed": "SD",
+    "title": "Eveo",
+    "url": "https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EverybodyHatesChris.se",
+    "feed": "DK",
+    "title": "Everybody Hates Chris",
+    "url": "https://jmp2.uk/plu-63a1cab19ab2df0007bf1c8b.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EverybodyHatesChris.se",
+    "feed": "NO",
+    "title": "Everybody Hates Chris",
+    "url": "https://jmp2.uk/plu-697b5a6c9567bf7b5f71a350.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EverybodyHatesChris.se",
+    "feed": "SE",
+    "title": "Everybody Hates Chris",
+    "url": "https://jmp2.uk/plu-697b5be36dc3c71eb14d728a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EVITV.cd",
+    "feed": "SD",
+    "title": "EVI TV",
+    "url": "https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Evrokino.ru",
+    "feed": "HD",
+    "title": "Evrokino HD",
+    "url": "http://stream.mcquack.net/385/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Evrokino.ru",
+    "feed": "SD",
+    "title": "Evrokino",
+    "url": "http://176.118.197.101/Evrokino/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EWTN.de",
+    "feed": "SD",
+    "title": "EWTN",
+    "url": "https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EWTN.de",
+    "feed": "SD",
+    "title": "EWTN Germany",
+    "url": "https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EWTN.us",
+    "feed": "AfricaAsia",
+    "title": "EWTN Africa-Asia",
+    "url": "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EWTN.us",
+    "feed": "AsiaPacific",
+    "title": "EWTN Asia-Pacific",
+    "url": "https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EWTN.us",
+    "feed": "Canada",
+    "title": "EWTN Canada",
+    "url": "https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EWTN.us",
+    "feed": "English",
+    "title": "EWTN",
+    "url": "https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EWTN.us",
+    "feed": "Europe",
+    "title": "EWTN Europe",
+    "url": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EWTN.us",
+    "feed": "SpainLatinAmerica",
+    "title": "EWTN Spain & Latin America",
+    "url": "http://45.167.1.138:8000/play/a01m",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EWTN.us",
+    "feed": "SpainLatinAmerica",
+    "title": "EWTN Spain & Latin America",
+    "url": "http://45.228.234.9:8000/play/a06v/index.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EWTN.us",
+    "feed": "SpainLatinAmerica",
+    "title": "EWTN Spain & Latin America",
+    "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EWTN.us",
+    "feed": "Spanish",
+    "title": "EWTN Spanish",
+    "url": "https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EWTNBonumTV.hu",
+    "feed": "SD",
+    "title": "EWTN/Bonum TV",
+    "url": "https://dash2.antik.sk/live/ewtn_bonum/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EWTNEspana.es",
+    "feed": "SD",
+    "title": "EWTN Espana",
+    "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EWTNPoland.pl",
+    "feed": "SD",
+    "title": "EWTN Poland",
+    "url": "https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EWTNUkraine.ua",
+    "feed": "SD",
+    "title": "EWTN Ukraine",
+    "url": "https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ExaTV.mx",
+    "feed": "SD",
+    "title": "Exa TV",
+    "url": "http://190.61.90.17:40000/play/a0hk/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ExitosaTV.pe",
+    "feed": "SD",
+    "title": "Exitosa TV",
+    "url": "http://190.93.224.42/EXITOSA/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ExitosaTV.pe",
+    "feed": "SD",
+    "title": "Exitosa TV",
+    "url": "https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ExitosaTV.pe",
+    "feed": "SD",
+    "title": "Exitosa TV",
+    "url": "http://187.102.210.46/EXITOSA/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ExpoChannel.au",
+    "feed": "SD",
+    "title": "Expo Channel",
+    "url": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ExpresaTV.mx",
+    "feed": "SD",
+    "title": "Expresa TV",
+    "url": "https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ExpressenTV.se",
+    "feed": "SD",
+    "title": "Expressen TV",
+    "url": "https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Extra86TV.do",
+    "feed": "HD",
+    "title": "Extra 86 TV",
+    "url": "https://video-eu1.streamerr.co/hls/sb77f834a54/live.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ExtremaKidsTV.cr",
+    "feed": "HD",
+    "title": "Extrema Kids TV",
+    "url": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8",
+    "quality": null,
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ExtremaTV.cr",
+    "feed": "SD",
+    "title": "Extrema TV",
+    "url": "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ExtremaTV.us",
+    "feed": "SD",
+    "title": "Extrema TV",
+    "url": "http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "F1Channel.ie",
+    "feed": "US",
+    "title": "F1 Channel",
+    "url": "https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "F10HD.bo",
+    "feed": "SD",
+    "title": "F10 HD",
+    "url": "https://tv2.bitstreaming.net:3235/multi_live/play.m3u8",
+    "quality": null,
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FabulosaEstereo1005FM.pa",
+    "feed": "SD",
+    "title": "Fabulosa Est\u00e9reo 100.5 FM",
+    "url": "https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "Brazil",
+    "title": "FailArmy",
+    "url": "https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "Italy",
+    "title": "Failarmy",
+    "url": "https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "UK",
+    "title": "FailArmy",
+    "url": "https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "Failarmy International",
+    "url": "https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "FailArmy",
+    "url": "https://jmp2.uk/plu-62bdb5500c21270007218ce1.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "FailArmy",
+    "url": "https://jmp2.uk/plu-6177f6bf7693550007531275.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "Failarmy International",
+    "url": "https://failarmy-international-dk.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "FailArmy",
+    "url": "https://jmp2.uk/plu-5f1abf5fafb5ee0007d4d0ca.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "Failarmy International",
+    "url": "https://failarmy-international-fi.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "FailArmy",
+    "url": "https://jmp2.uk/plu-5f8ecd9169d2d4000864a974.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "Failarmy International",
+    "url": "https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "FailArmy",
+    "url": "https://jmp2.uk/plu-608014d19a26320007c92ab6.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "FailArmy",
+    "url": "https://jmp2.uk/plu-5ebaccf1734aaf0007142c86.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "Failarmy International",
+    "url": "https://failarmy-international-mx.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "Failarmy International",
+    "url": "https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "FailArmy",
+    "url": "https://jmp2.uk/plu-61781077929e930007c194ee.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "Failarmy International",
+    "url": "https://failarmy-international-no.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "FailArmy",
+    "url": "https://jmp2.uk/plu-6178037c35922000072a2ff5.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "Failarmy International",
+    "url": "https://failarmy-international-se.samsung.wurl.tv/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "FailArmy",
+    "url": "https://jmp2.uk/plu-554158e864526b29254ff105.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FailArmy.us",
+    "feed": "US",
+    "title": "FailArmy",
+    "url": "https://pb-w5ixcojas1swl.akamaized.net/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FairgroundAICreatorTV.us",
+    "feed": "SD",
+    "title": "Fairground AI Creator TV",
+    "url": "https://jmp2.uk/rok-b484db42f3d31b6dc2f604d453c694a0.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fairuz.sa",
+    "feed": "HD",
+    "title": "Fairuz",
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FaithAfrica.za",
+    "feed": "SD",
+    "title": "Faith Africa",
+    "url": "https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FaithAfrica.za",
+    "feed": "SD",
+    "title": "Faith Africa",
+    "url": "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FaithTV.us",
+    "feed": "SD",
+    "title": "Faith TV",
+    "url": "https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FaithUK.uk",
+    "feed": "SD",
+    "title": "Faith UK",
+    "url": "https://faithnow-hls.secdn.net/faithnow-c-channel/play/FaithUK.smil/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FaithWorldTV.uk",
+    "feed": "SD",
+    "title": "Faith World TV",
+    "url": "https://faithworldtv.abs.tv/1826926230/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FajarTV.id",
+    "feed": "SD",
+    "title": "Fajar TV",
+    "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FaktMarathi.in",
+    "feed": "SD",
+    "title": "Fakt Marathi",
+    "url": "https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FaktMarathi.in",
+    "feed": "SD",
+    "title": "Fakt Marathi",
+    "url": "https://fta.ektv.in/live/188/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "FaktMarathi.in",
+    "feed": "SD",
+    "title": "Fakt Marathi",
+    "url": "https://cdn.pishow.tv/ott/live/10002/master.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FalakTV.pk",
+    "feed": "SD",
+    "title": "Falak TV",
+    "url": "https://falak.rst.ae/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FalaLitoral.br",
+    "feed": "SD",
+    "title": "Fala Litoral",
+    "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FalastiniTV.ps",
+    "feed": "SD",
+    "title": "Falastini TV",
+    "url": "https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fame95FM.jm",
+    "feed": "SD",
+    "title": "Fame95 FM",
+    "url": "https://rjrfame-ioriver-cdn.encoders.immergo.tv/master.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FamiliaVisionHD.pr",
+    "feed": "SD",
+    "title": "Familia Visi\u00f3n HD",
+    "url": "https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8",
+    "quality": null,
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FamilienfraBryggen.se",
+    "feed": "DK",
+    "title": "Familien fra Bryggen",
+    "url": "https://jmp2.uk/plu-61c19c8c9863900007acaa57.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FamilyTies.se",
+    "feed": "DK",
+    "title": "Family Ties",
+    "url": "https://jmp2.uk/plu-654a4a3ef91d250008ac089b.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FamilyTies.se",
+    "feed": "NO",
+    "title": "Family Ties",
+    "url": "https://jmp2.uk/plu-654a4f7bf9cc8200086877d5.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FamilyTies.se",
+    "feed": "SE",
+    "title": "Family Ties",
+    "url": "https://jmp2.uk/plu-654a510d986ad20008a45874.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FamilyTies.us",
+    "feed": "SD",
+    "title": "Family Ties",
+    "url": "https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
