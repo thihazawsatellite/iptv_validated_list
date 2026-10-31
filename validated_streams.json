@@ -87982,5 +87982,475 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "PlutoTVHorrorSerien.de",
+    "feed": "DACH",
+    "title": "Pluto TV Horror-Serien",
+    "url": "https://jmp2.uk/plu-67ff7d9c7fc25e0e72451bc9.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVHumor.se",
+    "feed": "DK",
+    "title": "Pluto TV Humor",
+    "url": "https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVHumor.us",
+    "feed": "LatAm",
+    "title": "Pluto TV Humor",
+    "url": "https://jmp2.uk/plu-5e8397936791b30007ebb5a7.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVIcons.us",
+    "feed": "SD",
+    "title": "Pluto TV Icons",
+    "url": "https://jmp2.uk/plu-64b585f84ea480000838e446.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVImpacto.de",
+    "feed": "ES",
+    "title": "Pluto TV Impacto",
+    "url": "https://jmp2.uk/plu-68adc697116b783a33f99e6c.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVInside.de",
+    "feed": "FR",
+    "title": "Pluto TV Inside",
+    "url": "https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVInvasionAlien.de",
+    "feed": "ES",
+    "title": "Pluto TV Invasi\u00f3n Alien",
+    "url": "https://jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVInvestigacao.us",
+    "feed": "BR",
+    "title": "Pluto TV Investiga\u00e7\u00e3o",
+    "url": "https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVInvestigation.de",
+    "feed": "GB",
+    "title": "Pluto TV Investigation",
+    "url": "https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVJohnWayne.se",
+    "feed": "DK",
+    "title": "Pluto TV John Wayne",
+    "url": "https://jmp2.uk/plu-655ca7aa635c3c000855d655.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVJohnWayne.se",
+    "feed": "NO",
+    "title": "Pluto TV John Wayne",
+    "url": "https://jmp2.uk/plu-655ca99dfbc15b00081f209c.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVJohnWayne.se",
+    "feed": "SE",
+    "title": "Pluto TV John Wayne",
+    "url": "https://jmp2.uk/plu-655caaaac0fc8800086f5d99.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVJunior.de",
+    "feed": "ES",
+    "title": "Pluto TV Junior",
+    "url": "https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVJunior.de",
+    "feed": "FR",
+    "title": "Pluto TV Junior",
+    "url": "https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVJunior.us",
+    "feed": "BR",
+    "title": "Pluto TV Junior",
+    "url": "https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVJunior.us",
+    "feed": "LatAm",
+    "title": "Pluto TV Junior",
+    "url": "https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVJuniorklubben.se",
+    "feed": "DK",
+    "title": "Pluto TV Juniorklubben",
+    "url": "https://jmp2.uk/plu-61c09a78bd194c0008decc28.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVJuniorklubben.se",
+    "feed": "NO",
+    "title": "Pluto TV Juniorklubben",
+    "url": "https://jmp2.uk/plu-61c1d459fbb4b50007d24647.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVJuniorklubben.se",
+    "feed": "SE",
+    "title": "Pluto TV Juniorklubben",
+    "url": "https://jmp2.uk/plu-61c0b7eb8929e40007ff5125.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVKDrama.de",
+    "feed": "ES",
+    "title": "Pluto TV K-Drama",
+    "url": "https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVKFOOD.us",
+    "feed": "BR",
+    "title": "Pluto TV KFOOD",
+    "url": "https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVKids.de",
+    "feed": "ES",
+    "title": "Pluto TV Kids Spain",
+    "url": "https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVKids.de",
+    "feed": "GB",
+    "title": "Pluto TV Kids",
+    "url": "https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVKids.us",
+    "feed": "BR",
+    "title": "Pluto TV Kids",
+    "url": "https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVKids.us",
+    "feed": "LatAm",
+    "title": "Pluto TV Kids",
+    "url": "https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVKidsClassics.de",
+    "feed": "ES",
+    "title": "Pluto TV Kids Classics",
+    "url": "https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVKidsClassics.de",
+    "feed": "FR",
+    "title": "Pluto TV Kids Classics",
+    "url": "https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVKidsClub.de",
+    "feed": "FR",
+    "title": "Pluto TV Kids Club",
+    "url": "https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVKidsClub.us",
+    "feed": "BR",
+    "title": "Pluto TV Kids Club",
+    "url": "https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVKlassisketegnefilm.se",
+    "feed": "DK",
+    "title": "Pluto TV Klassiske tegnefilm",
+    "url": "https://jmp2.uk/plu-67f508992ebe80e2929b5c98.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVKlassisketegnefilmer.se",
+    "feed": "NO",
+    "title": "Pluto TV Klassiske tegnefilmer",
+    "url": "https://jmp2.uk/plu-67f508f68ddd60c57dc44766.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVKomedi.se",
+    "feed": "SE",
+    "title": "Pluto TV Komedi",
+    "url": "https://jmp2.uk/plu-61c0b36d18447e000717d686.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVKomedie.se",
+    "feed": "NO",
+    "title": "Pluto TV Komedie",
+    "url": "https://jmp2.uk/plu-61c1e3a679a4390007c78136.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVKultComedies.de",
+    "feed": "DACH",
+    "title": "Pluto TV Kult Comedies",
+    "url": "https://jmp2.uk/plu-66337de656fc840008ff7a65.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVKultfilm.se",
+    "feed": "DK",
+    "title": "Pluto TV Kultfilm",
+    "url": "https://jmp2.uk/plu-63dbe7ed51f5d000083e9499.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVKultfilme.de",
+    "feed": "DACH",
+    "title": "Pluto TV Kultfilme",
+    "url": "https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVKultfilmer.se",
+    "feed": "NO",
+    "title": "Pluto TV Kultfilmer",
+    "url": "https://jmp2.uk/plu-63dbe80f60bc8f0008aa7c78.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVKultfilmer.se",
+    "feed": "SE",
+    "title": "Pluto TV Kultfilmer",
+    "url": "https://jmp2.uk/plu-63dbe8c8a9957100087798a3.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVLegamiLetali.de",
+    "feed": "IT",
+    "title": "Pluto TV Legami Letali",
+    "url": "https://jmp2.uk/plu-64808a8c536e0c0008a276d1.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVLives.us",
+    "feed": "US",
+    "title": "Pluto TV Lives",
+    "url": "https://jmp2.uk/plu-5d8beeb39b5d5d5f8c672530.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVLosnuevosdetectives.us",
+    "feed": "SD",
+    "title": "Los nuevos detectives",
+    "url": "https://jmp2.uk/plu-5f1acba0d1f6340007db8843.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVMelrosePlace.us",
+    "feed": "Spain",
+    "title": "Melrose Place",
+    "url": "https://jmp2.uk/plu-64be745340962900080b55e7.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVMelrosePlace.us",
+    "feed": "Spain",
+    "title": "Melrose Place",
+    "url": "https://jmp2.uk/plu-62a0ae0e4e47a30007fe21bb.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVMelrosePlace.us",
+    "feed": "Spain",
+    "title": "Melrose Place",
+    "url": "https://jmp2.uk/plu-6245c03922d9d4000760d205.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVMelrosePlace.us",
+    "feed": "Spain",
+    "title": "Melrose Place",
+    "url": "https://jmp2.uk/plu-62a0ada2f1bdc5000738e020.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVMelrosePlace.us",
+    "feed": "Spain",
+    "title": "Melrose Place",
+    "url": "https://jmp2.uk/plu-62a0b070d4566c0007a0d1bd.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVMilitary.us",
+    "feed": "SD",
+    "title": "Pluto TV Military",
+    "url": "https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
