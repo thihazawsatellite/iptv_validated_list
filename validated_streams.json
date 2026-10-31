@@ -95302,5 +95302,379 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "RASDTV.eh",
+    "feed": "SD",
+    "title": "RASD TV",
+    "url": "https://cloud.streamingconnect.tv/hls/rasdtv/rasdtv.m3u8",
+    "quality": "404p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RashidAlMajed.sa",
+    "feed": "SD",
+    "title": "Rashid AlMajed",
+    "url": "https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RasoulallahTv.ir",
+    "feed": "HD",
+    "title": "RasoulallahTv",
+    "url": "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RaveTV.ng",
+    "feed": "SD",
+    "title": "Rave TV",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Rawhide.se",
+    "feed": "DK",
+    "title": "Rawhide",
+    "url": "https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Rawhide.se",
+    "feed": "NO",
+    "title": "Rawhide",
+    "url": "https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Rawhide.se",
+    "feed": "SE",
+    "title": "Rawhide",
+    "url": "https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Rawhide.us",
+    "feed": "CA",
+    "title": "Rawhide",
+    "url": "https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Rawhide.us",
+    "feed": "SD",
+    "title": "Rawhide",
+    "url": "https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RAZ1.ua",
+    "feed": "SD",
+    "title": "RAZ 1",
+    "url": "http://stream.mcquack.net/463/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RAZ2.ua",
+    "feed": "SD",
+    "title": "RAZ 2",
+    "url": "http://stream.mcquack.net/464/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RAZ3.ua",
+    "feed": "SD",
+    "title": "RAZ 3",
+    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3&master=180",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "referrer": "http://live.tvstitch.com/"
+  },
+  {
+    "channel": "RAZ3International.ua",
+    "feed": "SD",
+    "title": "RAZ 3 International",
+    "url": "https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RBATV.br",
+    "feed": "SD",
+    "title": "RBATV",
+    "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "rbbFernsehen.de",
+    "feed": "SD",
+    "title": "rbb Fernsehen",
+    "url": "https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RBKTV.ru",
+    "feed": "SD",
+    "title": "\u0420\u0411\u041a (\u0421\u041f\u0411)",
+    "url": "https://online-video.rbc.ru/spb/rbctv_spb.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RBKTV.ru",
+    "feed": "SD",
+    "title": "\u0420\u0411\u041a-\u0422\u0412",
+    "url": "http://online-video.rbc.ru/online2/rbctv.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RBKTV.ru",
+    "feed": "SD",
+    "title": "RBK-TV",
+    "url": "http://176.118.197.101/RBK/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RBTV.py",
+    "feed": "SD",
+    "title": "RB TV",
+    "url": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RBTVJogja.id",
+    "feed": "SD",
+    "title": "RBTV Jogja",
+    "url": "https://official.rbtvjogja.tv/live/mychannel.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": "https://official.rbtvjogja.tv/live.php"
+  },
+  {
+    "channel": "RBW.de",
+    "feed": "SD",
+    "title": "RBW",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCCTV.py",
+    "feed": "SD",
+    "title": "RCC TV",
+    "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RChannel.th",
+    "feed": "SD",
+    "title": "R Channel",
+    "url": "http://180.180.243.239/streams/3/hls",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCNHD2.co",
+    "feed": "SD",
+    "title": "RCN HD2",
+    "url": "http://181.78.14.26:4000/play/a07m/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCNMas.co",
+    "feed": "SD",
+    "title": "RCN Mas",
+    "url": "http://45.226.205.96:48000/play/a0af/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCNMas.co",
+    "feed": "SD",
+    "title": "RCN Mas",
+    "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/3000.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCNMas.co",
+    "feed": "SD",
+    "title": "RCN Mas",
+    "url": "http://190.128.214.97:64333/play/a04v/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCNMas.co",
+    "feed": "SD",
+    "title": "RCN Mas",
+    "url": "http://45.224.96.220:18000/play/a098/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCNMas.co",
+    "feed": "SD",
+    "title": "RCN M\u00e1s",
+    "url": "https://jmp2.uk/plu-69de4ad924a6d521f8b0a348.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCNMas.co",
+    "feed": "SD",
+    "title": "RCN M\u00e1s",
+    "url": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCNMas.co",
+    "feed": "SD",
+    "title": "RCN Mas",
+    "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCNNovelas.co",
+    "feed": "SD",
+    "title": "RCN Novelas",
+    "url": "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCNNovelas.co",
+    "feed": "SD",
+    "title": "RCN Novelas",
+    "url": "http://170.238.200.199/rcn-novelas/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCNNovelas.co",
+    "feed": "SD",
+    "title": "RCN Novelas",
+    "url": "http://181.78.8.199:8000/play/a0a7/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCNNovelas.co",
+    "feed": "SD",
+    "title": "RCN Novelas",
+    "url": "http://181.65.191.173:8069/play/a061",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCNNovelas.co",
+    "feed": "SD",
+    "title": "RCN Novelas",
+    "url": "https://stream1.bitred.cl/rcn-novelas/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RCNNovelas.co",
+    "feed": "SD",
+    "title": "RCN Novelas",
+    "url": "https://streaming.onnethn.com/RCN_NOVELAS/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+    "referrer": null
   }
 ]
