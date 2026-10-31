@@ -67064,5 +67064,407 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "LivingFaithTV.us",
+    "feed": "SD",
+    "title": "Living Faith TV",
+    "url": "https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1",
+    "quality": "540p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LivingIndiaNews.in",
+    "feed": "SD",
+    "title": "Living India News",
+    "url": "https://stream.ottlive.co.in/livingindia/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LivingIndiaNews.in",
+    "feed": "SD",
+    "title": "Living India News",
+    "url": "https://streams.tangotv.in/LIVINGINDIANEWS/ORIGIN/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LivingIndiaNews.in",
+    "feed": "SD",
+    "title": "Living India News",
+    "url": "https://cdn.pishow.tv/ott/live/324/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LivingIndiaNews.in",
+    "feed": "SD",
+    "title": "Living India News",
+    "url": "https://livingindiaottlive.akamaized.net/livingindia/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Lke.br",
+    "feed": "SD",
+    "title": "L!ke",
+    "url": "https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LLBNHisLight.us",
+    "feed": "SD",
+    "title": "Lighting Lives Blessing Nations His Light (LLBN)",
+    "url": "https://brightstar-hislight-pull-secure.akamaized.net/brightstarhislight/stream.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LLBNHisWord.us",
+    "feed": "SD",
+    "title": "Lighting Lives Blessing Nations His Word (LLBN)",
+    "url": "https://brightstar-hisword-pull-secure.akamaized.net/brightstarhisword/stream.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LLBNTVArabic.us",
+    "feed": "SD",
+    "title": "Lighting Lives Blessing Nations TV Arabic (LLBN)",
+    "url": "https://brightstar-arabic-pull-secure.akamaized.net/brightstararabic/stream.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LLBNTVChinese.us",
+    "feed": "SD",
+    "title": "Lighting Lives Blessing Nations TV Chinese (LLBN)",
+    "url": "https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LLBNTVKorean.us",
+    "feed": "SD",
+    "title": "Lighting Lives Blessing Nations TV Korean (LLBN)",
+    "url": "https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LLBNTVLatino.us",
+    "feed": "SD",
+    "title": "Lighting Lives Blessing Nations TV Latino (LLBN)",
+    "url": "https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LLBNTVRomanian.us",
+    "feed": "SD",
+    "title": "Lighting Lives Blessing Nations TV Romanian (LLBN)",
+    "url": "https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LLBNTVSouthAsia.us",
+    "feed": "SD",
+    "title": "Lighting Lives Blessing Nations TV South Asia (LLBN)",
+    "url": "https://brightstar-southasia-pull-secure.akamaized.net/brightstarsouthasia/stream.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LN24SA.za",
+    "feed": "SD",
+    "title": "LN24SA",
+    "url": "https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LNK.lt",
+    "feed": "SD",
+    "title": "LNK",
+    "url": "http://stream.mcquack.net/30/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Loading.br",
+    "feed": "SD",
+    "title": "Loading",
+    "url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LoboTV.mx",
+    "feed": "SD",
+    "title": "Lobo TV",
+    "url": "https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Localish.us",
+    "feed": "SD",
+    "title": "Localish",
+    "url": "https://dnmfq3sh1jipj.cloudfront.net/DisneyLocalish.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Localish.us",
+    "feed": "SD",
+    "title": "Localish",
+    "url": "https://aegis-cloudfront-1.tubi.video/0ecc85a2-5e1b-482a-9c69-3eaaee160f2e/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LogoPlutoTV.us",
+    "feed": "SD",
+    "title": "Logo Pluto TV",
+    "url": "https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LogosTV.es",
+    "feed": "SD",
+    "title": "Logos TV",
+    "url": "https://streamer1.streamhost.org/salive/logosH/master.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LogosTV.us",
+    "feed": "SD",
+    "title": "Logos TV",
+    "url": "https://5a8308add0b31.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LogosTV.us",
+    "feed": "SD",
+    "title": "Logos TV",
+    "url": "https://597f64b67707a.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LogosTVEnglish.us",
+    "feed": "SD",
+    "title": "Logos TV English",
+    "url": "https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LogosTVKids.es",
+    "feed": "SD",
+    "title": "Logos TV Kids",
+    "url": "https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LokshahiNews.in",
+    "feed": "SD",
+    "title": "Lokshahi News",
+    "url": "https://mumt05.tangotv.in/87NeALx2LOKSAAHI/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LombardiaTV.it",
+    "feed": "SD",
+    "title": "Lombardia TV",
+    "url": "https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LoneStar.us",
+    "feed": "SD",
+    "title": "Lone Star",
+    "url": "https://lonestar-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LoneStar.us",
+    "feed": "US",
+    "title": "Lone Star",
+    "url": "https://cineverse.g-mana.live/media/901011e7-9149-48cb-aabc-9218760e54fe/master.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LookThoongTV.la",
+    "feed": "SD",
+    "title": "Look Thoong TV",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LoretoTV.ec",
+    "feed": "SD",
+    "title": "Loreto TV",
+    "url": "https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LosAngelesTVRadio.py",
+    "feed": "SD",
+    "title": "Los Angeles TV Radio",
+    "url": "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LosarchivosdelFBI.us",
+    "feed": "Spain",
+    "title": "Los archivos del FBI",
+    "url": "https://jmp2.uk/plu-5f1acbed25948a0007ffbe65.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LosarchivosdelFBI.us",
+    "feed": "Spain",
+    "title": "Los archivos del FBI",
+    "url": "https://jmp2.uk/plu-5e67d41b93312100076f3fca.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LosAsesinatosdeMidsomer.us",
+    "feed": "Spain",
+    "title": "Los Asesinatos de Midsomer",
+    "url": "https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LosAsesinatosdeMidsomer.us",
+    "feed": "Spain",
+    "title": "Los Asesinatos de Midsomer",
+    "url": "https://jmp2.uk/plu-6764203df433320008836bc6.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LosSantosTV.cr",
+    "feed": "SD",
+    "title": "Los Santos TV",
+    "url": "https://lstv.duckdns.org:449/hls/lstv.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "LosSantosTV.cr",
+    "feed": "SD",
+    "title": "Los Santos TV",
+    "url": "https://tiquiciatv.com/hls/lstv.m3u8",
+    "quality": "1080i",
+    "labels": [],
+    "user_agent": null,
+    "referrer": "https://lossantostv.com"
   }
 ]
