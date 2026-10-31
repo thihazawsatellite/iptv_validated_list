@@ -104596,5 +104596,395 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "SoonaTV.co",
+    "feed": "SD",
+    "title": "Soona TV",
+    "url": "https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SooriyanTV.ca",
+    "feed": "SD",
+    "title": "Sooriyan TV",
+    "url": "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SophiaTV.de",
+    "feed": "SD",
+    "title": "Sophia TV",
+    "url": "https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SophiaTV.it",
+    "feed": "SD",
+    "title": "Sophia TV Italy",
+    "url": "https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SophiaTVEspanol.de",
+    "feed": "SD",
+    "title": "Sophia TV Espa\u00f1ol",
+    "url": "https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SophiaTVFrancais.de",
+    "feed": "SD",
+    "title": "Sophia TV Fran\u00e7ais",
+    "url": "https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SoReal.us",
+    "feed": "UK",
+    "title": "So\u2026 Real",
+    "url": "https://all3media-soreal-1-gb.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Sorozatklub.hu",
+    "feed": "SD",
+    "title": "Sorozatklub",
+    "url": "http://88.212.7.14/live/sorozatklub_atk/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "SorozatPlus.hu",
+    "feed": "SD",
+    "title": "Sorozat+",
+    "url": "http://88.212.7.14/live/test_sorozat_hungary_1200_atk/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "SorTV.md",
+    "feed": "SD",
+    "title": "Sor TV",
+    "url": "http://188.237.212.16:8888/live/cameraFeed.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SoundViewCommunityMedia.us",
+    "feed": "SD",
+    "title": "Sound View Community Media Education",
+    "url": "https://livestream.telvue.com/soundviewcmt2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SoundViewCommunityMedia.us",
+    "feed": "SD",
+    "title": "Sound View Community Media Public",
+    "url": "https://livestream.telvue.com/soundviewcmt1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthPark.de",
+    "feed": "ES",
+    "title": "South Park",
+    "url": "https://jmp2.uk/plu-628751bb7154a40007168843.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthPark.de",
+    "feed": "GB",
+    "title": "South Park",
+    "url": "https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthPark.de",
+    "feed": "IT",
+    "title": "South Park",
+    "url": "https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthPark.se",
+    "feed": "DK",
+    "title": "South Park",
+    "url": "https://jmp2.uk/plu-61c098df897b9d00070375c8.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthPark.se",
+    "feed": "NO",
+    "title": "South Park",
+    "url": "https://jmp2.uk/plu-61c1e88cd168ea0007068133.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthPark.se",
+    "feed": "SE",
+    "title": "South Park",
+    "url": "https://jmp2.uk/plu-61c0b627e3ed94000793c18a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthPark.us",
+    "feed": "CA",
+    "title": "South Park",
+    "url": "https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkArmageddon.se",
+    "feed": "DK",
+    "title": "South Park Armageddon",
+    "url": "https://jmp2.uk/plu-660bff28516d260008479e23.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkArmageddon.se",
+    "feed": "NO",
+    "title": "South Park Armageddon",
+    "url": "https://jmp2.uk/plu-660bff5724e1d000085b7c07.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkArmageddon.se",
+    "feed": "SE",
+    "title": "South Park Armageddon",
+    "url": "https://jmp2.uk/plu-660bff7dc8311c0008b4bdb4.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkButtersCollection.de",
+    "feed": "DACH",
+    "title": "South Park: Butters Collection",
+    "url": "https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkButtersCollection.se",
+    "feed": "DK",
+    "title": "South Park: Butters Collection",
+    "url": "https://jmp2.uk/plu-65d87a66ec9fda0008a5ac11.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkButtersCollection.se",
+    "feed": "NO",
+    "title": "South Park: Butters Collection",
+    "url": "https://jmp2.uk/plu-65d87fcb66eec8000887f4aa.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkButtersCollection.se",
+    "feed": "SE",
+    "title": "South Park: Butters Collection",
+    "url": "https://jmp2.uk/plu-65d881d566eec8000887f6bb.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkCartmanCollection.de",
+    "feed": "DACH",
+    "title": "South Park: Cartman Collection",
+    "url": "https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkCartmanCollection.se",
+    "feed": "DK",
+    "title": "South Park: Cartman Collection",
+    "url": "https://jmp2.uk/plu-65d87a058145cb0008265c2e.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkCartmanCollection.se",
+    "feed": "NO",
+    "title": "South Park: Cartman Collection",
+    "url": "https://jmp2.uk/plu-65d87fa0f7f0af0008b2358b.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkCartmanCollection.se",
+    "feed": "SE",
+    "title": "South Park: Cartman Collection",
+    "url": "https://jmp2.uk/plu-65d881b1332fec000833a122.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkCartmanCollection.us",
+    "feed": "CA",
+    "title": "South Park: Cartman Collection",
+    "url": "https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkColecaoCartman.us",
+    "feed": "BR",
+    "title": "South Park: Cole\u00e7\u00e3o Cartman",
+    "url": "https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkColecaoKenny.us",
+    "feed": "BR",
+    "title": "South Park: Cole\u00e7\u00e3o Kenny",
+    "url": "https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkColecaoKyle.us",
+    "feed": "BR",
+    "title": "South Park: Cole\u00e7\u00e3o Kyle",
+    "url": "https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkColecaoStan.us",
+    "feed": "BR",
+    "title": "South Park: Cole\u00e7\u00e3o Stan",
+    "url": "https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkColeccionCartman.us",
+    "feed": "LatAm",
+    "title": "South Park: Colecci\u00f3n Cartman",
+    "url": "https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkColeccionKenny.us",
+    "feed": "LatAm",
+    "title": "South Park: Colecci\u00f3n Kenny",
+    "url": "https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkColeccionKyle.us",
+    "feed": "LatAm",
+    "title": "South Park: Colecci\u00f3n Kyle",
+    "url": "https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SouthParkColeccionStan.us",
+    "feed": "LatAm",
+    "title": "South Park: Colecci\u00f3n Stan",
+    "url": "https://jmp2.uk/plu-65df72db18036500081a8292.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
