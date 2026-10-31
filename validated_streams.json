@@ -113260,5 +113260,475 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "TheNewDetectives.se",
+    "feed": "SE",
+    "title": "The New Detectives",
+    "url": "https://jmp2.uk/plu-61814dd68a368d0007d78c53.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheNewDetectives.us",
+    "feed": "CA",
+    "title": "The New Detectives",
+    "url": "https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheNewDetectives.us",
+    "feed": "LatAm",
+    "title": "The New Detectives",
+    "url": "https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheNewDetectives.us",
+    "feed": "US",
+    "title": "The New Detectives",
+    "url": "https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThePeninsulaChannel.us",
+    "feed": "SD",
+    "title": "Access Media Productions Peninsula Channel",
+    "url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThePetCollective.us",
+    "feed": "Australia",
+    "title": "The Pet Collective International",
+    "url": "https://the-pet-collective-international-au.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThePetCollective.us",
+    "feed": "Brazil",
+    "title": "The Pet Collective",
+    "url": "https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThePetCollective.us",
+    "feed": "India",
+    "title": "The Pet Collective",
+    "url": "https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThePetCollective.us",
+    "feed": "Italy",
+    "title": "The Pet Collective",
+    "url": "https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThePetCollective.us",
+    "feed": "Mexico",
+    "title": "The Pet Collective International",
+    "url": "https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThePetCollective.us",
+    "feed": "Spain",
+    "title": "The Pet Collective",
+    "url": "https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThePetCollective.us",
+    "feed": "Sweden",
+    "title": "The Pet Collective Sweden",
+    "url": "https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThePetCollective.us",
+    "feed": "UK",
+    "title": "The Pet Collective",
+    "url": "https://the-pet-collective-international-gb.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThePetCollective.us",
+    "feed": "US",
+    "title": "The Pet Collective",
+    "url": "https://jmp2.uk/plu-62e92b5fca869f00078f0162.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThePetCollective.us",
+    "feed": "US",
+    "title": "The Pet Collective International",
+    "url": "https://the-pet-collective-international-dk.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThePetCollective.us",
+    "feed": "US",
+    "title": "The Pet Collective International",
+    "url": "https://the-pet-collective-international-fi.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThePetCollective.us",
+    "feed": "US",
+    "title": "The Pet Collective",
+    "url": "https://jmp2.uk/plu-5ebacbcae43a6d000787b88e.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThePetCollective.us",
+    "feed": "US",
+    "title": "The Pet Collective",
+    "url": "https://the-pet-collective-international-nl.samsung.wurl.tv/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThePetCollective.us",
+    "feed": "US",
+    "title": "The Pet Collective International",
+    "url": "https://the-pet-collective-international-no.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThePetCollective.us",
+    "feed": "US",
+    "title": "The Pet Collective",
+    "url": "https://jmp2.uk/plu-5bb1ad55268cae539bcedb08.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThePetCollective.us",
+    "feed": "US",
+    "title": "The Pet Collective",
+    "url": "https://pb-jc9emctsujawo.akamaized.net/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThePointTelevsionNetwork.us",
+    "feed": "SD",
+    "title": "The Point Televsion Network",
+    "url": "https://tgn.bozztv.com/watc57/watc57-2/watc57-2/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThePriceIsRight.us",
+    "feed": "CA",
+    "title": "The Price is Right",
+    "url": "https://jmp2.uk/plu-64c2214c2a7f2200089a0c4b.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThePriceIsRight.us",
+    "feed": "HD",
+    "title": "The Price Is Right",
+    "url": "https://jmp2.uk/plu-643f035d5a0cd50008361534.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThePriceIsRightTheBarkerEra.us",
+    "feed": "SD",
+    "title": "The Price is Right: The Barker Era",
+    "url": "https://jmp2.uk/plu-64c220e15dc1660008a79c96.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThePriceIsRightTheBarkerEra.us",
+    "feed": "SD",
+    "title": "The Price Is Right: The Barker Era",
+    "url": "https://jmp2.uk/plu-5f7791b8372da90007fd45e6.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThePriceIsRightTheBarkerEra.us",
+    "feed": "SD",
+    "title": "The Price Is Right: The Barker Era",
+    "url": "https://amg00145-buzzr-bigballs-tpir-8min-rokuus-otcre.amagi.tv/playlist/amg00145-buzzr-bigballs-tpir-8min-rokuus/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ThePriceIsRightTheBarkerEra.us",
+    "feed": "SD",
+    "title": "The Price is Right: The Barker Era",
+    "url": "https://amg00145-letsplayinc-thepriceisright-xumo-eqq6a.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheQIndia.us",
+    "feed": "SD",
+    "title": "The Q India",
+    "url": "http://103.175.73.12:8080/live/25/25_0.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "TheRetroChannel.pr",
+    "feed": "SD",
+    "title": "The Retro Channel",
+    "url": "https://583ed2f226ac2.streamlock.net/theretrochannel/stream/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheRifleman.us",
+    "feed": "SD",
+    "title": "The Rifleman",
+    "url": "https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheTwilightZone.se",
+    "feed": "DK",
+    "title": "The Twilight Zone",
+    "url": "https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheTwilightZone.se",
+    "feed": "NO",
+    "title": "The Twilight Zone",
+    "url": "https://jmp2.uk/plu-6512d3a0bdcb19000799cc82.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheTwilightZone.se",
+    "feed": "SE",
+    "title": "The Twilight Zone",
+    "url": "https://jmp2.uk/plu-6512d6c92ce8e40008bd5c81.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheVoice.bg",
+    "feed": "SD",
+    "title": "The Voice TV",
+    "url": "https://bss1.neterra.tv/thevoice/thevoice.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheVoiceTV.in",
+    "feed": "SD",
+    "title": "The Voice TV",
+    "url": "https://legitpro.co.in/thevoicetv/thevoicetv/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheWalkingDeadenEspanol.us",
+    "feed": "SD",
+    "title": "The Walking Dead en espa\u00f1ol",
+    "url": "https://jmp2.uk/plu-5e82bb378601b80007b4bd78.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheWalkingDeadUniverse.us",
+    "feed": "SD",
+    "title": "The Walking Dead Universe",
+    "url": "https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheWalkingDeadUniverse.us",
+    "feed": "SD",
+    "title": "The Walking Dead Universe",
+    "url": "https://pb-7ien6yaxy2am1.akamaized.net/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheWalkingDeadUniverse.us",
+    "feed": "SD",
+    "title": "The Walking Dead Universe",
+    "url": "https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheWalkTV.us",
+    "feed": "SD",
+    "title": "The Walk TV",
+    "url": "https://wggstv16.ddns.net:9953/hls/walk1.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheWeatherChannel.us",
+    "feed": "SD",
+    "title": "The Weather Channel",
+    "url": "https://a-cdn.klowdtv.com/live2/theweatherchannel_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheWeatherNetwork.ca",
+    "feed": "SD",
+    "title": "The Weather Network",
+    "url": "https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheWildWildWest.se",
+    "feed": "DK",
+    "title": "The Wild Wild West",
+    "url": "https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheWildWildWest.se",
+    "feed": "NO",
+    "title": "The Wild Wild West",
+    "url": "https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TheWildWildWest.se",
+    "feed": "SE",
+    "title": "The Wild Wild West",
+    "url": "https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
