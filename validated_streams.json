@@ -22229,5 +22229,307 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "AnimalPlanet.cz",
+    "feed": "SD",
+    "title": "Animal Planet",
+    "url": "http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnimalPlanet.hu",
+    "feed": "SD",
+    "title": "Animal Planet",
+    "url": "http://88.212.7.14/live/animal_hun/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnimalPlanet.in",
+    "feed": "HD",
+    "title": "Animal Planet HD",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnimalPlanet.in",
+    "feed": "SD",
+    "title": "Animal Planet",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnimalPlanet.ru",
+    "feed": "SD",
+    "title": "Animal Planet",
+    "url": "http://stream.mcquack.net/114/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnimalPlanet.us",
+    "feed": "East",
+    "title": "Animal Planet",
+    "url": "http://23.239.31.26:8989/animalplanet/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnimalPlanet.us",
+    "feed": "East",
+    "title": "Animal Planet",
+    "url": "http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnimalPlanetLatinAmerica.us",
+    "feed": "SD",
+    "title": "Animal Planet Latin America",
+    "url": "http://190.128.214.97:64333/play/a01n/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnimationPlus.us",
+    "feed": "SD",
+    "title": "Animation+",
+    "url": "https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnimaxAsia.sg",
+    "feed": "India",
+    "title": "Animax Asia India",
+    "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnimaxAsia.sg",
+    "feed": "Taiwan",
+    "title": "Animax Asia Taiwan",
+    "url": "http://125.227.210.55:3056/VideoInput/play.ts",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnimexHIDIVE.us",
+    "feed": "SD",
+    "title": "ANIME x HIDIVE",
+    "url": "https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnimexHIDIVE.us",
+    "feed": "SD",
+    "title": "ANIME x HIDIVE",
+    "url": "https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AniplusAsia.sg",
+    "feed": "SD",
+    "title": "Aniplus Asia",
+    "url": "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnjanTV.in",
+    "feed": "SD",
+    "title": "Anjan TV",
+    "url": "https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnjanTV.in",
+    "feed": "SD",
+    "title": "Anjan TV",
+    "url": "https://mumt06.tangotv.in/qYyB8fXVANJANTV/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnjanTV.in",
+    "feed": "SD",
+    "title": "Anjan TV",
+    "url": "https://fta.ektv.in/live/20/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "AnjanTV.in",
+    "feed": "SD",
+    "title": "Anjan TV",
+    "url": "https://cdn.pishow.tv/ott/live/993/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnmolTV.in",
+    "feed": "SD",
+    "title": "Anmol TV",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnNinhTV.vn",
+    "feed": "HD",
+    "title": "An Ninh TV HD",
+    "url": "https://live.tvon.vn/g2/vtv1/video_hd_compat/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "ANT1Cyprus.cy",
+    "feed": "SD",
+    "title": "ANT1 Cyprus",
+    "url": "http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Antena1.pe",
+    "feed": "SD",
+    "title": "Antena 1",
+    "url": "https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Antena1.ro",
+    "feed": "SD",
+    "title": "Antena 1",
+    "url": "https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Antena3CNN.ro",
+    "feed": "SD",
+    "title": "Antena 3 CNN",
+    "url": "https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Antena3Constanta.ro",
+    "feed": "SD",
+    "title": "Antena 3 Constanta",
+    "url": "https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Antena7.do",
+    "feed": "HD",
+    "title": "Antena 7 HD",
+    "url": "https://hls.tvabierta.net/hls/007.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Antena21.do",
+    "feed": "HD",
+    "title": "Antena 21 HD",
+    "url": "https://hls.tvabierta.net/hls/021.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AntenaHD.pl",
+    "feed": "SD",
+    "title": "Antena HD",
+    "url": "http://92.114.85.87:8010/play/a00g/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "AntenaInternational.ro",
+    "feed": "SD",
+    "title": "Antena International",
+    "url": "https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
