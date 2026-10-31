@@ -74864,5 +74864,331 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "MTVRidiculousness.us",
+    "feed": "LatAm",
+    "title": "MTV Ridiculousness",
+    "url": "https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MTVRocks.us",
+    "feed": "BR",
+    "title": "MTV Rocks",
+    "url": "https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MTVRocks.us",
+    "feed": "LatAm",
+    "title": "MTV Rocks",
+    "url": "https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MTVShore.us",
+    "feed": "BR",
+    "title": "MTV Shore",
+    "url": "https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MTVSpankinNew.us",
+    "feed": "CA",
+    "title": "MTV Spankin\u2019 New",
+    "url": "https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MTVSpankinNew.us",
+    "feed": "US",
+    "title": "MTV Spankin' New",
+    "url": "https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MTVSub.fi",
+    "feed": "SD",
+    "title": "MTV Sub",
+    "url": "https://live-fi.tvkaista.net/sub/live.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MTVTeenMom.de",
+    "feed": "DACH",
+    "title": "MTV Teen Mom",
+    "url": "https://jmp2.uk/plu-5cffcf5686dfe15595fb3f56.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MTVTeenMom.de",
+    "feed": "ES",
+    "title": "MTV Teen Mom",
+    "url": "https://jmp2.uk/plu-604f81a49ef73300070e554f.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MTVTeenMom.se",
+    "feed": "DK",
+    "title": "MTV Teen Mom",
+    "url": "https://jmp2.uk/plu-61c092157e1b8b0007372a35.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MTVTeenMom.se",
+    "feed": "NO",
+    "title": "MTV Teen Mom",
+    "url": "https://jmp2.uk/plu-61c1df62b7672a0007b6c9ba.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MTVTeenMom.se",
+    "feed": "SE",
+    "title": "MTV Teen Mom",
+    "url": "https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MTVTeenMom.us",
+    "feed": "LatAm",
+    "title": "MTV Teen Mom",
+    "url": "https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MTVTheHills.se",
+    "feed": "DK",
+    "title": "The Hills",
+    "url": "https://jmp2.uk/plu-61c09039ebd75200072587f9.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MTVTheHills.se",
+    "feed": "NO",
+    "title": "The Hills",
+    "url": "https://jmp2.uk/plu-61c1d56f28e94c0007827bdb.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MTVTheHills.se",
+    "feed": "SE",
+    "title": "The Hills",
+    "url": "https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MTVVerguenzaajena.de",
+    "feed": "ES",
+    "title": "MTV Verg\u00fcenza ajena",
+    "url": "https://jmp2.uk/plu-63eb9495a8b227000841bf64.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MTVVolgograd.ru",
+    "feed": "SD",
+    "title": "\u041c\u0422\u0412 (\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434)",
+    "url": "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Mult.ru",
+    "feed": "SD",
+    "title": "Mult",
+    "url": "http://stream.mcquack.net/232/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Mult.ru",
+    "feed": "SD",
+    "title": "Mult",
+    "url": "http://flussonic.linkintel.ru/Mult/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Mult.ru",
+    "feed": "SD",
+    "title": "Mult",
+    "url": "https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Multilandia.ru",
+    "feed": "SD",
+    "title": "Multilandia",
+    "url": "https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Multimuzyka.ru",
+    "feed": "SD",
+    "title": "Mult i muzyka",
+    "url": "http://stream.mcquack.net/82/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MultiPremier.mx",
+    "feed": "SD",
+    "title": "MultiPremier",
+    "url": "http://168.196.127.137:6001/play/a08n/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MultivisionCanal3.gt",
+    "feed": "SD",
+    "title": "Multivisi\u00f3n Canal 3",
+    "url": "https://stream.digitalgt.com:3136/live/multivisionlive.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MultivisionFederal.ar",
+    "feed": "SD",
+    "title": "Multivision Federal",
+    "url": "https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MunchenTV.de",
+    "feed": "SD",
+    "title": "M\u00fcnchen TV",
+    "url": "https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MundosLacustresTV.cl",
+    "feed": "SD",
+    "title": "Mundos Lacustres TV",
+    "url": "https://video.ipstream.cl:3710/hybrid/play.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MunsifTV.in",
+    "feed": "SD",
+    "title": "Munsif TV",
+    "url": "https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MunsifTV.in",
+    "feed": "SD",
+    "title": "Munsif TV",
+    "url": "https://mumbai-edge.smartplaytv.in/munsiftv/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "MunsifTV.in",
+    "feed": "SD",
+    "title": "Munsif TV",
+    "url": "https://fta.ektv.in/live/598/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Musavision.do",
+    "feed": "SD",
+    "title": "Musavision",
+    "url": "https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
