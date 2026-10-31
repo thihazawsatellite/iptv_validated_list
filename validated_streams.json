@@ -9850,5 +9850,491 @@
     ],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Real Disaster Channel",
+    "url": "https://linear-475.frequency.stream/dist/glewedtv/475/hls/master/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Action Hollywood Movies",
+    "url": "https://actionhollywood-klowdtv.amagi.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Adrenaline+",
+    "url": "https://a-cdn.klowdtv.com/live3/adr_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "American Stories",
+    "url": "https://a-cdn.klowdtv.com/live2/asn/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Beond TV",
+    "url": "https://amg01681-beondtv-amg01681c1-klowdtv-us-1826.playouts.now.amagi.tv/playlist/amg01681-beondtv-beondtv-klowdtvus/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Beyond Paranormal",
+    "url": "https://a-cdn.klowdtv.com/live3/beyondparanormal_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Black Enterprise Streaming Television",
+    "url": "https://a-cdn.klowdtv.com/live3/blackenterprise_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Cine en Espanol",
+    "url": "https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-klowdtvus/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "EchoSports",
+    "url": "https://a-cdn.klowdtv.com/live2/echosports_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Horror Machine",
+    "url": "https://naviofrequency-horrormachine-klowdtv.amagi.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Real Crime Uncovered",
+    "url": "https://a-cdn.klowdtv.com/live3/realcrimeuncovered_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Shooting Sports Life",
+    "url": "https://a-cdn.klowdtv.com/live2/ssl_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Smart Healthy Green Living",
+    "url": "https://amg16109-shgliving-amg16109c1-klowdtv-us-2235.playouts.now.amagi.tv/playlist/amg16109-shglivingnetwork-smarthealthygreenliving-klowdtvus/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "StashTV Black Stories",
+    "url": "https://amg01720-amg01720c1-klowdtv-us-4664.playouts.now.amagi.tv/playlist/amg01720-filmhub-stashtvblackstories-klowdtvus/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "StashTV The Classics",
+    "url": "https://amg01720-amg01720c2-klowdtv-us-4689.playouts.now.amagi.tv/playlist/amg01720-filmhub-stashtvtheclassics-klowdtvus/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Travel Escapes",
+    "url": "https://a-cdn.klowdtv.com/live3/travelescapes_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Unleashed by DOGTV",
+    "url": "https://a-cdn.klowdtv.com/live3/unleashed_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Valuetainment",
+    "url": "https://a-cdn.klowdtv.com/live3/valuetainment_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "wedotv Amor",
+    "url": "https://a-cdn.klowdtv.com/live3/amor_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "wedotv Big Stories",
+    "url": "https://a-cdn.klowdtv.com/live3/bigstories_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "wedotv Cars",
+    "url": "https://a-cdn.klowdtv.com/live3/cars_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Wild TV",
+    "url": "https://a-cdn.klowdtv.com/live3/wildtv_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Western Bound",
+    "url": "https://a-cdn.klowdtv.com/live3/westernbound_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "On Patrol: Live",
+    "url": "https://a-cdn.klowdtv.com/live3/onpatrol_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Reelz Famous & Infamous",
+    "url": "https://a-cdn.klowdtv.com/live3/famousandinfamous_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Cowboy+ Sports",
+    "url": "https://a-cdn.klowdtv.com/live3/cowboy_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Cox Meriden Public Access Channel 15 (Meriden CT)",
+    "url": "http://applevalley.coxctv.com/live-1/live/live.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Sound View Community Media Government",
+    "url": "https://livestream.telvue.com/soundviewcmt3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "60 Minutes",
+    "url": "https://jmp2.uk/plu-66b646f9cd0d3100086af83c.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "A&E Crime 360",
+    "url": "https://jmp2.uk/plu-6000a5a9e767980007b497ca.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Always Funny",
+    "url": "https://jmp2.uk/plu-69eaa34817801c84fca05d94.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "America's Funniest Home Videos",
+    "url": "https://jmp2.uk/plu-691cf0410a78a9ce61ad2121.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "American Crimes",
+    "url": "https://jmp2.uk/plu-65492fc7056b9700088560b5.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Ancient Aliens",
+    "url": "https://jmp2.uk/plu-6887a8fd8e92b5e0a7244e88.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "AWSN",
+    "url": "https://jmp2.uk/plu-682e43b21295f98347710917.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Bad Girls Club",
+    "url": "https://jmp2.uk/plu-654932fa4d6d8f00084c4723.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Beach Day",
+    "url": "https://jmp2.uk/plu-68bb162bb3900870ec364cbe.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Best of Bobby Flay by Food Network",
+    "url": "https://jmp2.uk/plu-68bb167e00a2f063fdf7ee8f.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "BET x Tyler Perry Comedy",
+    "url": "https://jmp2.uk/plu-666b265722acab000885c6aa.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "BET x Tyler Perry Drama",
+    "url": "https://jmp2.uk/plu-666b38a5efa2a10008b15b3a.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Boruto: Naruto Next Generations",
+    "url": "https://jmp2.uk/plu-696997049889f8db34c936c2.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Bravo Vault",
+    "url": "https://jmp2.uk/plu-6549310a53fc97000838fcc9.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Casos de la Dra. Polo",
+    "url": "https://jmp2.uk/plu-60d393e5579a420007ee553c.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "CBS News Philadelphia",
+    "url": "https://jmp2.uk/plu-5eb1b05ea168cc000767ba67.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "CBS News Texas",
+    "url": "https://jmp2.uk/plu-5eceb0d4065c240007688ec6.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Cheaters",
+    "url": "https://jmp2.uk/plu-627d355aa95efd00077afcc7.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Chef vs Chef by Food Network",
+    "url": "https://jmp2.uk/plu-68bb16a500a2f063fdf89f8c.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
