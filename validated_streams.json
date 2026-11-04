@@ -88904,5 +88904,495 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "PlutoTVRetroCrimeDrama.us",
+    "feed": "CA",
+    "title": "Pluto TV Retro Crime Drama",
+    "url": "https://jmp2.uk/plu-630f1e6073bd1800082107f0.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVRetroKid.us",
+    "feed": "CA",
+    "title": "Pluto TV Retro Kid",
+    "url": "https://jmp2.uk/plu-6408b41b83f58900081d91ad.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVRetroToons.de",
+    "feed": "FR",
+    "title": "Pluto TV Retro Toons",
+    "url": "https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVRetroToons.de",
+    "feed": "GB",
+    "title": "Pluto TV Retro Toons",
+    "url": "https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVRomance.de",
+    "feed": "DACH",
+    "title": "Pluto TV Romance",
+    "url": "https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVRomance.us",
+    "feed": "US",
+    "title": "Pluto TV Romance",
+    "url": "https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVRomantik.se",
+    "feed": "DK",
+    "title": "Pluto TV Romantik",
+    "url": "https://jmp2.uk/plu-63a1c954d3897300079fcb12.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVRomantik.se",
+    "feed": "SE",
+    "title": "Pluto TV Romantik",
+    "url": "https://jmp2.uk/plu-63a19da6847a090007f230da.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVRomantikk.se",
+    "feed": "NO",
+    "title": "Pluto TV Romantikk",
+    "url": "https://jmp2.uk/plu-63a19bb5e6914b000721b5c0.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSanctuary.us",
+    "feed": "SD",
+    "title": "Sanctuary",
+    "url": "https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVScherzierisate.de",
+    "feed": "IT",
+    "title": "Pluto TV Scherzi e risate",
+    "url": "https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVScience.de",
+    "feed": "DACH",
+    "title": "Pluto TV Science",
+    "url": "https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVScience.de",
+    "feed": "GB",
+    "title": "Pluto TV Science",
+    "url": "https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVScience.us",
+    "feed": "US",
+    "title": "Pluto TV Science",
+    "url": "https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSciFi.de",
+    "feed": "DACH",
+    "title": "Pluto TV Sci-Fi",
+    "url": "https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSciFi.de",
+    "feed": "ES",
+    "title": "Pluto TV Sci-Fi",
+    "url": "https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSciFi.de",
+    "feed": "GB",
+    "title": "Pluto TV Sci-Fi",
+    "url": "https://jmp2.uk/plu-5dc02a44a9518600094273ac.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSciFi.de",
+    "feed": "IT",
+    "title": "Pluto TV Sci-Fi",
+    "url": "https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSciFi.se",
+    "feed": "DK",
+    "title": "Pluto TV Sci-Fi",
+    "url": "https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSciFi.se",
+    "feed": "NO",
+    "title": "Pluto TV Sci-Fi",
+    "url": "https://jmp2.uk/plu-61f957e051cca800076f2358.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSciFi.se",
+    "feed": "SE",
+    "title": "Pluto TV Sci-Fi",
+    "url": "https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSciFi.us",
+    "feed": "CA",
+    "title": "Pluto TV Sci-fi",
+    "url": "https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSciFi.us",
+    "feed": "LatAm",
+    "title": "Pluto TV Sci-Fi",
+    "url": "https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSciFi.us",
+    "feed": "US",
+    "title": "Pluto TV Sci-Fi",
+    "url": "https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVScifiSeries.de",
+    "feed": "GB",
+    "title": "Pluto TV Sci-fi Series",
+    "url": "https://jmp2.uk/plu-619247c34a270700077c8415.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSerie.de",
+    "feed": "DACH",
+    "title": "Pluto TV Serie",
+    "url": "https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSerie.de",
+    "feed": "IT",
+    "title": "Pluto TV Serie",
+    "url": "https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSerieCrime.de",
+    "feed": "IT",
+    "title": "Pluto TV Serie Crime",
+    "url": "https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSeries.us",
+    "feed": "LatAm",
+    "title": "Pluto TV Series",
+    "url": "https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSeriesAcao.us",
+    "feed": "BR",
+    "title": "Pluto TV S\u00e9ries A\u00e7\u00e3o",
+    "url": "https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSerieSciFi.de",
+    "feed": "IT",
+    "title": "Pluto TV Serie Sci-Fi",
+    "url": "https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSeriesComedia.us",
+    "feed": "BR",
+    "title": "Pluto TV S\u00e9ries Com\u00e9dia",
+    "url": "https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSeriesCriminais.us",
+    "feed": "BR",
+    "title": "Pluto TV S\u00e9ries Criminais",
+    "url": "https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSeriescriminales.de",
+    "feed": "ES",
+    "title": "Pluto TV Series criminales",
+    "url": "https://jmp2.uk/plu-65cf6ab58145cb0008129ca8.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSeriesdeAccion.us",
+    "feed": "LatAm",
+    "title": "Pluto TV Series de Acci\u00f3n",
+    "url": "https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSeriesdeComedia.us",
+    "feed": "LatAm",
+    "title": "Pluto TV Series de Comedia",
+    "url": "https://jmp2.uk/plu-655f626d57fe4a00085c7c3e.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSeriesdeCrimen.us",
+    "feed": "LatAm",
+    "title": "Pluto TV Series de Crimen",
+    "url": "https://jmp2.uk/plu-655f62ff954b020008c91ec6.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSeriesdeDrama.us",
+    "feed": "LatAm",
+    "title": "Pluto TV Series de Drama",
+    "url": "https://jmp2.uk/plu-655f636d954b020008c93299.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSeriesdeOtrosContinentes.us",
+    "feed": "LatAm",
+    "title": "Pluto TV Series de Otros Continentes",
+    "url": "https://jmp2.uk/plu-6806d570c178637410ae4962.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSeriesdeSciFi.us",
+    "feed": "LatAm",
+    "title": "Pluto TV Series de Sci-Fi",
+    "url": "https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSeriesDrama.us",
+    "feed": "BR",
+    "title": "Pluto TV S\u00e9ries Drama",
+    "url": "https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSeriesFantastiques.de",
+    "feed": "FR",
+    "title": "Pluto TV S\u00e9ries Fantastiques",
+    "url": "https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSeriesLatinas.us",
+    "feed": "LatAm",
+    "title": "Pluto TV Series Latinas",
+    "url": "https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSeriesNovelescas.us",
+    "feed": "BR",
+    "title": "Pluto TV S\u00e9ries Novelescas",
+    "url": "https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSeriesRetro.us",
+    "feed": "LatAm",
+    "title": "Pluto TV Series Retro",
+    "url": "https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSeriesSciFi.de",
+    "feed": "ES",
+    "title": "Pluto TV Series Sci-Fi",
+    "url": "https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSeriesSciFi.us",
+    "feed": "BR",
+    "title": "Pluto TV S\u00e9ries Sci-Fi",
+    "url": "https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVSherlock.de",
+    "feed": "GB",
+    "title": "Pluto TV Sherlock",
+    "url": "https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "PlutoTVShore.de",
+    "feed": "IT",
+    "title": "Pluto TV Shore",
+    "url": "https://jmp2.uk/plu-67e3b0d2443f0671bc8a1297.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
