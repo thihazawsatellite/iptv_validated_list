@@ -58238,5 +58238,247 @@
     ],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "HotBench.us",
+    "feed": "SD",
+    "title": "Hot Bench",
+    "url": "https://jmp2.uk/plu-6036e6e7ac69c400072afca2.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HOTZone.il",
+    "feed": "SD",
+    "title": "HOT Zone",
+    "url": "http://stream.mcquack.net/379/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "HouseofLies.se",
+    "feed": "DK",
+    "title": "House of Lies",
+    "url": "https://jmp2.uk/plu-693ae62a43fe00a023e76e0d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HouseofLies.se",
+    "feed": "NO",
+    "title": "House of Lies",
+    "url": "https://jmp2.uk/plu-693ae65fab5959c036fa6c1e.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HouseofLies.se",
+    "feed": "SE",
+    "title": "House of Lies",
+    "url": "https://jmp2.uk/plu-693ae6bf0ddf7d2a40b7fd35.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "hrfernsehen.de",
+    "feed": "HD",
+    "title": "hr-fernsehen HD",
+    "url": "https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "hrfernsehen.de",
+    "feed": "SD",
+    "title": "hr-fernsehen",
+    "url": "https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HSE.de",
+    "feed": "SD",
+    "title": "HSE",
+    "url": "https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HSEExtra.de",
+    "feed": "SD",
+    "title": "HSE24 Extra",
+    "url": "https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HSETrend.de",
+    "feed": "SD",
+    "title": "HSE24 Trend",
+    "url": "https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HSN2.us",
+    "feed": "SD",
+    "title": "HSN2",
+    "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HSN.us",
+    "feed": "East",
+    "title": "HSN",
+    "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HSN.us",
+    "feed": "East",
+    "title": "HSN",
+    "url": "https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HSN.us",
+    "feed": "East",
+    "title": "HSN",
+    "url": "https://jmp2.uk/plu-5f8a02476b72230007e62b7d.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HSN.us",
+    "feed": "West",
+    "title": "HSN West",
+    "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HSTV.in",
+    "feed": "SD",
+    "title": "HSTV",
+    "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HTSporTV.tr",
+    "feed": "SD",
+    "title": "HTSpor TV",
+    "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HTV1HoustonTelevision.us",
+    "feed": "SD",
+    "title": "HTV 1 Houston Television",
+    "url": "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HTV2HoustonTelevision.us",
+    "feed": "SD",
+    "title": "HTV 2 Houston Television",
+    "url": "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HTV.us",
+    "feed": "Argentina",
+    "title": "HTV Argentina",
+    "url": "http://45.134.141.161:2200/ARG/HTV/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HTV.us",
+    "feed": "SD",
+    "title": "HTV",
+    "url": "http://45.171.64.30:6060/play/a012/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HTV.us",
+    "feed": "SD",
+    "title": "HTV",
+    "url": "https://streaming.onnethn.com/HTV/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HuachoPeruTV.pe",
+    "feed": "SD",
+    "title": "Huacho Peru TV",
+    "url": "https://tv.huachotv.com/stream.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HudaTV.eg",
+    "feed": "SD",
+    "title": "Huda TV",
+    "url": "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
   }
 ]
