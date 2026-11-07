@@ -5796,5 +5796,205 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Rajawali TV",
+    "url": "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "FloRacing 24/7",
+    "url": "https://amg02278-amg02278c1-distrotv-us-7534.playouts.now.amagi.tv/playlist/amg02278-flosports-floracing24x7-distrotvus/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Zarok TV Sorani",
+    "url": "https://zindisorani.zaroktv.com.tr/hls/stream.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Super TV Brescia",
+    "url": "http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Affare Fatto",
+    "url": "https://jmp2.uk/plu-64ec5c6644fe100009d114ae.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Alice Nevers",
+    "url": "https://jmp2.uk/plu-66d9aa4315d2c60008d4ac40.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Automoto",
+    "url": "https://jmp2.uk/plu-6971fc6dca441014e4600f2c.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Autostop per il cielo",
+    "url": "https://jmp2.uk/plu-638f286445264d00084ec6dc.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Barbie & Friends",
+    "url": "https://jmp2.uk/plu-686cfdf894a028da3aac4252.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "BBC Series",
+    "url": "https://jmp2.uk/plu-62e7fa5ab5062e0007dcf97d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Carabinieri",
+    "url": "https://jmp2.uk/plu-66a0eea88561260008b1c5d0.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Catfish",
+    "url": "https://jmp2.uk/plu-6093f9ed2c75660007322bb7.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Cherif",
+    "url": "https://jmp2.uk/plu-66a8c7aefe11e500085b1587.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Cinema Poliziottesco",
+    "url": "https://jmp2.uk/plu-671754d8e482950008962aaf.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "CineThriller",
+    "url": "https://jmp2.uk/plu-653660b4295b840008a70ba3.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "CNN Headlines International",
+    "url": "https://jmp2.uk/plu-66c45ba803e3b20008d8c294.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Duri a Morire",
+    "url": "https://jmp2.uk/plu-65f865a62873090008d06382.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Dynasty",
+    "url": "https://jmp2.uk/plu-65cb76ea11ced70008206b66.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Extreme Makeover Home Edition",
+    "url": "https://jmp2.uk/plu-6661739641af6400080cd8f1.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Flashpoint",
+    "url": "https://jmp2.uk/plu-66d7120815d2c60008cec006.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
