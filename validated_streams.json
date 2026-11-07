@@ -35137,5 +35137,409 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "CaracolTV.co",
+    "feed": "SD",
+    "title": "Caracol TV",
+    "url": "http://200.115.120.1:8000/play/ca070/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CaracolTV.co",
+    "feed": "SD",
+    "title": "Caracol TV",
+    "url": "http://200.122.232.149:8000/play/a020/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CaracolTV.co",
+    "feed": "SD",
+    "title": "Caracol TV",
+    "url": "http://201.216.147.90:8729/play/a01v",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CaracolTV.co",
+    "feed": "SD",
+    "title": "Caracol TV",
+    "url": "https://barinaslive1.boldmss.com/CARACOL/CARACOL.isml/CARACOL.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CaracolTV.co",
+    "feed": "SD",
+    "title": "Caracol TV",
+    "url": "http://181.79.86.130:8000/play/a04w/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CaracolTV.co",
+    "feed": "SD",
+    "title": "Caracol TV",
+    "url": "http://181.79.86.130:8000/play/a077/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CarasTV.ar",
+    "feed": "SD",
+    "title": "Caras TV",
+    "url": "https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CarChase.se",
+    "feed": "DK",
+    "title": "Car Chase",
+    "url": "https://jmp2.uk/plu-65a93b0607e03a000895abda.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CarChase.se",
+    "feed": "NO",
+    "title": "Car Chase",
+    "url": "https://jmp2.uk/plu-65a93b870c7ff50008d1ca47.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CarChase.se",
+    "feed": "SE",
+    "title": "Car Chase",
+    "url": "https://jmp2.uk/plu-65a93be02fac9c00083cbac4.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CarChase.us",
+    "feed": "SD",
+    "title": "Car Chase",
+    "url": "https://jmp2.uk/plu-65244c403fd33c0008ffff31.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CaribbeanGospelTV.jm",
+    "feed": "SD",
+    "title": "Caribbean Gospel TV",
+    "url": "https://25466019af9b7aed.servers.dvcloud.tv/hls/iptv_providers/fhvtgifbqbcjp0g19mdd76t18tpalu4k.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CaribbeanHot7TV.lc",
+    "feed": "SD",
+    "title": "Caribbean Hot 7 TV",
+    "url": "https://vids1.intacs.com/caribbeanhot7tv/ch7-1.stream/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CaritasTV.py",
+    "feed": "SD",
+    "title": "C\u00e1ritas TV",
+    "url": "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Carivision.do",
+    "feed": "SD",
+    "title": "Carivision",
+    "url": "https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CarolineintheCity.se",
+    "feed": "DK",
+    "title": "Caroline in the City",
+    "url": "https://jmp2.uk/plu-66a7aa44cd0d31000843942b.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CarolineintheCity.se",
+    "feed": "NO",
+    "title": "Caroline in the City",
+    "url": "https://jmp2.uk/plu-66a7aac9d512590008ab2dcb.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CarolineintheCity.se",
+    "feed": "SE",
+    "title": "Caroline in the City",
+    "url": "https://jmp2.uk/plu-66a7ab4dcd0d3100084395b4.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Carousel.ru",
+    "feed": "Plus4",
+    "title": "Carousel",
+    "url": "http://185.37.150.46/Karusel/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Carousel.ru",
+    "feed": "SD",
+    "title": "Carousel",
+    "url": "http://31.148.5.241/kanal_8/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Carousel.ru",
+    "feed": "SD",
+    "title": "Carousel",
+    "url": "http://88.212.15.50/live/test_karusel/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Carousel.ru",
+    "feed": "SD",
+    "title": "Carousel",
+    "url": "http://flussonic.linkintel.ru/Karusel/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Carousel.ru",
+    "feed": "SD",
+    "title": "Carousel",
+    "url": "https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Carousel.ru",
+    "feed": "SD",
+    "title": "Carousel SD",
+    "url": "http://stream.mcquack.net/120/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Carousel.ru",
+    "feed": "SD",
+    "title": "\u041a\u0430\u0440\u0443\u0441\u0435\u043b\u044c",
+    "url": "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Carousel.ru",
+    "feed": "SD",
+    "title": "\u041a\u0430\u0440\u0443\u0441\u0435\u043b\u044c",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8",
+    "quality": "540p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": "WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",
+    "referrer": null
+  },
+  {
+    "channel": "CarsTV.us",
+    "feed": "SD",
+    "title": "Cars.TV",
+    "url": "https://a-cdn.klowdtv.com/live2/carstv_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonClassics.pl",
+    "feed": "FAST",
+    "title": "Cartoon Classics",
+    "url": "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonClassics.ru",
+    "feed": "SD",
+    "title": "Cartoon Classics",
+    "url": "http://88.218.242.237:8001/Cartoon_Classics",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cartoonito.it",
+    "feed": "HD",
+    "title": "Cartoonito HD",
+    "url": "https://boing.akamaized.net/6380673432112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDY3MzQzMjExMiJ9.WACYETOZxZYmZHRpxwRrATxVZQBdSoeaWdfhtLKx1kI/playlist-hls.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonitoAsia.sg",
+    "feed": "SD",
+    "title": "Cartoonito Asia",
+    "url": "http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "CartoonitoAsia.sg",
+    "feed": "SD",
+    "title": "Cartoonito Asia",
+    "url": "http://202.150.165.66:8088/play/201-Cartoonito/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonitoCEE.uk",
+    "feed": "Bulgary",
+    "title": "Cartoonito CEE Bulgary",
+    "url": "http://213.91.179.28:8000/play/a0c7",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonitoCEE.uk",
+    "feed": "Czechia",
+    "title": "Cartoonito CEE Czechia",
+    "url": "http://88.212.7.14/live/test_boomerang_tizen/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonitoCEE.uk",
+    "feed": "Poland",
+    "title": "Cartoonito CEE Poland",
+    "url": "http://92.114.85.87:8007/play/a008",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonitoCEE.uk",
+    "feed": "SD",
+    "title": "Cartoonito CEE",
+    "url": "http://193.33.39.108:9019/play/a00t",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonitoLatinAmerica.us",
+    "feed": "SD",
+    "title": "Cartoonito Latin America",
+    "url": "http://45.173.12.70:8000/play/a0hh",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetwork.in",
+    "feed": "SD",
+    "title": "Cartoon Network",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetwork.it",
+    "feed": "SD",
+    "title": "Cartoon Network",
+    "url": "http://185.227.34.104/stream/122/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetwork.pk",
+    "feed": "SD",
+    "title": "Cartoon Network",
+    "url": "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
