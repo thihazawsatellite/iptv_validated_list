@@ -22901,5 +22901,417 @@
     "labels": [],
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
     "referrer": null
+  },
+  {
+    "channel": "AnandTV.in",
+    "feed": "SD",
+    "title": "Anand TV",
+    "url": "https://indianews-yupp.vgcdn.net/anandtv/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AnandTV.uk",
+    "feed": "SD",
+    "title": "Anand TV",
+    "url": "https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Anaylos7.us",
+    "feed": "Spain",
+    "title": "Ana y los 7",
+    "url": "https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ANBNews.in",
+    "feed": "SD",
+    "title": "ANB News",
+    "url": "https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ANBNews.in",
+    "feed": "SD",
+    "title": "ANB News",
+    "url": "https://fta.ektv.in/live/101/101_0.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "ANBNews.in",
+    "feed": "SD",
+    "title": "ANB News",
+    "url": "https://mumt05.tangotv.in/87NeALx2ANBNEWSNATIONAL/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ANBNews.in",
+    "feed": "SD",
+    "title": "ANB News",
+    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/anb/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ANBNews.in",
+    "feed": "SD",
+    "title": "ANB News",
+    "url": "https://stream.ottlive.co.in/anb/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ANCTelevision.co",
+    "feed": "SD",
+    "title": "ANC Television",
+    "url": "https://live.amelbatv.co:81/anctvlive/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AndesTelevision.pe",
+    "feed": "SD",
+    "title": "Andes Television",
+    "url": "https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AndesTelevision.pe",
+    "feed": "SD",
+    "title": "Andes Television",
+    "url": "https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AndorraTV.ad",
+    "feed": "SD",
+    "title": "Andorra TV",
+    "url": "https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Andpictures.in",
+    "feed": "HD",
+    "title": "&pictures HD",
+    "url": "http://103.135.253.32:8080/PICTURE-HD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Andromeda.us",
+    "feed": "Italy",
+    "title": "Andromeda Italy",
+    "url": "https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Andromeda.us",
+    "feed": "Spain",
+    "title": "Andromeda",
+    "url": "https://jmp2.uk/plu-6850335b5965a2fd49f7e36d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Andromeda.us",
+    "feed": "Spain",
+    "title": "Andromeda",
+    "url": "https://jmp2.uk/plu-663a163f8ea5560008a3f234.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Andromeda.us",
+    "feed": "Spain",
+    "title": "Andromeda",
+    "url": "https://jmp2.uk/plu-6177fb39b68ef1000725e59e.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Andromeda.us",
+    "feed": "Spain",
+    "title": "Andromeda",
+    "url": "https://jmp2.uk/plu-6178156e54712100072d6b2b.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Andromeda.us",
+    "feed": "Spain",
+    "title": "Andromeda",
+    "url": "https://jmp2.uk/plu-617807a1a3a6160007f615e4.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Andromeda.us",
+    "feed": "UK",
+    "title": "Andromeda",
+    "url": "https://jmp2.uk/plu-5e8db96bccae160007c71eec.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AndTV.in",
+    "feed": "International",
+    "title": "&TV International",
+    "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "Africa",
+    "title": "Angel TV Africa",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "America",
+    "title": "Angel TV America",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-374850/america/ngrp:angelamerica_all/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "Arabia",
+    "title": "Angel TV Arabia",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-213167/arabia/ngrp:angelarabia_all/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "Australia",
+    "title": "Angel TV Australia",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-310787/australia/ngrp:angelaustralia_all/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "Chinese",
+    "title": "Angel TV Chinese",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "Europe",
+    "title": "Angel TV Europe",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-512011/europe/ngrp:angeleurope_all/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "FarEast",
+    "title": "Angel TV FarEast",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-438760/fareast/ngrp:angelfareast_all/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "Hebrew",
+    "title": "Angel TV Hebrew",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "India",
+    "title": "Angel TV",
+    "url": "https://cdn.pishow.tv/ott/live/453/master.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "India",
+    "title": "Angel TV",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "India",
+    "title": "Angel TV",
+    "url": "https://mumbai-edge.smartplaytv.in/AngelTV/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "India",
+    "title": "Angel TV",
+    "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:angeltv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "IndoChina",
+    "title": "Angel TV Indo-China",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "Indonesia",
+    "title": "Angel TV Indonesia",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "Nepal",
+    "title": "Angel TV Nepal",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-109639/nepali/ngrp:angelnepali_all/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "Portuguese",
+    "title": "Angel TV Portuguese",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "Russian",
+    "title": "Angel TV Russian",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngelTV.in",
+    "feed": "Spanish",
+    "title": "Angel TV Spanish",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngerManagementChannel.us",
+    "feed": "SD",
+    "title": "Anger Management Channel",
+    "url": "https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AngerManagementChannel.us",
+    "feed": "SD",
+    "title": "Anger Management",
+    "url": "https://jmp2.uk/plu-65cf8bdaa25d5e00081e1e5d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
