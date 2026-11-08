@@ -105324,5 +105324,285 @@
     ],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "SonarBangla.in",
+    "feed": "SD",
+    "title": "Sonar Bangla",
+    "url": "https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Sonce.ua",
+    "feed": "SD",
+    "title": "Sonce",
+    "url": "https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "curl/8.16.0",
+    "referrer": null
+  },
+  {
+    "channel": "SoncePlus.ua",
+    "feed": "SD",
+    "title": "Sonce+",
+    "url": "http://777905.live.tvstitch.com/playlist.m3u8?master=1103&source=aHR0cDovLzE3Ni4xMjIuMTI1LjIzOjcwMDAvY2g0My90cmFja3MtdjFhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTU3LjEyOC4yMzYuMjIzJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1NTE0NiZzdD02SC1HSlEtemw4X1NCQjMzRjVLTUpn",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "referrer": "http://live.tvstitch.com/"
+  },
+  {
+    "channel": "SoneriCinema.in",
+    "feed": "SD",
+    "title": "Soneri Cinema",
+    "url": "https://samitaorigin.tangotv.in/SONERICINEMA/SAMITAORIGIN/index.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SongdewTV.in",
+    "feed": "SD",
+    "title": "Songdew TV",
+    "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "quality": "396p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SONGTVRussia.ru",
+    "feed": "SD",
+    "title": "SONGTV Russia",
+    "url": "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SonicTV.us",
+    "feed": "SD",
+    "title": "Sonic TV",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2260",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SonicTV.us",
+    "feed": "SD",
+    "title": "Sonic TV",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16764",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SonnenklarTV.de",
+    "feed": "SD",
+    "title": "Sonnenklar TV",
+    "url": "http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SonoOndaTV.ec",
+    "feed": "SD",
+    "title": "Sono Onda TV",
+    "url": "https://live.obslivestream.com/sonoondatv/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SonyAath.in",
+    "feed": "SD",
+    "title": "Sony Aath",
+    "url": "http://103.135.253.32:8080/SONY_AATH/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SonyAath.in",
+    "feed": "SD",
+    "title": "Sony Aath",
+    "url": "https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SonyChannel.ar",
+    "feed": "SD",
+    "title": "Sony Channel",
+    "url": "http://138.121.15.230:9002/SONY/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SonyChannelAndes.us",
+    "feed": "SD",
+    "title": "Sony Channel Andes",
+    "url": "http://190.93.224.42/SONY-CHANNEL/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SonyEntertainmentTelevision.in",
+    "feed": "HD",
+    "title": "Sony Entertainment Television HD",
+    "url": "http://38.96.178.205/SONYHD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SonyKALHindi.us",
+    "feed": "SD",
+    "title": "Sony KAL Hindi",
+    "url": "https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SonyMax.in",
+    "feed": "HD",
+    "title": "Sony Max HD",
+    "url": "http://103.135.253.32:8080/Sony-Max-HD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SonyMovies.br",
+    "feed": "SD",
+    "title": "Sony Movies",
+    "url": "http://45.162.64.114/SONY_MOVIES/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SonyMovies.us",
+    "feed": "SD",
+    "title": "Sony Movies",
+    "url": "https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SonyOneBlacklist.fr",
+    "feed": "HD",
+    "title": "Sony One Blacklist",
+    "url": "https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SonyOneFavoris.fr",
+    "feed": "HD",
+    "title": "Sony One Favoris",
+    "url": "https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SonyOneHitsAction.fr",
+    "feed": "HD",
+    "title": "Sony One Hits Action",
+    "url": "https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SonyOneHitsComedie.fr",
+    "feed": "HD",
+    "title": "Sony One Hits Comedie",
+    "url": "https://d3nvxupr08boay.cloudfront.net/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SonyPal.in",
+    "feed": "SD",
+    "title": "Sony Pal",
+    "url": "http://163.61.226.31:9981/stream/channelid/1571254341?profile=pass",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SonySAB.in",
+    "feed": "SD",
+    "title": "Sony SAB",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SonyWah.in",
+    "feed": "SD",
+    "title": "Sony Wah",
+    "url": "http://163.61.226.31:9981/stream/channelid/1743466790?profile=pass",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SonyYay.in",
+    "feed": "SD",
+    "title": "Sony Yay!",
+    "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SoonaTV.co",
+    "feed": "SD",
+    "title": "Soona TV",
+    "url": "https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
