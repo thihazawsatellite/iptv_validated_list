@@ -118832,5 +118832,921 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "TVCuruca.br",
+    "feed": "SD",
+    "title": "TV Curu\u00e7a",
+    "url": "https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVDen.tr",
+    "feed": "SD",
+    "title": "TV Den",
+    "url": "http://canli.tvden.com.tr/hls/live.m3u8",
+    "quality": "576p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVDifusao.br",
+    "feed": "SD",
+    "title": "TV Difusao",
+    "url": "https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVDirect13.cw",
+    "feed": "SD",
+    "title": "TV Direct 13",
+    "url": "https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "quality": "480p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVDK.sk",
+    "feed": "SD",
+    "title": "TV DK",
+    "url": "https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8",
+    "quality": "486p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVEger.hu",
+    "feed": "SD",
+    "title": "TV Eger",
+    "url": "http://stream.tveger.hu:8010/live.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVEInternacionalAmerica.es",
+    "feed": "HD",
+    "title": "TVE Internacional America HD",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVEInternacionalAmerica.es",
+    "feed": "SD",
+    "title": "TVE Internacional America",
+    "url": "http://116.121.59.72:9981/stream/channel/75f703b52ec2465e4ed2934b98f0f77a",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVEInternacionalAmerica.es",
+    "feed": "SD",
+    "title": "TVE Internacional America",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8",
+    "quality": "576p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVEInternacionalAmerica.es",
+    "feed": "SD",
+    "title": "TVE Internacional America",
+    "url": "https://barinaslive1.boldmss.com/TVE/TVE.isml/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVEInternacionalAsiaOceania.es",
+    "feed": "HD",
+    "title": "TVE Internacional Asia-Oceania HD",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVEInternacionalAsiaOceania.es",
+    "feed": "SD",
+    "title": "TVE Internacional Asia-Oceania",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8",
+    "quality": "576p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVEInternacionalEurope.es",
+    "feed": "HD",
+    "title": "TVE Internacional Europe HD",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVEInternacionalEurope.es",
+    "feed": "SD",
+    "title": "TVE Internacional Europe",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8",
+    "quality": "576p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVEllef.nl",
+    "feed": "SD",
+    "title": "TV Ellef",
+    "url": "http://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVes.ve",
+    "feed": "SD",
+    "title": "TVes",
+    "url": "https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVes.ve",
+    "feed": "SD",
+    "title": "TVes",
+    "url": "http://45.226.205.96:48000/play/a0dn/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVEStar.es",
+    "feed": "HD",
+    "title": "TVE Star HD",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVEStar.es",
+    "feed": "HD",
+    "title": "TVE Star HD",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVEStar.es",
+    "feed": "SD",
+    "title": "TVE Star",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVEstrella.hn",
+    "feed": "SD",
+    "title": "TV Estrella",
+    "url": "https://s.emisoras.tv:8081/tve/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVEvangelizar.br",
+    "feed": "SD",
+    "title": "TV Evangelizar",
+    "url": "http://45.162.64.114/EVANGELIZAR/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVEvangelizar.br",
+    "feed": "SD",
+    "title": "TV Evangelizar",
+    "url": "http://170.83.16.50/TV_EVANGELIZAR/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVEvangelizar.br",
+    "feed": "SD",
+    "title": "TV Evangelizar",
+    "url": "http://170.83.49.66:8083/EVANGELIZARHD/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVEvangelizar.br",
+    "feed": "SD",
+    "title": "TV Evangelizar",
+    "url": "http://186.219.52.187/tv_evangelizar/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVExitos.do",
+    "feed": "SD",
+    "title": "TV \u00c9xitos",
+    "url": "https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVFamilia.ve",
+    "feed": "SD",
+    "title": "TV Familia",
+    "url": "https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVFamille.mq",
+    "feed": "SD",
+    "title": "TV Famille",
+    "url": "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVFANB.ve",
+    "feed": "SD",
+    "title": "TV FANB",
+    "url": "http://200.59.191.177:8000/play/a0le/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVFlorencia.gt",
+    "feed": "SD",
+    "title": "TV Florencia",
+    "url": "https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVfromtheDanishParliament.dk",
+    "feed": "SD",
+    "title": "Folketinget",
+    "url": "https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVFronteira.br",
+    "feed": "SD",
+    "title": "TV Fronteira",
+    "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8",
+    "quality": "480i",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVG2.es",
+    "feed": "SD",
+    "title": "TVG2",
+    "url": "https://crtvg-tvg2.flumotion.cloud/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVGazeta.br",
+    "feed": "SD",
+    "title": "TV Gazeta",
+    "url": "http://45.162.64.114/TV_GAZETA/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVGazeta.br",
+    "feed": "SD",
+    "title": "TV Gazeta",
+    "url": "http://186.219.52.187/gazeta/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVGetsemani.sv",
+    "feed": "SD",
+    "title": "TV Getseman\u00ed",
+    "url": "https://serversv.com:8080/hls/tvgetsemani.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVGloboBrasilia.br",
+    "feed": "SD",
+    "title": "TV Globo Brasilia",
+    "url": "http://79.127.238.228:14173",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVGolfoUraba.co",
+    "feed": "SD",
+    "title": "TV Golfo Uraba",
+    "url": "https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVGracia.co",
+    "feed": "SD",
+    "title": "TVGracia",
+    "url": "https://vs20.live.opencaster.com/diego_57244803/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVGRANDENATALHDTVBRASIL.br",
+    "feed": "SD",
+    "title": "TV Grande Natal",
+    "url": "http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVGuara.br",
+    "feed": "SD",
+    "title": "TV Guar\u00e1",
+    "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVGuarapari.br",
+    "feed": "SD",
+    "title": "TV Guarapari",
+    "url": "https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "referrer": "https://tvguarapari.com/"
+  },
+  {
+    "channel": "TVHigueyDigital.do",
+    "feed": "SD",
+    "title": "TV Higuey Digital",
+    "url": "https://host.streamingnation.live/p/3467/live/tvhigueylive.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVHispanic.us",
+    "feed": "SD",
+    "title": "TV Hispanic",
+    "url": "https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8",
+    "quality": null,
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVHram.rs",
+    "feed": "SD",
+    "title": "TV Hram",
+    "url": "https://vod1.laki.eu/live/hram/index.m3u8",
+    "quality": "576p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVI.pt",
+    "feed": "SD",
+    "title": "TVI",
+    "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVideoNews.br",
+    "feed": "SD",
+    "title": "TV\u00eddeoNews",
+    "url": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVIFiccao.pt",
+    "feed": "SD",
+    "title": "TVI Fic\u00e7\u00e3o",
+    "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVinet.cl",
+    "feed": "SD",
+    "title": "T-Vinet",
+    "url": "https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVIngolstadt.de",
+    "feed": "SD",
+    "title": "TV Ingolstadt",
+    "url": "https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVIReality.pt",
+    "feed": "SD",
+    "title": "TVI Reality",
+    "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVITN.ir",
+    "feed": "SD",
+    "title": "TV ITN",
+    "url": "https://itnhls.wns.live/hls/stream.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Tviyserial.ua",
+    "feed": "SD",
+    "title": "Tviy serial",
+    "url": "http://stream.mcquack.net/466/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "TVJ.jm",
+    "feed": "SD",
+    "title": "TVJ",
+    "url": "https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVJadran.hr",
+    "feed": "SD",
+    "title": "TV Jadran",
+    "url": "https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVJohaniter.al",
+    "feed": "SD",
+    "title": "TV Johaniter",
+    "url": "https://protokolldns.xyz/johaniterweb44547dsd/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVJustica.br",
+    "feed": "SD",
+    "title": "TV Justica",
+    "url": "http://45.162.64.114/TV_JUSTICA/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVJustica.br",
+    "feed": "SD",
+    "title": "TV Justica",
+    "url": "http://170.83.16.50/TV_JUSTICA/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVJustica.br",
+    "feed": "SD",
+    "title": "TV Justica",
+    "url": "http://170.83.49.66:8083/TVJUSTICAHD/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVJustica.br",
+    "feed": "SD",
+    "title": "TV Justica",
+    "url": "http://186.219.52.187/tv_justica/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVK2.kh",
+    "feed": "SD",
+    "title": "TVK 2",
+    "url": "https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVK.kh",
+    "feed": "SD",
+    "title": "TVK",
+    "url": "https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVKeszthely.hu",
+    "feed": "SD",
+    "title": "TV Keszthely",
+    "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVKStella.pl",
+    "feed": "SD",
+    "title": "TVK Stella",
+    "url": "https://stream.tvkstella.pl/stella/stella.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVKujawy.pl",
+    "feed": "SD",
+    "title": "TV Kujawy",
+    "url": "http://stream.tvkujawy.pl:8080/live/broadcast.m3u8",
+    "quality": "576p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVLandDrama.us",
+    "feed": "SD",
+    "title": "TV Land Drama",
+    "url": "https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVLandSitcoms.us",
+    "feed": "SD",
+    "title": "TV Land Sitcoms",
+    "url": "https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVLatina.bo",
+    "feed": "SD",
+    "title": "TV Latina",
+    "url": "https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVLatina.bo",
+    "feed": "SD",
+    "title": "TV Latina",
+    "url": "https://master.tucableip.com/tvlatina/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVLatinaSat.br",
+    "feed": "HD",
+    "title": "TVLatinaSat",
+    "url": "https://www.latinasat.com.br/hls/live/stream/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVLegislativa.ec",
+    "feed": "SD",
+    "title": "TV Legislativa",
+    "url": "https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVLeondeJuda.sv",
+    "feed": "SD",
+    "title": "TV Le\u00f3n de Jud\u00e1",
+    "url": "https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVLifeAmerica.br",
+    "feed": "HD",
+    "title": "TV Life America",
+    "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVLiptov.sk",
+    "feed": "SD",
+    "title": "TV Liptov",
+    "url": "http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVLitoralRN.br",
+    "feed": "SD",
+    "title": "TV Litoral RN",
+    "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVLobo.mx",
+    "feed": "SD",
+    "title": "TV Lobo Durango",
+    "url": "https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVLocAll.sk",
+    "feed": "SD",
+    "title": "TV LocAll",
+    "url": "https://dash3.antik.sk/live/test_locall/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVLux.be",
+    "feed": "SD",
+    "title": "TV Lux",
+    "url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.m3u8",
+    "quality": "504p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVLuz.do",
+    "feed": "SD",
+    "title": "TV Luz",
+    "url": "https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVM3.ch",
+    "feed": "SD",
+    "title": "TVM3",
+    "url": "https://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVM.mt",
+    "feed": "SD",
+    "title": "TVM",
+    "url": "http://80.79.6.221:25461/smash/public/19",
+    "quality": null,
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVM.mz",
+    "feed": "SD",
+    "title": "TVM",
+    "url": "https://stream.tvm.co.mz/hls/tvm/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVMaisMarica.br",
+    "feed": "SD",
+    "title": "TV Mais Maric\u00e1",
+    "url": "https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVMana1.pt",
+    "feed": "SD",
+    "title": "TV Man\u00e1 1",
+    "url": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVMana2.pt",
+    "feed": "SD",
+    "title": "TV Man\u00e1 2",
+    "url": "https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVManaArgentina.ar",
+    "feed": "SD",
+    "title": "TV Man\u00e1 Argentina",
+    "url": "https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8",
+    "quality": "576p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TVManaBrasil.pt",
+    "feed": "SD",
+    "title": "TV Man\u00e1 Brasil",
+    "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
