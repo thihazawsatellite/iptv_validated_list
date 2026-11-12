@@ -59450,5 +59450,355 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "Home4K.ru",
+    "feed": "SD",
+    "title": "Home 4K",
+    "url": "http://88.212.7.14/live/test_home_uhd_tizen/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HomebaseTV.za",
+    "feed": "SD",
+    "title": "Homebase TV",
+    "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Homeful.ca",
+    "feed": "US",
+    "title": "Homeful",
+    "url": "https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Homeful.ca",
+    "feed": "US",
+    "title": "Homeful",
+    "url": "https://jmp2.uk/plu-67603668f433320008760af1.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Homeful.ca",
+    "feed": "US",
+    "title": "Homeful",
+    "url": "https://jmp2.uk/plu-62e92967cd663f0007e604fd.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Homeful.ca",
+    "feed": "US",
+    "title": "Homeful",
+    "url": "https://jmp2.uk/plu-64fb1f6e6625510008c00848.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Homeful.ca",
+    "feed": "US",
+    "title": "Homeful",
+    "url": "https://amg00090-blueantcanada-amg00090c4-samsung-nz-820.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungnz/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Homeful.ca",
+    "feed": "US",
+    "title": "Homeful",
+    "url": "https://jmp2.uk/plu-66df8aa7abec540008ca8cb6.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Homeful.ca",
+    "feed": "US",
+    "title": "Homeful",
+    "url": "https://dn8a6xbnfncub.cloudfront.net/Homeful_US.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Homeful.ca",
+    "feed": "US",
+    "title": "Homeful",
+    "url": "https://aegis-cloudfront-1.tubi.video/9f31e187-3d43-4ed0-81ba-63bd3bc560aa/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Homeful.ca",
+    "feed": "US",
+    "title": "Homeful",
+    "url": "https://amg00090-blueantllc-homefull-xumo-rn9cd.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HomeMadeNation.us",
+    "feed": "SD",
+    "title": "Home.Made.Nation",
+    "url": "https://jmp2.uk/plu-5dc1cb279c91420009db261d.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HomeMadeNation.us",
+    "feed": "SD",
+    "title": "Home.Made.Nation",
+    "url": "https://d1kgo9l74vimu0.cloudfront.net/v1/aenetworks_ae_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HomeShopping.kr",
+    "feed": "SD",
+    "title": "Home & Shopping",
+    "url": "https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HomesUnderHammer.us",
+    "feed": "UK",
+    "title": "Homes Under The Hammer",
+    "url": "https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HomesUnderHammer.us",
+    "feed": "UK",
+    "title": "Homes Under The Hammer",
+    "url": "https://all3media-homes-under-the-hammer-1-dk.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HomesUnderHammer.us",
+    "feed": "UK",
+    "title": "Homes Under The Hammer",
+    "url": "https://all3media-homes-under-the-hammer-1-fi.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HomesUnderHammer.us",
+    "feed": "UK",
+    "title": "Homes Under The Hammer",
+    "url": "https://all3media-homes-under-the-hammer-1-nl.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HomesUnderHammer.us",
+    "feed": "UK",
+    "title": "Homes Under The Hammer",
+    "url": "https://all3media-homes-under-the-hammer-1-no.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HomesUnderHammer.us",
+    "feed": "UK",
+    "title": "Homes Under The Hammer",
+    "url": "https://all3media-homes-under-the-hammer-1-nz.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HomesUnderHammer.us",
+    "feed": "UK",
+    "title": "Homes Under The Hammer",
+    "url": "https://all3media-homes-under-the-hammer-1-se.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HomesUnderHammer.us",
+    "feed": "UK",
+    "title": "Homes Under Hammer",
+    "url": "https://jmp2.uk/plu-5c5c2e9d8002db3c3e0b1c72.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HomesUnderHammer.us",
+    "feed": "UK",
+    "title": "Homes Under Hammer",
+    "url": "https://all3media-homes-under-the-hammer-1-gb.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HomesUnderHammer.us",
+    "feed": "UK",
+    "title": "Homes Under the Hammer",
+    "url": "https://all3media-homes-under-the-hammer-1-gb.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Hop.il",
+    "feed": "SD",
+    "title": "Hop!",
+    "url": "http://stream.mcquack.net/44/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HopeChannelAfrica.za",
+    "feed": "SD",
+    "title": "Hope Channel Africa",
+    "url": "https://jstre.am/live/jsl:i1onRBELcGV.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HopeChannelIndia.in",
+    "feed": "SD",
+    "title": "Hope Channel India",
+    "url": "https://cdn.pishow.tv/ott/live/1385/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HopeChannelIndia.in",
+    "feed": "SD",
+    "title": "Hope Channel India",
+    "url": "https://fta.ektv.in/live/634/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "HopeChannelIndia.in",
+    "feed": "SD",
+    "title": "Hope Channel India",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3HOPECHANNELINDIA/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HopeChannelInterAmerica.us",
+    "feed": "SD",
+    "title": "Hope Channel Inter-America",
+    "url": "https://jstre.am/live/jsl:EC0Mq0i6HJU.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HopeChannelInterAmericaEnglish.us",
+    "feed": "SD",
+    "title": "Hope Channel Inter-America English",
+    "url": "https://jstre.am/live/jsl:UP9KAdlVrm8.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HopeChannelInternational.us",
+    "feed": "SD",
+    "title": "Hope Channel International",
+    "url": "https://jstre.am/live/jsl:cZXINbwrFj6.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HopeChannelNorthAmerica.us",
+    "feed": "SD",
+    "title": "Hope Channel North America",
+    "url": "https://jstre.am/live/jsl:0sUSK6VA7GT.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HopeChannelPhilippines.ph",
+    "feed": "SD",
+    "title": "Hope Channel Philippines",
+    "url": "https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HopeChannelPROYECTOJA.cr",
+    "feed": "SD",
+    "title": "Hope Channel PROYECTO JA",
+    "url": "https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
