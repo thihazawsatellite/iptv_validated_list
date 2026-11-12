@@ -96306,5 +96306,467 @@
     "labels": [],
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
     "referrer": null
+  },
+  {
+    "channel": "RaftaarMedia.in",
+    "feed": "SD",
+    "title": "Raftaar Media",
+    "url": "https://mumt04.tangotv.in/m18aqlK4RAFTAARMEDIA/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RaftaarMedia.in",
+    "feed": "SD",
+    "title": "Raftaar Media",
+    "url": "https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc43b001646a.sdp/playlist.m3u8",
+    "quality": "240p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Ragni.in",
+    "feed": "SD",
+    "title": "Ragni",
+    "url": "https://samitaorigin.tangotv.in/RAGNITV/SAMITAORIGIN/index.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Rai1.it",
+    "feed": "SD",
+    "title": "Rai 1",
+    "url": "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Rai2.it",
+    "feed": "HD",
+    "title": "Rai 2 HD",
+    "url": "http://team-tv.co:81/rai2/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Rai2.it",
+    "feed": "SD",
+    "title": "Rai 2",
+    "url": "https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Rai3.it",
+    "feed": "BISFJK",
+    "title": "Rai 3 BIS FJK",
+    "url": "https://tgrfriulibis-live.akamaized.net/hls/live/2025579/tgrfriulibis/tgrfriulibis/playlist.m3u8",
+    "quality": "408p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Rai3.it",
+    "feed": "FriuliVeneziaGiulia",
+    "title": "Rai 3 Friuli Venezia Giulia",
+    "url": "https://tgrfriuli-live.akamaized.net/hls/live/2025564/tgrfriuli/tgrfriuli/playlist.m3u8",
+    "quality": "408p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Rai3.it",
+    "feed": "HD",
+    "title": "Rai 3",
+    "url": "https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Rai3.it",
+    "feed": "HD",
+    "title": "Rai 3",
+    "url": "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Rai3.it",
+    "feed": "TrentinoAltoAdigeBolzano",
+    "title": "Rai 3 Trentino-Alto Adige Bolzano",
+    "url": "https://tgrbolzano-live.akamaized.net/hls/live/2025560/tgrbolzano/tgrbolzano/playlist.m3u8",
+    "quality": "408p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Rai3.it",
+    "feed": "TrentinoAltoAdigeTrento",
+    "title": "Rai 3 Trentino-Alto Adige Trento",
+    "url": "https://tgrtrento-live.akamaized.net/hls/live/2025575/tgrtrento/tgrtrento/playlist.m3u8",
+    "quality": "408p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Rai4.it",
+    "feed": "HD",
+    "title": "Rai 4 HD",
+    "url": "http://team-tv.co:81/rai4/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Rai5.it",
+    "feed": "SD",
+    "title": "Rai 5",
+    "url": "http://team-tv.co:81/rai5/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RaiItalia.it",
+    "feed": "Australia",
+    "title": "Rai Italia Australia",
+    "url": "https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "RaiItalia.it",
+    "feed": "EuropeAfrica",
+    "title": "Rai Italia",
+    "url": "https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "RaiItalia.it",
+    "feed": "NorthAmericas",
+    "title": "Rai Italia North Americas",
+    "url": "http://138.59.177.78:9999/play/a0gf/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RaiItalia.it",
+    "feed": "NorthAmericas",
+    "title": "Rai Italia North Americas",
+    "url": "https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "RaiItalia.it",
+    "feed": "SouthAmericas",
+    "title": "Rai Italia South Americas",
+    "url": "https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "RaiMovie.it",
+    "feed": "HD",
+    "title": "Rai Movie HD",
+    "url": "http://team-tv.co:81/raimovie/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RainbowRuby.us",
+    "feed": "SD",
+    "title": "Rainbow Ruby",
+    "url": "https://dt9mwqwe98q7o.cloudfront.net/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RaiNews24.it",
+    "feed": "HD",
+    "title": "Rai News 24 HD",
+    "url": "https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RaiPremium.it",
+    "feed": "SD",
+    "title": "Rai Premium",
+    "url": "http://95.141.36.9:8080/stream/170/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "RaiStoria.it",
+    "feed": "SD",
+    "title": "Rai Storia",
+    "url": "https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "RaiSudtirol.it",
+    "feed": "SD",
+    "title": "Rai Sudtirol",
+    "url": "https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "RaiWorldPremium.it",
+    "feed": "SD",
+    "title": "Rai World Premium",
+    "url": "https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "RaiYoyo.it",
+    "feed": "SD",
+    "title": "Rai Yoyo",
+    "url": "http://95.141.36.9:8080/stream/156/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "RajeenTV.ps",
+    "feed": "SD",
+    "title": "Rajeen TV",
+    "url": "https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RajMusixKannada.in",
+    "feed": "SD",
+    "title": "Raj Musix Kannada",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RajMusixKannada.in",
+    "feed": "SD",
+    "title": "Raj Musix Kannada",
+    "url": "https://samitaorigin.tangotv.in/RAJMUSIXKANDA/SAMITAORIGIN/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RajMusixMalayalam.in",
+    "feed": "SD",
+    "title": "Raj Musix Malayalam",
+    "url": "https://cdn.pishow.tv/ott/live/1073/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RajMusixMalayalam.in",
+    "feed": "SD",
+    "title": "Raj Musix Malayalam",
+    "url": "https://mumt04.tangotv.in/m18aqlK4RAJMUSIXMALAYALAM/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RajMusixTelugu.in",
+    "feed": "SD",
+    "title": "Raj Musix Telugu",
+    "url": "https://mumt07.tangotv.in/zHjX9OFlRAJMUSIXTELUGU/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RajMusixTelugu.in",
+    "feed": "SD",
+    "title": "Raj Musix Telugu",
+    "url": "https://cdn.pishow.tv/ott/live/1213/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RajNewsKannada.in",
+    "feed": "SD",
+    "title": "Raj News Kannada",
+    "url": "https://cdn.pishow.tv/ott/live/1507/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RajNewsMalayalam.in",
+    "feed": "SD",
+    "title": "Raj News Malayalam",
+    "url": "https://mumt04.tangotv.in/m18aqlK4RAJNEWSMALAYALAM/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RajNewsTelugu.in",
+    "feed": "SD",
+    "title": "Raj News Telugu",
+    "url": "https://cdn.pishow.tv/ott/live/279/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RajNewsTelugu.in",
+    "feed": "SD",
+    "title": "Raj News Telugu",
+    "url": "https://mumt04.tangotv.in/m18aqlK4RAJNEWSTELUGU/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RallyTV.us",
+    "feed": "SD",
+    "title": "Rally TV",
+    "url": "https://jmp2.uk/plu-696e02423b9ce349c90edef9.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RallyTV.us",
+    "feed": "SD",
+    "title": "Rally TV",
+    "url": "https://jmp2.uk/plu-696e0fe49ba4ac18057433ac.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RallyTV.us",
+    "feed": "SD",
+    "title": "Rally TV",
+    "url": "https://jmp2.uk/plu-696e024a7e92438c27a425a8.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RallyTV.us",
+    "feed": "SD",
+    "title": "Rally TV",
+    "url": "https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RamaChannel.th",
+    "feed": "SD",
+    "title": "Rama Channel",
+    "url": "https://ramach.ddns.net/live/ramalive/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Ramdhenu.in",
+    "feed": "SD",
+    "title": "Ramdhenu",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3RAMDHENU/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RAN1.de",
+    "feed": "SD",
+    "title": "RAN1",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RanchenatoTV.co",
+    "feed": "SD",
+    "title": "Ranchenato TV",
+    "url": "http://181.78.12.119:16123/play/ch15/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
