@@ -108182,5 +108182,325 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "StarCinema.ru",
+    "feed": "SD",
+    "title": "Star Cinema",
+    "url": "https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarCinema.ru",
+    "feed": "SD",
+    "title": "Star Cinema",
+    "url": "http://s1.merlive.am/starsinema/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarCrime.bg",
+    "feed": "SD",
+    "title": "Star Crime",
+    "url": "http://213.91.179.28:8000/play/a0cs",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null
+  },
+  {
+    "channel": "StarFamily.ru",
+    "feed": "SD",
+    "title": "Star Family",
+    "url": "https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarJalsha.in",
+    "feed": "HD",
+    "title": "Star Jalsha HD",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarJalsha.in",
+    "feed": "HD",
+    "title": "Star Jalsha HD",
+    "url": "https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarKentrikisElladas.gr",
+    "feed": "SD",
+    "title": "Star Kentrikis Elladas",
+    "url": "https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarLife.bg",
+    "feed": "SD",
+    "title": "Star Life",
+    "url": "http://213.91.179.28:8000/play/a0cr",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null
+  },
+  {
+    "channel": "StarMaa.in",
+    "feed": "HD",
+    "title": "Star Maa HD",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarMaaMovies.in",
+    "feed": "HD",
+    "title": "Star Maa Movies HD",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Starnet.in",
+    "feed": "SD",
+    "title": "Starnet",
+    "url": "https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarPlus.in",
+    "feed": "HD",
+    "title": "StarPlus HD",
+    "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarPlus.uk",
+    "feed": "SD",
+    "title": "StarPlus",
+    "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarPravah.in",
+    "feed": "HD",
+    "title": "Star Pravah HD",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarSports2Telugu.in",
+    "feed": "HD",
+    "title": "Star Sports 2 Telugu HD",
+    "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarsTV.pl",
+    "feed": "SD",
+    "title": "Stars TV",
+    "url": "http://92.114.85.87:8001/play/a00o/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "STARTAir.ru",
+    "feed": "SD",
+    "title": "START Air",
+    "url": "http://176.118.197.101/START_AIR/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "STARTAir.ru",
+    "feed": "SD",
+    "title": "START Air",
+    "url": "http://stream.mcquack.net/128/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarTrek.us",
+    "feed": "BR",
+    "title": "Pluto TV Star Trek",
+    "url": "https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarTrek.us",
+    "feed": "LatAm",
+    "title": "Pluto TV Star Trek",
+    "url": "https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarTrek.us",
+    "feed": "US",
+    "title": "Star Trek",
+    "url": "https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarTrekDeepSpaceNine.us",
+    "feed": "SD",
+    "title": "Star Trek: Deep Space Nine",
+    "url": "https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarTrekMovies.se",
+    "feed": "DK",
+    "title": "Star Trek Movies",
+    "url": "https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarTrekMovies.se",
+    "feed": "NO",
+    "title": "Star Trek Movies",
+    "url": "https://jmp2.uk/plu-6400c228498393000878a9b7.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarTrekMovies.se",
+    "feed": "SE",
+    "title": "Star Trek Movies",
+    "url": "https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarTrekTheNextGeneration.de",
+    "feed": "DACH",
+    "title": "Star Trek: The Next Generation",
+    "url": "https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarTrekTheNextGeneration.us",
+    "feed": "SD",
+    "title": "Star Trek: The Next Generation",
+    "url": "https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarTrekTheOriginalSeries.de",
+    "feed": "DACH",
+    "title": "Star Trek: The Original Series",
+    "url": "https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarTrekTheOriginalSeries.se",
+    "feed": "DK",
+    "title": "Star Trek: The Original Series",
+    "url": "https://jmp2.uk/plu-693add137e308621c051e733.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarTrekTheOriginalSeries.se",
+    "feed": "NO",
+    "title": "Star Trek: The Original Series",
+    "url": "https://jmp2.uk/plu-693addd62bf6cf7414c4b2fc.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarTrekTheOriginalSeries.se",
+    "feed": "SE",
+    "title": "Star Trek: The Original Series",
+    "url": "https://jmp2.uk/plu-693ade4d569386f93f235bb6.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StarTrekVoyager.de",
+    "feed": "IT",
+    "title": "Star Trek: Voyager",
+    "url": "https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
