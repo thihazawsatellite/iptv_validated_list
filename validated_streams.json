@@ -128028,5 +128028,187 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "Voxup.de",
+    "feed": "SD",
+    "title": "Voxup",
+    "url": "https://s6.hopslan.com/voxupz/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VoyagesSaveurs.es",
+    "feed": "FR",
+    "title": "Voyages & Saveurs",
+    "url": "https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VoyenTV.by",
+    "feed": "SD",
+    "title": "VoyenTV",
+    "url": "http://media1.skifnet.by/voentv/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VoyoEvents.ro",
+    "feed": "SD",
+    "title": "Voyo Events",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0",
+    "quality": "576i",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VoyoSport1.ro",
+    "feed": "HD",
+    "title": "Voyo Sport 1",
+    "url": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8",
+    "quality": "1080i",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VPlusTVI.pt",
+    "feed": "SD",
+    "title": "V+ TVI",
+    "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VRCanal21Nasca.pe",
+    "feed": "SD",
+    "title": "VR Canal 21 Nasca",
+    "url": "https://live-evg10.tv360.bitel.com.pe/bitel/nasca/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Vremya.ru",
+    "feed": "SD",
+    "title": "\u0412\u0440\u0435\u043c\u044f",
+    "url": "https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Vremya.ru",
+    "feed": "SD",
+    "title": "Vremya",
+    "url": "http://88.212.15.50/live/test_vremya/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Vremya.ru",
+    "feed": "SD",
+    "title": "Vremya",
+    "url": "http://stream.mcquack.net/237/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VRLive.in",
+    "feed": "SD",
+    "title": "VR Live",
+    "url": "https://channel.vrlivegujarat.com/hls/vrchannel.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VSiN.us",
+    "feed": "SD",
+    "title": "VSiN",
+    "url": "https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VTV2.vn",
+    "feed": "HD",
+    "title": "VTV2 HD",
+    "url": "http://125hvt.ddns.net:21585/vtv2/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VTV.mv",
+    "feed": "SD",
+    "title": "VTV",
+    "url": "https://sunplay-cdn.bitratelabs.com/live/local-channel/vtv-7a0f24809c234ea78d972b1f336ac1b9/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VTVCanal32.do",
+    "feed": "SD",
+    "title": "VTV Canal 32",
+    "url": "https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VTVMor.hu",
+    "feed": "SD",
+    "title": "VTV M\u00f3r",
+    "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VTVNews.in",
+    "feed": "SD",
+    "title": "VTV News",
+    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/vtvgujarati/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VTVNews.in",
+    "feed": "SD",
+    "title": "VTV News",
+    "url": "https://live1.ottlive.co.in/vtvgujarati/vtvgujarati/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
