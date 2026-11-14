@@ -106634,5 +106634,777 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "SozcuTV.tr",
+    "feed": "SD",
+    "title": "Sozcu TV",
+    "url": "https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/szchd.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Space.ar",
+    "feed": "Panregional",
+    "title": "Space",
+    "url": "http://45.171.64.30:6060/play/a04n/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpaceLivepoweredbysen.uk",
+    "feed": "SD",
+    "title": "Space Live",
+    "url": "https://jmp2.uk/plu-69a554497ed3b3fff0b9ca80.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpaceLivepoweredbysen.uk",
+    "feed": "SD",
+    "title": "Space Live",
+    "url": "https://jmp2.uk/plu-69b16dc543d0f313203b714c.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpaceLivepoweredbysen.uk",
+    "feed": "SD",
+    "title": "Space Live",
+    "url": "https://jmp2.uk/plu-69b3db5d61e8e298254c7108.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpaceLivepoweredbysen.uk",
+    "feed": "SD",
+    "title": "Space Live",
+    "url": "https://jmp2.uk/plu-69b3db536c0414a7ecf564fb.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpaceLivepoweredbysen.uk",
+    "feed": "SD",
+    "title": "Space Live",
+    "url": "https://jmp2.uk/plu-69b1489b5828e7c242d83064.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpaceLivepoweredbysen.uk",
+    "feed": "SD",
+    "title": "Space Live",
+    "url": "https://jmp2.uk/plu-69b16df6ed2a2444365e7ff1.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpaceLivepoweredbysen.uk",
+    "feed": "SD",
+    "title": "Space Live",
+    "url": "https://jmp2.uk/plu-69b16e2b65c1df7564fc750b.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpaceLivepoweredbysen.uk",
+    "feed": "SD",
+    "title": "Space Live",
+    "url": "https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpacetoonArabic.ae",
+    "feed": "SD",
+    "title": "Spacetoon Arabic",
+    "url": "https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": "https://spacetoon.com"
+  },
+  {
+    "channel": "SpacetoonTurkey.tr",
+    "feed": "SD",
+    "title": "Spacetoon Turkey",
+    "url": "https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": "https://spacetoon.com.tr/"
+  },
+  {
+    "channel": "SparkTV.uk",
+    "feed": "SD",
+    "title": "Spark TV",
+    "url": "https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Spas.ru",
+    "feed": "SD",
+    "title": "Spas",
+    "url": "http://31.148.5.241/kanal_12/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Spas.ru",
+    "feed": "SD",
+    "title": "Spas",
+    "url": "https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Spas.ru",
+    "feed": "SD",
+    "title": "\u0421\u043f\u0430\u0441",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8",
+    "quality": "450p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": "WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer",
+    "referrer": null
+  },
+  {
+    "channel": "SPCCanal15.bo",
+    "feed": "SD",
+    "title": "SPC Canal 15",
+    "url": "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpektraTV.es",
+    "feed": "SD",
+    "title": "SpektraTV",
+    "url": "https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Spektrum.cz",
+    "feed": "SD",
+    "title": "Spektrum",
+    "url": "http://88.212.15.50/live/test_spektrum/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Spektrum.hu",
+    "feed": "SD",
+    "title": "Spektrum",
+    "url": "http://88.212.7.14/live/spektrum_hun/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "SpektrumHome.cz",
+    "feed": "SD",
+    "title": "Spektrum Home",
+    "url": "http://88.212.15.50/live/test_home_hevc/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpektrumHome.hu",
+    "feed": "SD",
+    "title": "Spektrum Home",
+    "url": "http://88.212.7.14/live/spektrum_home_hun/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "SperantaTV.ro",
+    "feed": "SD",
+    "title": "SperantaTV",
+    "url": "https://jstre.am/live/jsl:2gNjpghXRLE.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpikeOutdoors.us",
+    "feed": "SD",
+    "title": "Spike Outdoors",
+    "url": "https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpikePlutoTV.us",
+    "feed": "SD",
+    "title": "Spike Pluto TV",
+    "url": "https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Spiler1.hu",
+    "feed": "SD",
+    "title": "Spiler 1",
+    "url": "http://88.212.7.14/live/spiler1/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Spiler2.hu",
+    "feed": "SD",
+    "title": "Spiler 2",
+    "url": "http://88.212.7.14/live/spiler2/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "SpiritTV.us",
+    "feed": "SD",
+    "title": "Spirit TV",
+    "url": "https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Spondon.in",
+    "feed": "SD",
+    "title": "Spondon",
+    "url": "https://mumt05.tangotv.in/87NeALx2SPONDON/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpongeBobSchwammkopf.de",
+    "feed": "DACH",
+    "title": "SpongeBob Schwammkopf",
+    "url": "https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SpongeBobSquarePants.us",
+    "feed": "CA",
+    "title": "SpongeBob SquarePants",
+    "url": "https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Sport1.cz",
+    "feed": "HD",
+    "title": "Sport1 HD",
+    "url": "http://88.212.7.14/live/sport1_cz_avc_25p/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Sport1.cz",
+    "feed": "SD",
+    "title": "Sport1",
+    "url": "http://88.212.15.50/live/test_sport1_25p/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Sport1.hu",
+    "feed": "SD",
+    "title": "Sport 1",
+    "url": "http://88.212.7.14/live/sport1_hun/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Sport1.sk",
+    "feed": "HD",
+    "title": "Sport 1",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport1-sk/live_fullhd",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Sport1.ua",
+    "feed": "SD",
+    "title": "Sport 1",
+    "url": "http://stream.mcquack.net/391/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Sport1Baltic.ua",
+    "feed": "SD",
+    "title": "Sport 1 Baltic",
+    "url": "http://stream.mcquack.net/461/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Sport2.cz",
+    "feed": "HD",
+    "title": "Sport2 HD",
+    "url": "http://88.212.7.14/live/sport2_cz_avc_25p/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Sport2.cz",
+    "feed": "SD",
+    "title": "Sport2",
+    "url": "http://88.212.15.50/live/test_sport_2/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Sport2.hu",
+    "feed": "SD",
+    "title": "Sport 2",
+    "url": "http://88.212.7.14/live/sport2_hun/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Sport2.sk",
+    "feed": "HD",
+    "title": "Sport 2",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport2-sk/live_fullhd",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Sport2.ua",
+    "feed": "SD",
+    "title": "Sport 2",
+    "url": "http://stream.mcquack.net/392/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Sport3.ua",
+    "feed": "SD",
+    "title": "Sport 3",
+    "url": "http://stream.mcquack.net/393/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Sport4.ua",
+    "feed": "SD",
+    "title": "Sport 4",
+    "url": "http://stream.mcquack.net/394/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Sport5.ua",
+    "feed": "SD",
+    "title": "Sport 5",
+    "url": "http://stream.mcquack.net/212/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Sport.sk",
+    "feed": "SD",
+    "title": ":\u0160port",
+    "url": "http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Sport.uz",
+    "feed": "SD",
+    "title": "Sport",
+    "url": "https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SportExtra.ro",
+    "feed": "HD",
+    "title": "Sport Extra HD",
+    "url": "http://92.180.26.103:80/stream/93/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Sportitalia.it",
+    "feed": "SD",
+    "title": "Sportitalia",
+    "url": "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Sportitalia.it",
+    "feed": "SD",
+    "title": "Sport Italia",
+    "url": "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Sportitalia.it",
+    "feed": "SD",
+    "title": "Sports Italia",
+    "url": "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SportitaliaSolocalcio.it",
+    "feed": "SD",
+    "title": "Sportitalia Solocalcio",
+    "url": "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SportitaliaSolocalcio.it",
+    "feed": "SD",
+    "title": "Sportitalia Solocalcio",
+    "url": "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SportitaliaSolocalcio.it",
+    "feed": "SD",
+    "title": "Sportitalia Solocalcio",
+    "url": "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Sportivnyy.ru",
+    "feed": "SD",
+    "title": "Sportivnyy",
+    "url": "https://live-3.otcnet.ru/sportivny/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SportsGrid.us",
+    "feed": "SD",
+    "title": "SportsGrid",
+    "url": "https://sportsgrid-tribal.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SportsGrid.us",
+    "feed": "SD",
+    "title": "SportsGrid",
+    "url": "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SportsGrid.us",
+    "feed": "SD",
+    "title": "SportsGrid",
+    "url": "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SportsGrid.us",
+    "feed": "SD",
+    "title": "SportsGrid",
+    "url": "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SportsGrid.us",
+    "feed": "SD",
+    "title": "SportsGrid",
+    "url": "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SportsMaxNews.ve",
+    "feed": "SD",
+    "title": "SportsMax News",
+    "url": "http://181.79.86.130:8000/play/a081/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SportsTelevision.kp",
+    "feed": "HD",
+    "title": "Sports Television",
+    "url": "https://live.koryocdn.org/sports/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SportTotalFM.ro",
+    "feed": "SD",
+    "title": "Sport Total FM",
+    "url": "https://livesptfm.com/SPTFM/Live/playlist.m3u8",
+    "quality": "576i",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SportTV.by",
+    "feed": "SD",
+    "title": "Sport TV",
+    "url": "http://178.124.179.122:8080/SportTV/mpegts",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SportTV.by",
+    "feed": "SD",
+    "title": "Sport TV",
+    "url": "http://media1.skifnet.by/sporttv/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SPTV.us",
+    "feed": "SD",
+    "title": "St. Pete TV (SPTV) (St Petersburg FL)",
+    "url": "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SqalaTV.pe",
+    "feed": "SD",
+    "title": "Sqala TV",
+    "url": "https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SRCTV.nl",
+    "feed": "SD",
+    "title": "SRC TV",
+    "url": "http://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SRFernsehen.de",
+    "feed": "SD",
+    "title": "SR Fernsehen",
+    "url": "https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "SriwijayaTV.id",
+    "feed": "SD",
+    "title": "Sriwijaya TV",
+    "url": "https://sriwijayatv.siar.us/live/sriwijayatv.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": "sriwijayatv.tv"
+  },
+  {
+    "channel": "SRKTV.in",
+    "feed": "SD",
+    "title": "SRK TV",
+    "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Stadium.us",
+    "feed": "SD",
+    "title": "Stadium",
+    "url": "https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Stadium.us",
+    "feed": "SD",
+    "title": "Stadium",
+    "url": "https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Star101FM.gu",
+    "feed": "SD",
+    "title": "Star 101 FM (KNUT Guam)",
+    "url": "https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "StaraTV.id",
+    "feed": "Bandung",
+    "title": "Stara TV Bandung",
+    "url": "https://bandung.staratv.id/hls/0/stream.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": "https://bandung.staratv.id/"
+  },
+  {
+    "channel": "StaraTV.id",
+    "feed": "Bojonegoro",
+    "title": "Stara TV Bojonegoro",
+    "url": "https://bojonegoro.staratv.id/hls/stream.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": "https://bojonegoro.staratv.id/"
   }
 ]
