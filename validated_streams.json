@@ -45580,5 +45580,731 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "DiagnosisMurder.se",
+    "feed": "NO",
+    "title": "Diagnosis Murder",
+    "url": "https://jmp2.uk/plu-668bf91208d5490008065ffd.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiagnosisMurder.se",
+    "feed": "SE",
+    "title": "Diagnosis Murder",
+    "url": "https://jmp2.uk/plu-668bf9be0642e5000815102d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Diaspora24.sn",
+    "feed": "SD",
+    "title": "Diaspora 24",
+    "url": "https://vdo3.pro-fhi.net:3218/stream/play.m3u8",
+    "quality": null,
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiasporaTV.pe",
+    "feed": "SD",
+    "title": "Diaspora TV",
+    "url": "https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DidgahTV.us",
+    "feed": "SD",
+    "title": "Didgah TV",
+    "url": "https://media.streambrothers.com:1936/8276/8276/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Diema.bg",
+    "feed": "SD",
+    "title": "Diema",
+    "url": "http://213.91.179.28:8000/play/a045",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null
+  },
+  {
+    "channel": "DiemaFamily.bg",
+    "feed": "SD",
+    "title": "Diema Family",
+    "url": "http://213.91.179.28:8000/play/a047",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null
+  },
+  {
+    "channel": "DienBienTV.vn",
+    "feed": "SD",
+    "title": "Dien Bien TV",
+    "url": "https://stream.langsontv.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DieNeueZeitTV.ch",
+    "feed": "SD",
+    "title": "Die Neue Zeit",
+    "url": "https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiezTVLasVillas.es",
+    "feed": "SD",
+    "title": "Diez TV Las Villas",
+    "url": "https://streaming.cloud.innovasur.es/mmj2/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiezTVUbeda.es",
+    "feed": "SD",
+    "title": "Diez TV \u00dabeda",
+    "url": "https://streaming.cloud.innovasur.es/mmj/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiffrentStrokesArnold.us",
+    "feed": "Brazil",
+    "title": "Diff\u2019rent Strokes Arnold",
+    "url": "https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Digi4K.ro",
+    "feed": "UHD",
+    "title": "Digi 4K",
+    "url": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8",
+    "quality": "2160p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Digi24.ro",
+    "feed": "SD",
+    "title": "Digi 24",
+    "url": "https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DigiSport1.ro",
+    "feed": "HD",
+    "title": "Digi Sport 1 HD",
+    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3174529991",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DigiSport2.ro",
+    "feed": "HD",
+    "title": "Digi Sport 2 HD",
+    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=867728420",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DigiSport3.ro",
+    "feed": "HD",
+    "title": "Digi Sport 3 HD",
+    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=4279401658",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DigitalVision63.do",
+    "feed": "SD",
+    "title": "Digital Vision 63",
+    "url": "https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DijlahTV.iq",
+    "feed": "SD",
+    "title": "Dijlah TV",
+    "url": "https://ghaasiflu.online/Dijlah/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Dikayaokhota.ru",
+    "feed": "HD",
+    "title": "Dikaya okhota HD",
+    "url": "http://stream.mcquack.net/274/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Dikayarybalka.ru",
+    "feed": "HD",
+    "title": "Dikaya rybalka HD",
+    "url": "http://stream.mcquack.net/275/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DikhTV.hu",
+    "feed": "SD",
+    "title": "Dikh TV",
+    "url": "http://88.212.7.14/live/dikh/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Dikij.ru",
+    "feed": "SD",
+    "title": "Dikij",
+    "url": "https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DIM.ua",
+    "feed": "SD",
+    "title": "DIM",
+    "url": "http://stream.mcquack.net/383/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DIM.ua",
+    "feed": "SD",
+    "title": "DIM",
+    "url": "https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiosTeVe.hn",
+    "feed": "SD",
+    "title": "Dios Te Ve",
+    "url": "https://s.emisoras.tv:8081/diostevetv/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiosTeVeKids.hn",
+    "feed": "SD",
+    "title": "Dios Te Ve Kids",
+    "url": "https://s.emisoras.tv:8081/diostevekids/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoPoloMusic.pl",
+    "feed": "SD",
+    "title": "Disco Polo Music",
+    "url": "http://92.114.85.87:8014/play/a007/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoPoloMusic.pl",
+    "feed": "SD",
+    "title": "Disco Polo Music",
+    "url": "http://185.227.34.179:8080/disco-polo-music/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveringChina.cn",
+    "feed": "SD",
+    "title": "Discovering China",
+    "url": "https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoverPakistan.pk",
+    "feed": "SD",
+    "title": "Discover Pakistan",
+    "url": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveryAsiaTaiwan.tw",
+    "feed": "SD",
+    "title": "Discovery Asia Taiwan",
+    "url": "http://125.227.210.55:1004/VideoInput/play.ts",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveryChannel.bg",
+    "feed": "SD",
+    "title": "Discovery Channel",
+    "url": "http://213.91.179.28:8000/play/a044",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveryChannel.cz",
+    "feed": "SD",
+    "title": "Discovery Channel",
+    "url": "http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveryChannel.fr",
+    "feed": "SD",
+    "title": "Discovery Channel",
+    "url": "http://192.99.186.30/stream/68/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveryChannel.hu",
+    "feed": "SD",
+    "title": "Discovery Channel",
+    "url": "http://88.212.7.14/live/discovery_hungary/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveryChannel.it",
+    "feed": "HD",
+    "title": "Discovery Channel HD",
+    "url": "http://102.129.186.182:81/discovery/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveryChannel.it",
+    "feed": "SD",
+    "title": "Discovery Channel",
+    "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveryChannel.ru",
+    "feed": "SD",
+    "title": "Discovery Channel",
+    "url": "http://stream.mcquack.net/177/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveryChannel.uk",
+    "feed": "UK",
+    "title": "Discovery Channel",
+    "url": "http://37.49.224.5/stream/11/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveryChannelLatinAmerica.us",
+    "feed": "Panregional",
+    "title": "Discovery Channel Latin America",
+    "url": "http://45.171.64.30:6060/play/a032/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveryChannelLatinAmerica.us",
+    "feed": "South",
+    "title": "Discovery Channel Latin America South",
+    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveryChannelMiddleEastAfrica.us",
+    "feed": "SD",
+    "title": "Discovery Channel Middle East & Africa",
+    "url": "http://85.237.89.159:3342/ar-s/Discovery-HD/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveryFamily.us",
+    "feed": "East",
+    "title": "Discovery Family",
+    "url": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveryHistory.uk",
+    "feed": "SD",
+    "title": "Discovery History",
+    "url": "http://37.49.224.5/stream/12/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveryHomeHealthLatinAmerica.mx",
+    "feed": "South",
+    "title": "Discovery Home & Health Latin America South",
+    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveryKidsLatinAmerica.us",
+    "feed": "Chile",
+    "title": "Discovery Kids Latin America Chile",
+    "url": "http://38.224.231.176:8000/play/a01j/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveryKidsLatinAmerica.us",
+    "feed": "Colombia",
+    "title": "Discovery Kids Latin America Colombia",
+    "url": "http://38.134.250.110:8000/play/a003/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveryKidsLatinAmerica.us",
+    "feed": "Panregional",
+    "title": "Discovery Kids Latin America",
+    "url": "http://181.224.200.5:2277/play/a00o/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveryScienceEurope.uk",
+    "feed": "UK",
+    "title": "Discovery Science Europe UK",
+    "url": "http://37.49.224.5/stream/9/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveryScienceLatinAmerica.us",
+    "feed": "SD",
+    "title": "Discovery Science Latin America",
+    "url": "http://45.171.64.30:6060/play/a007/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveryTheaterLatinAmerica.us",
+    "feed": "SD",
+    "title": "Discovery Theater Latin America",
+    "url": "http://181.224.200.5:2277/play/a0bj/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveryTurbo.it",
+    "feed": "SD",
+    "title": "Discovery Turbo",
+    "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveryTurbo.uk",
+    "feed": "SD",
+    "title": "Discovery Turbo",
+    "url": "http://37.49.224.5/stream/13/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveryTurbo.us",
+    "feed": "SD",
+    "title": "Discovery Turbo",
+    "url": "http://41.205.93.154/ESPNNEWS/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DiscoveryTurboLatinAmerica.us",
+    "feed": "Panregional",
+    "title": "Discovery Turbo Latin America",
+    "url": "http://38.134.250.110:8000/play/a01y/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DishaTV.in",
+    "feed": "SD",
+    "title": "Disha TV",
+    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
+    "quality": "396p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DismarRadioTV.py",
+    "feed": "SD",
+    "title": "Dismar Radio TV",
+    "url": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannel.bg",
+    "feed": "SD",
+    "title": "Disney Channel",
+    "url": "http://87.120.179.187:8000/play/a010",
+    "quality": "576i",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannel.bg",
+    "feed": "SD",
+    "title": "Disney Channel",
+    "url": "http://213.91.179.28:8000/play/a059",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannel.cz",
+    "feed": "SD",
+    "title": "Disney Channel",
+    "url": "http://88.212.15.50/live/test_disney/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannel.de",
+    "feed": "SD",
+    "title": "Disney Channel",
+    "url": "https://s6.hopslan.com/disneyX/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannel.hu",
+    "feed": "SD",
+    "title": "Disney Channel",
+    "url": "http://88.212.7.14/live/disney_channel_hun/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannel.hu",
+    "feed": "SD",
+    "title": "Disney Channel",
+    "url": "http://193.33.39.108:9019/play/a00n",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannel.jp",
+    "feed": "SD",
+    "title": "Disney Channel",
+    "url": "http://103.255.250.188:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannel.pl",
+    "feed": "HD",
+    "title": "Disney Channel HD",
+    "url": "http://185.227.34.179:8080/disney-channel-hd/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannel.us",
+    "feed": "East",
+    "title": "Disney Channel",
+    "url": "http://4.30.180.36:8420/disneychannel/index.m3u8?token=test",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannelLatinAmerica.ar",
+    "feed": "Center",
+    "title": "Disney Channel Latin America Center",
+    "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannelLatinAmerica.ar",
+    "feed": "Mexico",
+    "title": "Disney Channel Latin America Mexico",
+    "url": "http://45.166.93.156:9999/play/a0f3/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannelLatinAmerica.ar",
+    "feed": "North",
+    "title": "Disney Channel Latin America North",
+    "url": "http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannelLatinAmerica.ar",
+    "feed": "Panregional",
+    "title": "Disney Channel Latin America",
+    "url": "http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannelLatinAmerica.ar",
+    "feed": "Panregional",
+    "title": "Disney Channel Latin America",
+    "url": "http://45.185.163.75:8000/play/a02j/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
