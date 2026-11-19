@@ -29281,5 +29281,305 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "BetterLifeNatureChannel.us",
+    "feed": "SD",
+    "title": "Better Life Nature Channel",
+    "url": "https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BetterLifeTV.us",
+    "feed": "SD",
+    "title": "Better Life TV",
+    "url": "https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BETThrowbacks.us",
+    "feed": "SD",
+    "title": "BET Throwbacks",
+    "url": "https://jmp2.uk/plu-61326275b3c86a00078e4833.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BETVisionaries.us",
+    "feed": "SD",
+    "title": "BET Visionaries",
+    "url": "https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BeverlyHillbillies.us",
+    "feed": "US",
+    "title": "Beverly Hillbillies",
+    "url": "https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BeverlyHills90210.us",
+    "feed": "SD",
+    "title": "Beverly Hills 90210",
+    "url": "https://jmp2.uk/plu-5f4d83e0a382c00007bc02e7.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BeyondBeliefFactorFiction.us",
+    "feed": "UK",
+    "title": "Beyond Belief: Fact or Fiction",
+    "url": "https://jmp2.uk/plu-611f85396abc84000738417b.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BeyondtheGates.us",
+    "feed": "SD",
+    "title": "Beyond the Gates",
+    "url": "https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BFMBusiness.fr",
+    "feed": "SD",
+    "title": "BFM Business",
+    "url": "https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BFMLyon.fr",
+    "feed": "SD",
+    "title": "BFM Lyon",
+    "url": "https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BFMTV.fr",
+    "feed": "SD",
+    "title": "BFM TV",
+    "url": "https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_tv/live.livx/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BFMTV.fr",
+    "feed": "SD",
+    "title": "BFM TV",
+    "url": "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BhagyamTV.in",
+    "feed": "SD",
+    "title": "Bhagyam TV",
+    "url": "https://ott.bhagyam.net/hls/bhagyamweb/index-1409148900-now.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BhakthiTV.in",
+    "feed": "SD",
+    "title": "Bhakthi TV",
+    "url": "https://mumbai-edge.smartplaytv.in/BhakthiTv/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BhakthiTV.in",
+    "feed": "SD",
+    "title": "Bhakthi TV",
+    "url": "https://yuppnimresmum.akamaized.net/240122/bhakti/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BhakthiTV.in",
+    "feed": "SD",
+    "title": "Bhakthi TV",
+    "url": "https://cdn.pishow.tv/ott/live/397/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BhaktiDhara.in",
+    "feed": "SD",
+    "title": "Bhakti Dhara",
+    "url": "https://newsliveindia.com:4433/bhaktidhara/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BhaktiPlay.in",
+    "feed": "SD",
+    "title": "Bhakti Play",
+    "url": "https://qn-01273-mum-2-07-1---7247-gbsv.http.global.dns.qwilted-cds.cqloud.com/OTM/OTM_BhaktiFlix-SCTE_CDN/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BhaktiSagar.in",
+    "feed": "SD",
+    "title": "Bhakti Sagar",
+    "url": "https://mumt05.tangotv.in/87NeALx2BHAKTISAGAR/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Bharat24.in",
+    "feed": "SD",
+    "title": "Bharat24",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2774c390ad884e06a7b0257c8489e23d/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Bharat24.in",
+    "feed": "SD",
+    "title": "Bharat24",
+    "url": "https://vglivessai.akamaized.net/ptnr-lg/title-Bharat24News_LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ebcf5152-686a-43ae-ad13-15bc198112b7/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Bharat24.in",
+    "feed": "SD",
+    "title": "Bharat24",
+    "url": "https://cdn.ottlive.co.in/bharat24/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Bharat24.in",
+    "feed": "SD",
+    "title": "Bharat24",
+    "url": "https://fta.ektv.in/live/104/104_0.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Bharat24.in",
+    "feed": "SD",
+    "title": "Bharat24",
+    "url": "https://mumt06.tangotv.in/qYyB8fXVBHARAT24/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Bharat24.in",
+    "feed": "SD",
+    "title": "Bharat24",
+    "url": "https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BharatAtoZ.in",
+    "feed": "SD",
+    "title": "Bharat AtoZ",
+    "url": "https://live.ekamraott.com/4tv/bharata2z/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BharatExpress.in",
+    "feed": "SD",
+    "title": "Bharat Express",
+    "url": "https://stream.ottlive.co.in/bharatexpress/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BharatExpress.in",
+    "feed": "SD",
+    "title": "Bharat Express",
+    "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e029a22c-cbd9-493b-9b37-e7f0cabe78cc/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BharatExpress.in",
+    "feed": "SD",
+    "title": "Bharat Express",
+    "url": "https://cdn.pishow.tv/ott/live/1139/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BharatExpress.in",
+    "feed": "SD",
+    "title": "Bharat Express",
+    "url": "https://fta.ektv.in/live/736/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
   }
 ]
