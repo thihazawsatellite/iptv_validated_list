@@ -15184,5 +15184,663 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Hagerty",
+    "url": "https://aegis-cloudfront-1.tubi.video/1d7878db-0fc9-45fc-afb4-1355e66738ac/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Her Sphere",
+    "url": "https://aegis-cloudfront-1.tubi.video/804f9e76-e98c-41fa-8d75-5986879e2168/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Horror by ALTER",
+    "url": "https://aegis-cloudfront-1.tubi.video/acac036c-181a-413a-a102-cd294c83320d/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Mr. Beast",
+    "url": "https://aegis-cloudfront-1.tubi.video/cf8b86e9-932a-4454-99c5-32169b6a330f/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Nascar",
+    "url": "https://aegis-cloudfront-1.tubi.video/a8586229-0ea0-4eb4-bb23-09674c2a94d3/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Q2 News Billings",
+    "url": "https://aegis-cloudfront-1.tubi.video/e6096a30-3bca-4157-b9c7-d7aa84d16e9e/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Silent Witness and New Tricks",
+    "url": "https://aegis-cloudfront-1.tubi.video/d37465d7-dfbc-45cd-98a2-8d47968b5fb5/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "The Breakfast Club on iHeartRadio",
+    "url": "https://aegis-cloudfront-1.tubi.video/94121431-038e-4a12-9634-3978765cde03/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "The Jack Hanna Channel",
+    "url": "https://aegis-cloudfront-1.tubi.video/cb66e7f1-039e-4e9d-82d9-0e2032e6803e/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Todo Cine",
+    "url": "https://aegis-cloudfront-1.tubi.video/be9224ff-0bff-440d-aa84-40afcb2150b5/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "TV One Crime & Justice",
+    "url": "https://aegis-cloudfront-1.tubi.video/66353608-b293-407b-9e79-d69ba8b17594/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Untold Stories of the E.R.",
+    "url": "https://aegis-cloudfront-1.tubi.video/a0b550d8-29c6-49f5-a4f7-939d9eeec962/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "ABC 13 Las Vegas NV (KTNV)",
+    "url": "https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "A&E: Chaos on Cam",
+    "url": "https://amg00276-amg00276c19-amgplt0022.playout.now3.amagi.tv/ts-us-w2-n2/playlist/amg00276-amg00276c19-amgplt0022/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "A&E: Live PD Presents",
+    "url": "https://amg00276-amg00276c26-vizio-us-8687.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Alien Nation",
+    "url": "https://linear-888.frequency.stream/mt/vizio/888/hls/master/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "America Says",
+    "url": "https://d2uij1im12h4nm.cloudfront.net/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Aqui y Ahora",
+    "url": "https://linear-306.frequency.stream/mt/vizio/306/hls/master/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Baggage",
+    "url": "https://d2juxqbzlqzsb4.cloudfront.net/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "BBC Dinos 24/7",
+    "url": "https://amg00793-amg00793c35-vizio-us-9690.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Big 12 Studios",
+    "url": "https://amg01258-raycom-amg01258c7-vizio-us-5676.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Bonanza Billies TV",
+    "url": "https://tricoast-tv-bonanzabilliestv-1-us.vizio.wurl.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Bowling TV",
+    "url": "https://wurltripleb.global.transmit.live/hls/6a5fb045d8950f7f33594d53/v1/eleven_bowlingtv_1/vizio_us/latest/main/hls/bowl.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Breaking News",
+    "url": "https://amg02703-amg02703c18-vizio-us-6423.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Business Insider",
+    "url": "https://amg01920-amg01920c1-amgplt0022.playout.now3.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Canela.TV Cl\u00e1sicos",
+    "url": "https://amg00658-amg00658c99-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg00658-amg00658c99-amgplt0022/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Canela.TV Narco Drama",
+    "url": "https://amg00658-amg00658c103-amgplt0022.playout.now3.amagi.tv/ts-us-w2-n2/playlist/amg00658-amg00658c103-amgplt0022/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Canela.TV Secretos",
+    "url": "https://amg00658-amg00658c185-amgplt0022.playout.now3.amagi.tv/ts-us-w2-n2/playlist/amg00658-amg00658c185-amgplt0022/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Caylus",
+    "url": "https://amg00285-amg00285c14-amgplt0022.playout.now3.amagi.tv/ts-us-w2-n2/playlist/amg00285-amg00285c14-amgplt0022/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Celine Dept",
+    "url": "https://amg35360-amg35360c2-amgplt0022.playout.now3.amagi.tv/ts-us-w2-n2/playlist/amg35360-amg35360c2-amgplt0022/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Classic Family Feud",
+    "url": "https://amg00145-fremantlemedian-familyfeudvizio-vizious-eumoj.amagi.tv/playlist/amg00145-fremantlemedian-familyfeudvizio-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Come Dine With Me",
+    "url": "https://amg00654-itv-amg00654c33-vizio-us-10876.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Confess by Nosey",
+    "url": "https://amg00514-amg00514c4-amgplt0022.playout.now3.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Creator TV",
+    "url": "https://amg16070-amg16070c1-amgplt0022.playout.now3.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Dawson's Creek & Party of Five",
+    "url": "https://dmi86patgkjtf.cloudfront.net/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Donut",
+    "url": "https://amg02134-amg02134c2-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02134-amg02134c2-amgplt0022/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Escape Perfecto",
+    "url": "https://d1k068ma0trhah.cloudfront.net/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Esports Edge",
+    "url": "https://linear-1005.frequency.stream/mt/vizio/1005/hls/master/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "FGTeeV",
+    "url": "https://amg00285-amg00285c4-amgplt0022.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00285-amg00285c4-amgplt0022/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Food Network: Best of Bobby Flay",
+    "url": "https://amg00136-wbd-amg00136c81-vizio-us-9385.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Food Network: Chef vs Chef",
+    "url": "https://amg00136-wbd-amg00136c78-vizio-us-9381.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Food Network: Delicious Eats",
+    "url": "https://amg00136-wbd-amg00136c80-vizio-us-9384.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Food Network: Home Cooking",
+    "url": "https://amg00136-wbd-amg00136c79-vizio-us-9382.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Four In A Bed",
+    "url": "https://wurlall3media.global.transmit.live/hls/684330e0efdff2f214fb95ba/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Free Action Network",
+    "url": "https://amg00346-amg00346c7-amgplt0022-zs.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg00346-vizioinc-action-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Free Comedy Network",
+    "url": "https://amg00346-amg00346c25-amgplt0022.playout.now3.amagi.tv/playlist/amg00346-amg00346c25-amgplt0022/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Free Holiday Movies",
+    "url": "https://amg00346-vizioservicesll-oando2-vizious-ztssf.amagi.tv/playlist/amg00346-vizioservicesll-oando2-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Free Movie Network",
+    "url": "https://amg00346-amg00346c22-amgplt0022-zs.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg00346-vizioinc-fear-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Free Movies+",
+    "url": "https://amg02042-amg02042c26-vizio-us-4381.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Free Romance Network",
+    "url": "https://amg00346-amg00346c9-amgplt0022-zs.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg00346-vizioinc-vizioromance-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "FREE Vibes Fireplace",
+    "url": "https://amg00346-vizioinc-oando1-vizious-nbl3v.amagi.tv/playlist/amg00346-vizioinc-oando1-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "FREE Vibes Nature",
+    "url": "https://amg00346-amg00346c32-amgplt0022.playout.now3.amagi.tv/playlist/amg00346-amg00346c32-amgplt0022/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "FREE Vibes Scenery",
+    "url": "https://amg00346-amg00346c31-amgplt0022.playout.now3.amagi.tv/playlist/amg00346-amg00346c31-amgplt0022/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Free Western Network",
+    "url": "https://amg00346-amg00346c8-amgplt0022-zs.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg00346-vizioinc-vizioamerica-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Galanes",
+    "url": "https://linear-325.frequency.stream/mt/vizio/325/hls/master/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Game & Fish TV",
+    "url": "https://amg00436-osg-amg00436c7-vizio-us-8353.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Gardening with Monty Don",
+    "url": "https://all3media-gardening-with-monty-don-us.vizio.wurl.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "GET.",
+    "url": "https://d2txch11vtz7ov.cloudfront.net/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Ghosts",
+    "url": "https://amg00353-amg00353c96-amgplt0022.playout.now3.amagi.tv/ts-us-w2-n2/playlist/amg00353-amg00353c96-amgplt0022/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
   }
 ]
