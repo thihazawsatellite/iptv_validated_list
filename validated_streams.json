@@ -57804,5 +57804,205 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "GemShoppingNetwork.us",
+    "feed": "SD",
+    "title": "Gem Shopping Network",
+    "url": "https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "GemsTV.uk",
+    "feed": "SD",
+    "title": "Gems TV",
+    "url": "https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "GemTV.in",
+    "feed": "SD",
+    "title": "Gem TV",
+    "url": "https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Gen.py",
+    "feed": "SD",
+    "title": "Gen",
+    "url": "https://tv.mitvparaguay.com/hls?origin=https%3A//www.gen.com.py&referer=https%3A//gentv.desdepylabs.com/External/gentv&type=hls&url=https%3A%2F%2Fcopacogen.desdeparaguay.net%2Fgentv%2Fgentv_py_baja%2Fchunklist_w2016222336.m3u8%3Fk%3D6de8e821fe4afa30bafdeab37d3d09300b830f37e1c3a1499ce23c9220df2ba8%26exp%3D1794402945",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": "https%3A//gentv.desdepylabs.com/External/gentv"
+  },
+  {
+    "channel": "GenerationsTV.fr",
+    "feed": "SD",
+    "title": "Generations TV",
+    "url": "https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "GenesisScienceNetwork.us",
+    "feed": "SD",
+    "title": "Genesis Science Network",
+    "url": "https://2-fss-1.streamhoster.com/pl_122/amlst:206018-2645902/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "GenialTV.cl",
+    "feed": "SD",
+    "title": "Genial TV",
+    "url": "https://v1.tustreaming.cl/genialtv/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "GeordieShore.de",
+    "feed": "GB",
+    "title": "Geordie Shore",
+    "url": "https://jmp2.uk/plu-65c4960d11ced7000812c433.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "GeordieShore.de",
+    "feed": "IT",
+    "title": "Geordie Shore",
+    "url": "https://jmp2.uk/plu-619263ee9541940007d20d60.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "GeordieShore.se",
+    "feed": "DK",
+    "title": "Geordie Shore",
+    "url": "https://jmp2.uk/plu-6442512cee6a2f0008d3351f.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "GeordieShore.se",
+    "feed": "NO",
+    "title": "Geordie Shore",
+    "url": "https://jmp2.uk/plu-64424a1d5a0cd500083ed27c.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "GeordieShore.se",
+    "feed": "SE",
+    "title": "Geordie Shore",
+    "url": "https://jmp2.uk/plu-64424be3e94c380008d0a66d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "GermanyShore.de",
+    "feed": "DACH",
+    "title": "Germany Shore",
+    "url": "https://jmp2.uk/plu-6447dea7e94c380008dba94c.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Getfactual.us",
+    "feed": "UK",
+    "title": "Get.Factual",
+    "url": "https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "GhostDimension.us",
+    "feed": "UK",
+    "title": "Ghost Dimension",
+    "url": "https://jmp2.uk/plu-619e1bb3e9af5a0007f235ad.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "GhostDimension.us",
+    "feed": "UK",
+    "title": "Ghost Dimension",
+    "url": "https://jmp2.uk/plu-619e259fd8b672000729b1d7.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "GhostDimension.us",
+    "feed": "UK",
+    "title": "Ghost Dimension",
+    "url": "https://jmp2.uk/plu-619e4726b9997a00072a4059.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "GhostHunters.us",
+    "feed": "UK",
+    "title": "Ghost Hunters",
+    "url": "https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "GhostHunters.us",
+    "feed": "UK",
+    "title": "Ghost Hunters",
+    "url": "https://jmp2.uk/plu-65cf8ace332fec00081e7ea2.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "GhostHunters.us",
+    "feed": "UK",
+    "title": "Ghost Hunters",
+    "url": "https://amg00353-amg00353c30-samsung-nz-3439.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
