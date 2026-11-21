@@ -37886,5 +37886,611 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkWesternEurope.uk",
+    "feed": "Portugal",
+    "title": "Cartoon Network Western Europe Portugal",
+    "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2672740913728a31b548ec",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CarubanTV.id",
+    "feed": "HD",
+    "title": "Caruban TV",
+    "url": "https://stream.carubantv.id/hls/0/stream.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": "https://stream.carubantv.id"
+  },
+  {
+    "channel": "CasaItalia53.it",
+    "feed": "SD",
+    "title": "Casa Italia 53",
+    "url": "https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CascaraTV.do",
+    "feed": "SD",
+    "title": "Cascara TV",
+    "url": "https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CatamarcaTV.ar",
+    "feed": "SD",
+    "title": "Catamarca TV",
+    "url": "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CatatumboTV.ve",
+    "feed": "SD",
+    "title": "Catatumbo TV",
+    "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8",
+    "quality": "406p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CatholicFaithNetwork.us",
+    "feed": "SD",
+    "title": "CFN Catholic Faith Network",
+    "url": "https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CatholicTV.us",
+    "feed": "SD",
+    "title": "Catholic TV",
+    "url": "https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Catve2.br",
+    "feed": "SD",
+    "title": "Catve2",
+    "url": "https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CatveFM.br",
+    "feed": "SD",
+    "title": "Catve FM",
+    "url": "https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CatveMasterTV.br",
+    "feed": "SD",
+    "title": "Catve Master TV",
+    "url": "https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBCNewsNetwork.ca",
+    "feed": "SD",
+    "title": "CBC News Network",
+    "url": "https://aka-live1050.delivery.roku.com/0c24a9ef-e9c3-485c-bf68-3f1ae5ef3e85/t2-origin/out/v1/live.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBCNewsNetwork.ca",
+    "feed": "SD",
+    "title": "CBC News",
+    "url": "https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBCNewsNetwork.ca",
+    "feed": "SD",
+    "title": "CBC News",
+    "url": "https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBCTV8.bb",
+    "feed": "SD",
+    "title": "CBC TV8",
+    "url": "https://1740288887.rsc.cdn77.org/1740288887/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBeebies.pl",
+    "feed": "SD",
+    "title": "CBeebies",
+    "url": "http://92.114.85.87:8017/play/a004/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBeebies.pl",
+    "feed": "SD",
+    "title": "CBeebies",
+    "url": "https://gist.githubusercontent.com/xykt-fix/e01ce187bbad74d0a0c5a86e0fc1b885/raw/eb00491161b819c2321733e929a27aeb2972b416/cbeeb-stream.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBNEspanol.us",
+    "feed": "SD",
+    "title": "CBN Espanol",
+    "url": "https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U/playlist-hls.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBNFamily.us",
+    "feed": "SD",
+    "title": "CBN Family",
+    "url": "https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/playlist-hls.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBNGospel.vg",
+    "feed": "SD",
+    "title": "CBN Gospel",
+    "url": "https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBNNews.us",
+    "feed": "SD",
+    "title": "CBN News Channel",
+    "url": "https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBNTV.vg",
+    "feed": "SD",
+    "title": "CBN TV",
+    "url": "https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "KBZK",
+    "title": "CBS 7 Bozeman MT (KBZK)",
+    "url": "https://amg01438-amg01438c32-vizio-us-10898.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "KIROTV",
+    "title": "KIRO-DT1",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "KIROTV",
+    "title": "CBS 7 Seattle WA (KIRO)",
+    "url": "https://amg00327-coxmediagroup-kirobreakingnews-vizious-vumic.amagi.tv/playlist/amg00327-coxmediagroup-kirobreakingnews-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "KMOV",
+    "title": "CBS 4 St. Louis MO (KMOV)",
+    "url": "https://amg00312-amg00312c44-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c44-amgplt0022/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "KMTVTV",
+    "title": "CBS 3 Omaha NE (KMTV-TV)",
+    "url": "https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "KMTVTV",
+    "title": "CBS 3 Omaha NE (KMTV)",
+    "url": "https://amg01438-amg01438c9-vizio-us-10858.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "KOLDTV",
+    "title": "CBS 13 Tucson AZ (KOLD)",
+    "url": "https://amg00312-amg00312c49-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c49-amgplt0022/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "KPAXTV",
+    "title": "CBS 8 Missoula MT (KPAX)",
+    "url": "https://amg01438-amg01438c14-vizio-us-10931.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "KRTV",
+    "title": "CBS 3 Great Falls MT (KRTV)",
+    "url": "https://amg01438-amg01438c36-vizio-us-10859.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "KTVQ",
+    "title": "CBS 2 Billings MT (KTVQ)",
+    "url": "https://amg01438-amg01438c27-vizio-us-10895.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "KZTV",
+    "title": "KZTV-DT1",
+    "url": "https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "WANF",
+    "title": "CBS 46 Atlanta GA (WANF)",
+    "url": "https://amg00312-amg00312c28-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c28-amgplt0022/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "WCBITV",
+    "title": "WCBI (Columbus MI)",
+    "url": "https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "WDBJ",
+    "title": "CBS 7 Roanoke VA (WDBJ)",
+    "url": "https://amg00312-amg00312c40-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c40-amgplt0022/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "WDEFTV",
+    "title": "WDEF-TV News Chattanooga TN",
+    "url": "https://townnews.g-mana.live/media/a54a6409-5e91-46f0-9fee-06904c1fd094/main.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "WFSB",
+    "title": "CBS 3 Hartford CT (WFSB)",
+    "url": "https://amg00312-amg00312c55-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c55-amgplt0022/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "WHIOTV",
+    "title": "WHIO-DT1",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "WHIOTV",
+    "title": "CBS 7 Dayton OH (WHIO)",
+    "url": "https://amg00327-coxmediagroup-whiobreakingnews-vizious-stiqu.amagi.tv/playlist/amg00327-coxmediagroup-whiobreakingnews-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "WJAXTV",
+    "title": "WJAX-DT1",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "WJAXTV",
+    "title": "CBS 47 Fox 30 Jacksonville FL (WJAX)",
+    "url": "https://amg00327-coxmediagroup-wjaxbreakingnews-vizious-zajcz.amagi.tv/playlist/amg00327-coxmediagroup-wjaxbreakingnews-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "WKYTTV",
+    "title": "CBS 27 Lexington KY (WKYT)",
+    "url": "https://amg00312-amg00312c38-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c38-amgplt0022/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "WTKR",
+    "title": "CBS 3 Norfolk VA (WTKR)",
+    "url": "https://amg01438-amg01438c24-vizio-us-10860.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "WTVRTV",
+    "title": "CBS 6 Richmond VA (WTVR)",
+    "url": "https://aegis-cloudfront-1.tubi.video/d8fc1d6c-fd55-45c8-973b-b7327ee1a6e0/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "WTVRTV",
+    "title": "CBS 6 Richmond VA (WTVR)",
+    "url": "https://amg01438-amg01438c39-vizio-us-10910.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBS.us",
+    "feed": "WVLTTV",
+    "title": "CBS 8 Knoxville TN (WVLT)",
+    "url": "https://amg00312-amg00312c37-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c37-amgplt0022/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSenespanol.us",
+    "feed": "SD",
+    "title": "CBS en espa\u00f1ol",
+    "url": "https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNews247.us",
+    "feed": "SD",
+    "title": "CBS News 24/7",
+    "url": "https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNews247.us",
+    "feed": "SD",
+    "title": "CBS News 24/7",
+    "url": "https://jmp2.uk/plu-62441d6ded1827000763dcda.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNews247.us",
+    "feed": "SD",
+    "title": "CBS News 24/7",
+    "url": "https://jmp2.uk/plu-61e82af27027f9000753c6e4.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNews247.us",
+    "feed": "SD",
+    "title": "CBS News 24/7",
+    "url": "https://jmp2.uk/plu-6231ede1be5b460007f91bc1.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNews247.us",
+    "feed": "SD",
+    "title": "CBS News 24/7",
+    "url": "https://jmp2.uk/plu-6231ec93779a9d00079ba8e2.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNews247.us",
+    "feed": "SD",
+    "title": "CBS News 24/7",
+    "url": "https://jmp2.uk/plu-6231ec4b62cd1f0007093c7b.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNews247.us",
+    "feed": "SD",
+    "title": "CBS News 24/7",
+    "url": "https://jmp2.uk/plu-6231e909bc960f00075d8e7c.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNews247.us",
+    "feed": "SD",
+    "title": "CBS News 24/7",
+    "url": "https://jmp2.uk/plu-6231e9b7f6deff00074674f4.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNews247.us",
+    "feed": "SD",
+    "title": "CBS News 24/7",
+    "url": "https://jmp2.uk/plu-6231eb3865be650007f59595.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CBSNews247.us",
+    "feed": "SD",
+    "title": "CBS News 24/7",
+    "url": "https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
