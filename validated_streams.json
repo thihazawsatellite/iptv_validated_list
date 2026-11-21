@@ -19962,5 +19962,445 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "Aastha.in",
+    "feed": "SD",
+    "title": "Aastha",
+    "url": "https://cdn.pishow.tv/ott/live/1454/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Aastha.in",
+    "feed": "SD",
+    "title": "Aastha",
+    "url": "https://fta.ektv.in/live/338/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Aastha.in",
+    "feed": "SD",
+    "title": "Aastha SD",
+    "url": "http://103.175.73.12:8080/live/338/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Aastha.in",
+    "feed": "SD",
+    "title": "Aastha SD",
+    "url": "https://mumt05.tangotv.in/87NeALx2AASTHA/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Aastha.in",
+    "feed": "UK",
+    "title": "Aastha UK",
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AasthaBhajan.in",
+    "feed": "SD",
+    "title": "Aastha Bhajan",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/218f9e64bdce42369500e93cff50572f/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AasthaBhajan.in",
+    "feed": "SD",
+    "title": "Aastha Bhajan",
+    "url": "http://103.175.73.12:8080/live/339/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "AasthaBhajan.in",
+    "feed": "SD",
+    "title": "Aastha Bhajan",
+    "url": "https://fta.ektv.in/live/339/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "AasthaBhajan.in",
+    "feed": "SD",
+    "title": "Aastha Bhajan",
+    "url": "https://mumt05.tangotv.in/87NeALx2AASTHABHAJAN/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AasthaBhajan.in",
+    "feed": "SD",
+    "title": "Aastha Bhajan",
+    "url": "https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AasthaGujarati.in",
+    "feed": "SD",
+    "title": "Aastha Gujarati",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/f5846689505a485a8d4d4c424009c1b3/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AasthaGujarati.in",
+    "feed": "SD",
+    "title": "Aastha Gujarati",
+    "url": "https://fta.ektv.in/live/372/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "AasthaGujarati.in",
+    "feed": "SD",
+    "title": "Aastha Gujarati",
+    "url": "https://mumt04.tangotv.in/m18aqlK4AASTHAGUJARATI/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AasthaGujarati.in",
+    "feed": "SD",
+    "title": "Aastha Gujarati",
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AasthaInternational.in",
+    "feed": "SD",
+    "title": "Aastha International",
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AasthaKannada.in",
+    "feed": "SD",
+    "title": "Aastha Kannada",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/6938ef4f35324389bf08c16b7e8cd1f7/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AasthaKannada.in",
+    "feed": "SD",
+    "title": "Aastha Kannada",
+    "url": "https://cdn.pishow.tv/ott/live/234/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AasthaKannada.in",
+    "feed": "SD",
+    "title": "Aastha Kannada",
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AasthaPrime1.in",
+    "feed": "SD",
+    "title": "Aastha Prime 1",
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AasthaTamil.in",
+    "feed": "SD",
+    "title": "Aastha Tamil",
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AasthaTelugu.in",
+    "feed": "SD",
+    "title": "Aastha Telugu",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a3e6a5fec4354ec4ae0ca5ed539ff641/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AasthaTelugu.in",
+    "feed": "SD",
+    "title": "Aastha Telugu",
+    "url": "https://cdn.pishow.tv/ott/live/262/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AasthaTelugu.in",
+    "feed": "SD",
+    "title": "Aastha Telugu",
+    "url": "https://fta.ektv.in/live/702/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "AasthaTelugu.in",
+    "feed": "SD",
+    "title": "Aastha Telugu",
+    "url": "https://mumbai-edge.smartplaytv.in/AasthaTelugu/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AasthaTelugu.in",
+    "feed": "SD",
+    "title": "Aastha Telugu",
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AathavanTV.uk",
+    "feed": "SD",
+    "title": "Aathavan TV",
+    "url": "https://yuppmumfta1.vgcdn.net/211125/athvantv/manifest.mpd",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AathavanTV.uk",
+    "feed": "SD",
+    "title": "Aathavan TV",
+    "url": "https://oj7lnxonyg82-hls-live.5centscdn.com/uks/24263a839810d2041a349baaeef36a79.sdp/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AB1.fr",
+    "feed": "SD",
+    "title": "AB1",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ab1/live.livx/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AbaiTV.kz",
+    "feed": "SD",
+    "title": "Abai TV",
+    "url": "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AbaiTV.kz",
+    "feed": "SD",
+    "title": "Abai TV",
+    "url": "https://fs.uplink.kz/abai_tv/mono.m3u8?token=onlinetv",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AbanteTV.ph",
+    "feed": "HD",
+    "title": "Abante TV",
+    "url": "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "AbazaTV.ru",
+    "feed": "SD",
+    "title": "\u0410\u0411\u0410\u0417\u0410-\u0422\u0412",
+    "url": "https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ABC.us",
+    "feed": "KAAL",
+    "title": "ABC 6 Austin TX (KAAL)",
+    "url": "https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ABC.us",
+    "feed": "KATC",
+    "title": "ABC 3 Lafayette LA (KATC)",
+    "url": "https://amg01438-amg01438c4-vizio-us-10920.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ABC.us",
+    "feed": "KEROTV",
+    "title": "ABC 23 Bakersfield CA (KERO)",
+    "url": "https://aegis-cloudfront-1.tubi.video/69c4e4f9-84fa-43eb-b38e-6d1f9464ca73/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ABC.us",
+    "feed": "KEROTV",
+    "title": "23 ABC Bakersfield CA (KERO)",
+    "url": "https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ABC.us",
+    "feed": "KEROTV",
+    "title": "ABC 23 Bakersfield CA (KERO)",
+    "url": "https://amg01438-amg01438c13-vizio-us-10921.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ABC.us",
+    "feed": "KGTV",
+    "title": "ABC 10 San Diego CA (KGTV)",
+    "url": "https://amg01438-amg01438c6-vizio-us-10897.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ABC.us",
+    "feed": "KGUNTV",
+    "title": "ABC 9 Tucson AZ (KGUN)",
+    "url": "https://aegis-cloudfront-1.tubi.video/a53514a7-f2aa-4d34-802e-c2b5594fc0d7/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ABC.us",
+    "feed": "KGUNTV",
+    "title": "ABC 9 Tucson AZ (KGUN)",
+    "url": "https://amg01438-amg01438c3-vizio-us-10813.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ABC.us",
+    "feed": "KIVITV",
+    "title": "ABC 6 Boise ID (KIVI)",
+    "url": "https://amg01438-amg01438c5-vizio-us-10929.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ABC.us",
+    "feed": "KMGHTV",
+    "title": "ABC 7 Denver CO (KMGH)",
+    "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ABC.us",
+    "feed": "KRGVTV",
+    "title": "ABC 5",
+    "url": "https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ABC.us",
+    "feed": "KSTPTV",
+    "title": "ABC 5 St. Paul MN (KSTP)",
+    "url": "https://amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
