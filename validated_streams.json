@@ -100738,5 +100738,281 @@
     ],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "RealTelevision.pe",
+    "feed": "SD",
+    "title": "Real Television",
+    "url": "https://live-evg10.tv360.bitel.com.pe/bitel/realtv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RealTime.it",
+    "feed": "HD",
+    "title": "Real Time HD",
+    "url": "http://102.129.186.182:81/realtime/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RealTime.it",
+    "feed": "SD",
+    "title": "Real Time",
+    "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RealWild.uk",
+    "feed": "SD",
+    "title": "Real Wild",
+    "url": "https://lds-realwild-samsungau.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RealWild.uk",
+    "feed": "SD",
+    "title": "Real Wild",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RealWild.uk",
+    "feed": "SD",
+    "title": "Real Wild",
+    "url": "https://lds-realwild-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RealWild.uk",
+    "feed": "SD",
+    "title": "Real Wild",
+    "url": "https://lds-realwild-samsunguk.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RealWild.uk",
+    "feed": "SD",
+    "title": "Real Wild",
+    "url": "https://lds-realwild-vizio.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RecipeTV.us",
+    "feed": "SD",
+    "title": "Recipe.TV",
+    "url": "https://a-cdn.klowdtv.com/live2/recipetv_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Record.br",
+    "feed": "SD",
+    "title": "RecordTV",
+    "url": "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RecordNews.br",
+    "feed": "SD",
+    "title": "Record News",
+    "url": "http://170.83.16.50/RECORD_NEWS/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RecordNews.br",
+    "feed": "SD",
+    "title": "Record News",
+    "url": "http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RecordNews.br",
+    "feed": "SD",
+    "title": "Record News",
+    "url": "http://186.219.52.187/record_news/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RecordNews.br",
+    "feed": "SD",
+    "title": "Record News",
+    "url": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RecordTVInteriorSP.br",
+    "feed": "SD",
+    "title": "RecordTV Interior SP",
+    "url": "http://200.77.176.130:8000/udp/224.0.0.4:49152",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "red.ru",
+    "feed": "HD",
+    "title": ".red HD",
+    "url": "http://178.134.1.158:8081/red/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "red.ru",
+    "feed": "SD",
+    "title": ".red",
+    "url": "http://116.90.120.149:8000/play/a0an/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RedADvenirTV.bo",
+    "feed": "KSCE",
+    "title": "KSCE Vida Cristiana",
+    "url": "https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RedADvenirTV.bo",
+    "feed": "SD",
+    "title": "Red ADvenir TV",
+    "url": "http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8",
+    "quality": "360p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RedAmericaTV.bo",
+    "feed": "SD",
+    "title": "Red America TV",
+    "url": "https://edge.enhdtv.com/redamerica/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RedApple21.us",
+    "feed": "SD",
+    "title": "Red Apple 21 (Fairfax County Public Schools)",
+    "url": "https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8",
+    "quality": "480p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RedBullTV.at",
+    "feed": "BR",
+    "title": "Red Bull TV BR",
+    "url": "https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RedBullTV.at",
+    "feed": "DE",
+    "title": "Red Bull TV DE",
+    "url": "https://jmp2.uk/plu-5e7cb84a172a0f0007da69e4.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RedBullTV.at",
+    "feed": "ES",
+    "title": "Red Bull TV ES",
+    "url": "https://jmp2.uk/plu-67813f893886aa863497733d.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RedBullTV.at",
+    "feed": "SD",
+    "title": "Red Bull TV",
+    "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RedBullTV.at",
+    "feed": "SD",
+    "title": "Red Bull TV",
+    "url": "https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RedBullTV.at",
+    "feed": "SD",
+    "title": "Red Bull TV SD",
+    "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
