@@ -84402,5 +84402,307 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "NHLNetwork.us",
+    "feed": "SD",
+    "title": "NHL Network",
+    "url": "https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NHRATV.us",
+    "feed": "SD",
+    "title": "NHRA TV",
+    "url": "https://d265y4sk8257lt.cloudfront.net/nh.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NHTV.kr",
+    "feed": "SD",
+    "title": "NHTV",
+    "url": "http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickComedyCentralPlus1.de",
+    "feed": "SD",
+    "title": "Nick/Comedy Central +1",
+    "url": "http://90.183.52.46:4000/play/a046/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.bg",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "http://87.120.179.187:8000/play/a00x",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.bg",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "http://213.91.179.28:8000/play/a056",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.br",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.cz",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "http://88.212.15.50/live/test_nickelodeon_hevc_25p/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.cz",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "http://193.33.39.108:9011/play/a018",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.de",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.fr",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.hu",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "http://88.212.7.14/live/test_nickelodeon_hu_1200_atk/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.hu",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "http://193.33.39.108:9011/play/a017",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.in",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
+    "quality": "576p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.pt",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F398241518529a84217dd1f",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonArabia.ae",
+    "feed": "SD",
+    "title": "Nickelodeon Arabia",
+    "url": "http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8",
+    "quality": "1080i",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonCIS.kz",
+    "feed": "SD",
+    "title": "Nickelodeon CIS",
+    "url": "https://stream8.cinerama.uz/1500/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonClasico.us",
+    "feed": "LatAm",
+    "title": "Nickelodeon Cl\u00e1sico",
+    "url": "https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonClassico.us",
+    "feed": "BR",
+    "title": "Nickelodeon Cl\u00e1ssico",
+    "url": "https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonClassics.de",
+    "feed": "DACH",
+    "title": "Nickelodeon Classics",
+    "url": "https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeonenespanol.us",
+    "feed": "SD",
+    "title": "Nickelodeon en espa\u00f1ol",
+    "url": "https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonJunior.fr",
+    "feed": "SD",
+    "title": "Nickelodeon Junior",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonLatinAmerica.us",
+    "feed": "Panregional",
+    "title": "Nickelodeon Latin America",
+    "url": "http://181.78.79.131:8000/play/a0qm",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonLatinAmerica.us",
+    "feed": "Panregional",
+    "title": "Nickelodeon Latin America",
+    "url": "http://181.224.255.210:8001/play/a0fm",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonLatinAmerica.us",
+    "feed": "Panregional",
+    "title": "Nickelodeon Latin America",
+    "url": "http://190.93.224.42/NICK/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonPlutoTV.us",
+    "feed": "SD",
+    "title": "Nickelodeon Pluto TV",
+    "url": "https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonTeen.us",
+    "feed": "BR",
+    "title": "Nickelodeon Teen",
+    "url": "https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonTeen.us",
+    "feed": "LatAm",
+    "title": "Nickelodeon Teen",
+    "url": "https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonToons.us",
+    "feed": "BR",
+    "title": "Nickelodeon Toons",
+    "url": "https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonToons.us",
+    "feed": "LatAm",
+    "title": "Nickelodeon Toons",
+    "url": "https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
