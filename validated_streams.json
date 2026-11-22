@@ -56678,5 +56678,379 @@
     ],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "WHBQTV",
+    "title": "WHBQ-DT1",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "WHNS",
+    "title": "Fox 21 Greenville SC (WHNS)",
+    "url": "https://amg00312-amg00312c31-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c31-amgplt0022/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "WITI",
+    "title": "WITI-DT1",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "WITI",
+    "title": "FOX 6 Milwaukee WI (WITI)",
+    "url": "https://amg00488-foxdigital-amg00488c5-vizio-us-901.playouts.now.amagi.tv/playlist/amg00488-foxdigitalfast-fox6milwaukeewiti-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "WJBK",
+    "title": "FOX 2 Detroit MI (WJBK)",
+    "url": "https://amg00488-foxdigital-fox2detroitwjbk-vizious-v1gln.amagi.tv/playlist/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "WNYW",
+    "title": "WNYW-DT1",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "WNYW",
+    "title": "FOX 5 New York NY (WNYW)",
+    "url": "https://amg00488-foxdigital-amg00488c7-vizio-us-903.playouts.now.amagi.tv/playlist/amg00488-foxdigitalfast-fox5newyorkwnyw-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "WTTG",
+    "title": "FOX 5 Washington DC (WTTG)",
+    "url": "https://amg00488-foxdigital-fox5dcwttg-vizious-c0eh0.amagi.tv/playlist/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "WTVT",
+    "title": "FOX 13 Tampa Bay FL (WTVT)",
+    "url": "https://amg00488-foxdigital-fox13tampabaywtvt-vizious-xr5q9.amagi.tv/playlist/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "WTXFTV",
+    "title": "FOX 29 Philadelphia PA (WTXF)",
+    "url": "https://amg00488-foxdigital-fox29philadelphiawtx-vizious-x0v1b.amagi.tv/playlist/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "WVUEDT",
+    "title": "Fox 8 New Orleans LA (WVUE)",
+    "url": "https://amg00312-amg00312c34-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c34-amgplt0022/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "WXIXTV",
+    "title": "FOX 19 Cincinnati OH (WXIX)",
+    "url": "https://amg00312-amg00312c56-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c56-amgplt0022/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "WXMI",
+    "title": "FOX 17 Grand Rapids MI (WXMI)",
+    "url": "https://amg01438-amg01438c37-vizio-us-10912.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Fox.us",
+    "feed": "WXXVTV",
+    "title": "WXXV-TV News (Biloxi MS)",
+    "url": "https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxBusinessNetwork.us",
+    "feed": "SD",
+    "title": "Fox Business Network",
+    "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxBusinessNetwork.us",
+    "feed": "SD",
+    "title": "Fox Business Network",
+    "url": "https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FOXCentral.mx",
+    "feed": "CostaRica",
+    "title": "FOX Central",
+    "url": "http://181.78.106.127:5000/play/a009/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxNewsChannel.us",
+    "feed": "SD",
+    "title": "Fox News Channel",
+    "url": "https://tvsen6.aynaott.com/foxnews/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxNewsRadio.us",
+    "feed": "SD",
+    "title": "Fox News Radio",
+    "url": "https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxSoul.us",
+    "feed": "SD",
+    "title": "Fox Soul",
+    "url": "https://foxsoul-vizio.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxSports1.us",
+    "feed": "HD",
+    "title": "Fox Sports 1",
+    "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxSports.ar",
+    "feed": "HD",
+    "title": "Fox Sports HD",
+    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxSports.ar",
+    "feed": "SD",
+    "title": "Fox Sports",
+    "url": "http://138.59.227.20:8000/play/a085/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxSports.ar",
+    "feed": "SD",
+    "title": "Fox Sports",
+    "url": "http://158.172.155.130:8000/play/a09x/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxSportsNews.au",
+    "feed": "SD",
+    "title": "Fox Sports News",
+    "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxWeather.us",
+    "feed": "KTVU",
+    "title": "FOX 2 San Francisco CA (KTVU)",
+    "url": "https://amg00488-foxdigital-fox2sanfranciscoktvu-vizious-cshim.amagi.tv/playlist/amg00488-foxdigital-fox2sanfranciscoktvu-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxWeather.us",
+    "feed": "SD",
+    "title": "Fox Weather",
+    "url": "https://aka-live1050.delivery.roku.com/2ff50939-341e-4fa8-becf-718769322f14/t2-origin/out/v1/live.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxWeather.us",
+    "feed": "SD",
+    "title": "Fox Weather",
+    "url": "https://247wlive.foxweather.com/stream/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxWeather.us",
+    "feed": "SD",
+    "title": "FOX Weather",
+    "url": "https://jmp2.uk/plu-640a68880e884c0009979cc2.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxWeather.us",
+    "feed": "SD",
+    "title": "FOX Weather",
+    "url": "https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxWeather.us",
+    "feed": "SD",
+    "title": "FOX Weather",
+    "url": "https://amg01542-foxweatherllc-weather-vizious-exojt.amagi.tv/playlist/amg01542-foxweatherllc-weather-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxWeather.us",
+    "feed": "WFLD",
+    "title": "FOX 32 Chicago IL (WFLD)",
+    "url": "https://amg00488-foxdigital-amg00488c4-vizio-us-900.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "FoxWeather.us",
+    "feed": "WOFL",
+    "title": "FOX 35 Orlando FL (WOFL)",
+    "url": "https://amg00488-foxdigital-fox35orlandowofl-vizious-i7zzw.amagi.tv/playlist/amg00488-foxdigital-fox35orlandowofl-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "France2.fr",
+    "feed": "SD",
+    "title": "France 2",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "France3.fr",
+    "feed": "CotedAzur",
+    "title": "France 3 Cote d'Azur",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3_nice/live.livx/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "France3.fr",
+    "feed": "National",
+    "title": "France 3",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3/live.livx/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
