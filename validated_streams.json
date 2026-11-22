@@ -31523,5 +31523,365 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "BFMTV.fr",
+    "feed": "SD",
+    "title": "BFM TV",
+    "url": "https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_tv/live.livx/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BFMTV.fr",
+    "feed": "SD",
+    "title": "BFM TV",
+    "url": "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BhagyamTV.in",
+    "feed": "SD",
+    "title": "Bhagyam TV",
+    "url": "https://ott.bhagyam.net/hls/bhagyamweb/index-1409148900-now.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BhakthiTV.in",
+    "feed": "SD",
+    "title": "Bhakthi TV",
+    "url": "https://mumbai-edge.smartplaytv.in/BhakthiTv/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BhakthiTV.in",
+    "feed": "SD",
+    "title": "Bhakthi TV",
+    "url": "https://yuppnimresmum.akamaized.net/240122/bhakti/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BhakthiTV.in",
+    "feed": "SD",
+    "title": "Bhakthi TV",
+    "url": "https://cdn.pishow.tv/ott/live/397/master.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BhaktiDhara.in",
+    "feed": "SD",
+    "title": "Bhakti Dhara",
+    "url": "https://newsliveindia.com:4433/bhaktidhara/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BhaktiPlay.in",
+    "feed": "SD",
+    "title": "Bhakti Play",
+    "url": "https://qn-01273-mum-2-07-1---7247-gbsv.http.global.dns.qwilted-cds.cqloud.com/OTM/OTM_BhaktiFlix-SCTE_CDN/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BhaktiSagar.in",
+    "feed": "SD",
+    "title": "Bhakti Sagar",
+    "url": "https://mumt05.tangotv.in/87NeALx2BHAKTISAGAR/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Bharat24.in",
+    "feed": "SD",
+    "title": "Bharat24",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2774c390ad884e06a7b0257c8489e23d/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Bharat24.in",
+    "feed": "SD",
+    "title": "Bharat24",
+    "url": "https://vglivessai.akamaized.net/ptnr-lg/title-Bharat24News_LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ebcf5152-686a-43ae-ad13-15bc198112b7/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Bharat24.in",
+    "feed": "SD",
+    "title": "Bharat24",
+    "url": "https://cdn.ottlive.co.in/bharat24/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Bharat24.in",
+    "feed": "SD",
+    "title": "Bharat24",
+    "url": "https://fta.ektv.in/live/104/104_0.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Bharat24.in",
+    "feed": "SD",
+    "title": "Bharat24",
+    "url": "https://mumt06.tangotv.in/qYyB8fXVBHARAT24/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Bharat24.in",
+    "feed": "SD",
+    "title": "Bharat24",
+    "url": "https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BharatAtoZ.in",
+    "feed": "SD",
+    "title": "Bharat AtoZ",
+    "url": "https://live.ekamraott.com/4tv/bharata2z/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BharatExpress.in",
+    "feed": "SD",
+    "title": "Bharat Express",
+    "url": "https://stream.ottlive.co.in/bharatexpress/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BharatExpress.in",
+    "feed": "SD",
+    "title": "Bharat Express",
+    "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e029a22c-cbd9-493b-9b37-e7f0cabe78cc/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BharatExpress.in",
+    "feed": "SD",
+    "title": "Bharat Express",
+    "url": "https://cdn.pishow.tv/ott/live/1139/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BharatExpress.in",
+    "feed": "SD",
+    "title": "Bharat Express",
+    "url": "https://fta.ektv.in/live/736/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "BharatExpress.in",
+    "feed": "SD",
+    "title": "Bharat Express",
+    "url": "https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BharatExpress.in",
+    "feed": "SD",
+    "title": "Bharat Express",
+    "url": "https://stream1.livebox.co.in/VCAREhls/live.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BharatSamachar.in",
+    "feed": "SD",
+    "title": "Bharat Samachar",
+    "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BharatSamachar.in",
+    "feed": "SD",
+    "title": "Bharat Samachar",
+    "url": "https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BharatSamachar.in",
+    "feed": "SD",
+    "title": "Bharat Samachar",
+    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/bharatsamachar/playlist.m3u8",
+    "quality": "396p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BHIChannel.in",
+    "feed": "SD",
+    "title": "BHI Channel",
+    "url": "https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BhojpuriCinema.in",
+    "feed": "SD",
+    "title": "Bhojpuri Cinema",
+    "url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BhojpuriCinema.in",
+    "feed": "SD",
+    "title": "Bhojpuri Cinema",
+    "url": "https://cdn.pishow.tv/ott/live/1033/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BhojpuriCinema.in",
+    "feed": "SD",
+    "title": "Bhojpuri Cinema",
+    "url": "https://fta.ektv.in/live/646/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "BhojpuriCinema.in",
+    "feed": "SD",
+    "title": "Bhojpuri Cinema",
+    "url": "https://mumt05.tangotv.in/87NeALx2BHOJPURICINEMA/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BhojpuriCinema.in",
+    "feed": "SD",
+    "title": "Bhojpuri Cinema",
+    "url": "https://streams.tangotv.in/BHOJPURICINEMA/ORIGIN/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BHTV10.us",
+    "feed": "SD",
+    "title": "Beverly Hills Television 10",
+    "url": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_006/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BHTV35.us",
+    "feed": "SD",
+    "title": "Beverly Hills Television 35",
+    "url": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_007/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BialogardzkaTelewizjaKablowa.pl",
+    "feed": "HD",
+    "title": "Bialogardzka Telewizja Kablowa",
+    "url": "https://bsmbialogard.pl/live/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BibelTV.de",
+    "feed": "SD",
+    "title": "Bibel TV",
+    "url": "https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "BibelTVImpuls.de",
+    "feed": "SD",
+    "title": "Bibel TV Impuls",
+    "url": "https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
