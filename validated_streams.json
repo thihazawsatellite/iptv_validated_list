@@ -61172,5 +61172,299 @@
     ],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "HauntTV.ca",
+    "feed": "CA",
+    "title": "HauntTV CA",
+    "url": "https://jmp2.uk/plu-63934c218ef524000757b122.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HauntTV.ca",
+    "feed": "SD",
+    "title": "Haunt TV",
+    "url": "https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HauntTV.ca",
+    "feed": "SD",
+    "title": "Haunt TV",
+    "url": "https://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HauntTV.ca",
+    "feed": "SD",
+    "title": "Haunt TV",
+    "url": "https://amg01446-blueantmediacan-haunttvaus-samsungnz-xo5xf.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaus-samsungnz/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HauntTV.ca",
+    "feed": "SD",
+    "title": "Haunt TV",
+    "url": "https://jmp2.uk/plu-6319f06067a3ee000708af95.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HauntTV.ca",
+    "feed": "SD",
+    "title": "Haunt TV",
+    "url": "https://bamcahaunttvrakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HauntTV.ca",
+    "feed": "SD",
+    "title": "Haunt TV",
+    "url": "https://d1ak5jijks54h1.cloudfront.net/Haunt_TV.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HauntTV.ca",
+    "feed": "SD",
+    "title": "Haunt TV",
+    "url": "https://aegis-cloudfront-1.tubi.video/69da419c-6bb2-473f-98c3-246153fc909b/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HauntTV.ca",
+    "feed": "SD",
+    "title": "Haunt TV",
+    "url": "https://amg00346-vizioinc-haunttvus-vizio-vizious-gczvd.amagi.tv/playlist/amg00346-vizioinc-haunttvus-vizio-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBCUGOSports.us",
+    "feed": "SD",
+    "title": "HBCU-GO Sports",
+    "url": "https://a-cdn.klowdtv.com/live3/hbcugo_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBO2.cz",
+    "feed": "SD",
+    "title": "HBO 2",
+    "url": "http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBO2.pl",
+    "feed": "SD",
+    "title": "HBO 2",
+    "url": "http://185.227.34.179:8080/hbo-2-hd/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBO2LatinAmerica.us",
+    "feed": "HD",
+    "title": "HBO 2 Latin America HD",
+    "url": "http://45.171.64.30:6060/play/a00i/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBO3.cz",
+    "feed": "SD",
+    "title": "HBO 3",
+    "url": "http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBO3.pl",
+    "feed": "SD",
+    "title": "HBO 3",
+    "url": "http://185.227.34.179:8080/hbo-3-hd/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBO.cz",
+    "feed": "SD",
+    "title": "HBO",
+    "url": "http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBOAsia.sg",
+    "feed": "SD",
+    "title": "HBO Asia SD",
+    "url": "https://tinyurl.com/yn3d3rmd",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBOAsia.sg",
+    "feed": "Taiwan",
+    "title": "HBO Asia Taiwan",
+    "url": "http://125.227.210.55:1003/VideoInput/play.ts",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBOFamilyLatinAmerica.us",
+    "feed": "SD",
+    "title": "HBO Family Latin America",
+    "url": "http://45.171.64.30:6060/play/a00k/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBOLatinAmerica.us",
+    "feed": "SD",
+    "title": "HBO Latin America",
+    "url": "https://streaming.onnethn.com/HBO/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+    "referrer": null
+  },
+  {
+    "channel": "HBOPlusLatinAmerica.us",
+    "feed": "SD",
+    "title": "HBO+ Latin America",
+    "url": "http://45.134.141.161:2200/ARG/HBO_HD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBOXtremeLatinAmerica.us",
+    "feed": "SD",
+    "title": "HBO Xtreme Latin America",
+    "url": "http://181.78.61.202:8000/play/a02a",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HBTV.us",
+    "feed": "SD",
+    "title": "Huntington Beach TV Channel 3",
+    "url": "https://reflect-huntingtonbeach.cablecast.tv/live-4/live/stream-1/live.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HCH.hn",
+    "feed": "SD",
+    "title": "HCH",
+    "url": "http://45.228.234.9:8000/play/a06t/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HCTVEducationalAccessChannel.us",
+    "feed": "SD",
+    "title": "HCTV Educational Access Channel",
+    "url": "https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HCTVGovernmentChannel.us",
+    "feed": "SD",
+    "title": "HCTV Government Channel",
+    "url": "https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HCTVPublicAccessChannel.us",
+    "feed": "SD",
+    "title": "HCTV Public Access Channel",
+    "url": "https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-5/live.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HD365TV.ro",
+    "feed": "SD",
+    "title": "HD365 TV",
+    "url": "https://s2.netstreaming.eu/hd365.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "HeadlinesTripura.in",
+    "feed": "SD",
+    "title": "Headlines Tripura",
+    "url": "https://distro.ottlive.co.in/headlinestripura/headlinestripura/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
