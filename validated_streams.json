@@ -81926,5 +81926,265 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "NBAAntenaPlay.ro",
+    "feed": "SD",
+    "title": "NBA AntenaPlay",
+    "url": "https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NBATV.us",
+    "feed": "SD",
+    "title": "NBA TV",
+    "url": "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NBATV.us",
+    "feed": "SD",
+    "title": "The NBA Channel",
+    "url": "https://pb-5pdyic0cu7tri.akamaized.net/NBA.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NBC.us",
+    "feed": "KJRHTV",
+    "title": "NBC 2 Tulsa OK (KJRH)",
+    "url": "https://amg01438-amg01438c8-vizio-us-10941.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NBC.us",
+    "feed": "KOAATV",
+    "title": "NBC 5 Colorado Springs CO (KOAA)",
+    "url": "https://amg01438-amg01438c11-vizio-us-10928.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NBC.us",
+    "feed": "KRISTV",
+    "title": "KRIS-DT1",
+    "url": "https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NBC.us",
+    "feed": "KRISTV",
+    "title": "KRIS-DT1",
+    "url": "https://content.uplynk.com/channel/f805c6ab7ddf4e2489ae648bb28fb133.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NBC.us",
+    "feed": "KRISTV",
+    "title": "NBC 6 Corpus Christi TX (KRIS)",
+    "url": "https://amg01438-amg01438c15-vizio-us-10864.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NBC.us",
+    "feed": "KSBY",
+    "title": "KSBY News San Louis Obispo CA",
+    "url": "https://content.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NBC.us",
+    "feed": "KSBY",
+    "title": "NBC 6 San Luis Obispo CA (KSBY)",
+    "url": "https://amg01438-amg01438c17-vizio-us-10900.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NBC.us",
+    "feed": "KSHBTV",
+    "title": "KSHB 41 (Kansas City MO)",
+    "url": "https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NBC.us",
+    "feed": "KSHBTV",
+    "title": "NBC 41 Kansas City MO (KSHB)",
+    "url": "https://amg01438-amg01438c35-vizio-us-10899.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NBC.us",
+    "feed": "KTVHDT",
+    "title": "NBC 12 Helena MT (KTVH)",
+    "url": "https://amg01438-amg01438c26-vizio-us-10902.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NBC.us",
+    "feed": "WGBATV",
+    "title": "NBC 26 Green Bay WI (WGBA-DT1)",
+    "url": "https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NBC.us",
+    "feed": "WGBATV",
+    "title": "NBC 26 Green Bay WI (WGBA)",
+    "url": "https://amg01438-amg01438c31-vizio-us-10906.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NBC.us",
+    "feed": "WHECTV",
+    "title": "NBC 10 Rochester NY (WHEC)",
+    "url": "https://amg01942-amg01942c4-stirr-us-10190.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NBC.us",
+    "feed": "WLEX",
+    "title": "NBC 18 Lexington KY (WLEX)",
+    "url": "https://amg01438-amg01438c21-vizio-us-10907.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NBC.us",
+    "feed": "WMCTV",
+    "title": "NBC 5 Memphis TN (WMC)",
+    "url": "https://amg00312-amg00312c58-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c58-amgplt0022/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NBC.us",
+    "feed": "WMGTTV",
+    "title": "WMGT-TV News (Macon GA)",
+    "url": "https://townnews.g-mana.live/media/e6909128-cd42-4690-8340-4b8a49455666/main.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NBC.us",
+    "feed": "WNYT",
+    "title": "NBC 13 Albany NY (WNYT)",
+    "url": "https://amg01942-amg01942c5-stirr-us-10184.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NBC.us",
+    "feed": "WPTVTV",
+    "title": "WPTV News West Palm Beach FL",
+    "url": "https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NBC.us",
+    "feed": "WPTVTV",
+    "title": "NBC 5 West Palm Beach FL (WPTV)",
+    "url": "https://amg01438-amg01438c2-vizio-us-10862.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NBC.us",
+    "feed": "WPXI",
+    "title": "WPXI-DT1",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NBC.us",
+    "feed": "WPXI",
+    "title": "NBC 11 Pittsburgh PA (WPXI)",
+    "url": "https://amg00327-coxmediagroup-wpxibreakingnews-vizious-pmku2.amagi.tv/ts-eu-w1-n2/playlist/amg00327-coxmediagroup-wpxibreakingnews-vizious/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NBC.us",
+    "feed": "WSMVTV",
+    "title": "NBC 4 Nashville TN (WSMV)",
+    "url": "https://amg00312-amg00312c45-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c45-amgplt0022/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
   }
 ]
