@@ -135434,5 +135434,241 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "Zenebutik.hu",
+    "feed": "SD",
+    "title": "Zenebutik",
+    "url": "http://88.212.7.14/live/zenebutik/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "zenith.fr",
+    "feed": "HD",
+    "title": "zenith",
+    "url": "https://live.azenagroup.com/zenith/index.ll.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "zenith.fr",
+    "feed": "HD",
+    "title": "zenith",
+    "url": "https://live.azenagroup.com/zenith/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ZenLIFEbyStingray.ca",
+    "feed": "HD",
+    "title": "Stingray ZenLIFE",
+    "url": "https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ZenLIFEbyStingray.ca",
+    "feed": "HD",
+    "title": "ZenLIFE by Stingray",
+    "url": "https://jmp2.uk/plu-696998dfa2b623e8b20125a3.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ZhejiangInternationalChannel.cn",
+    "feed": "SD",
+    "title": "Zhejiang TV International",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ZhivayaPlaneta.ru",
+    "feed": "SD",
+    "title": "Zhivaya Planeta",
+    "url": "https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ZICOTV.rs",
+    "feed": "SD",
+    "title": "ZICO TV",
+    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ZillarBartaNews.in",
+    "feed": "HD",
+    "title": "ZillarBarta News",
+    "url": "https://server.zillarbarta.com/zillarbarta/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ZincNombreTV.do",
+    "feed": "HD",
+    "title": "Zinc Nombre TV",
+    "url": "https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ZindagiTV.pk",
+    "feed": "SD",
+    "title": "Zindagi TV",
+    "url": "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8",
+    "quality": "576p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Zingabad.in",
+    "feed": "SD",
+    "title": "Zingabad",
+    "url": "https://stream.ottlive.co.in/zingabad/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ZitataTV.mq",
+    "feed": "SD",
+    "title": "Zitata TV",
+    "url": "https://live.zitata.tv/direct-hls/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ZIZTV.kn",
+    "feed": "SD",
+    "title": "ZIZ TV",
+    "url": "https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ZjarrTV.al",
+    "feed": "SD",
+    "title": "Zjarr TV",
+    "url": "https://zjarr.future.al/hls/playlist.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ZNation.us",
+    "feed": "SD",
+    "title": "Z Nation",
+    "url": "https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ZNation.us",
+    "feed": "SD",
+    "title": "Z Nation",
+    "url": "https://jmp2.uk/plu-66b227b446762a000846c208.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ZNation.us",
+    "feed": "SD",
+    "title": "Z Nation",
+    "url": "https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ZNSTV.bs",
+    "feed": "SD",
+    "title": "ZNS-TV",
+    "url": "https://zns-edge1.streamcomedia.cloud/znstv13/zns1080p_stream/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ZO34.nl",
+    "feed": "SD",
+    "title": "ZO!34",
+    "url": "https://video.uitzending.tv:19360/zo34/zo34.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ZodiakTV.in",
+    "feed": "SD",
+    "title": "Zodiak TV",
+    "url": "https://ranacable.duckdns.org/ZodiakTv/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ZonaLatina.cl",
+    "feed": "SD",
+    "title": "Zona Latina",
+    "url": "http://45.170.130.224:8000/play/a00x/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ZonavisionTV.do",
+    "feed": "SD",
+    "title": "Zonavision TV",
+    "url": "https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
   }
 ]
