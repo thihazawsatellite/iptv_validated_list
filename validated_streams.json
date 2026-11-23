@@ -5776,5 +5776,965 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Echapp\u00e9es Belles & Co",
+    "url": "https://jmp2.uk/plu-63b578b524f0cf00072f2a52.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Enqu\u00eates Criminelles",
+    "url": "https://jmp2.uk/plu-66f55d0b5e4a6e0008c2b920.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Enqu\u00eates de Choc",
+    "url": "https://jmp2.uk/plu-63921a1bf76e7d0007c998a6.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Faites entrer l'accus\u00e9",
+    "url": "https://jmp2.uk/plu-662a622b5e2370000800f392.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Flashpoint",
+    "url": "https://jmp2.uk/plu-66d71ff86b63480008cf15c5.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "G\u00e9n\u00e9ration Sitcoms",
+    "url": "https://jmp2.uk/plu-60afb203ec391c00070ea1bf.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Homicide",
+    "url": "https://jmp2.uk/plu-63921a3d00c96100082a3cb4.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "iCarly TV",
+    "url": "https://jmp2.uk/plu-5f8ecc7aa44d9c00081fca29.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "INA 70",
+    "url": "https://jmp2.uk/plu-639b54404cfdf7000729b3c1.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Incroyables Transformations",
+    "url": "https://jmp2.uk/plu-66f55d205e4a6e0008c2b92b.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "JAG",
+    "url": "https://jmp2.uk/plu-65ccd26060eb870008db95fc.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Juste pour Rire GAGS",
+    "url": "https://jmp2.uk/plu-60afa1508284e60007163c08.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "La maison France 5",
+    "url": "https://jmp2.uk/plu-685a999bd33909bdd7d2fb1e.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Les Anges",
+    "url": "https://jmp2.uk/plu-66b228d4cd0d3100085d27b7.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Les Marseillais",
+    "url": "https://jmp2.uk/plu-66f55d565e4a6e0008c2b9d2.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Les Routes du Paradis",
+    "url": "https://jmp2.uk/plu-65cce23bdc10a400080645ad.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Les Schtroumpfs",
+    "url": "https://jmp2.uk/plu-68b16d2282862c1f067dc763.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Les Z'amours",
+    "url": "https://jmp2.uk/plu-652d0b756208700008d758ad.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "MacGyver",
+    "url": "https://jmp2.uk/plu-6245ccd0c6cdb800074632e4.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Mattel Junior",
+    "url": "https://jmp2.uk/plu-686e74b0e48af72bc266e798.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Mayday: Catastrophe A\u00e9rienne",
+    "url": "https://jmp2.uk/plu-686e74c777ed3360cb6908bf.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Mission Impossible",
+    "url": "https://jmp2.uk/plu-6671b21ffc3a46000857fe75.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "MODUS Super Series Darts",
+    "url": "https://jmp2.uk/plu-671643fc5534bb00089187ad.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Nina",
+    "url": "https://jmp2.uk/plu-692ec6d82329c10c5166f436.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Olive & Tom",
+    "url": "https://jmp2.uk/plu-662a63275a402e00086bc8a5.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "P\u00eache \u00e0 haut risque",
+    "url": "https://jmp2.uk/plu-678f894ef5c74bff95c20a7f.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "PJ",
+    "url": "https://jmp2.uk/plu-692ec71425eaa17b6daf2a11.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Plus Belle la Vie 2",
+    "url": "https://jmp2.uk/plu-662a6309307fa30008196b4e.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Pluto TV Junior",
+    "url": "https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Pluto TV Kids Club",
+    "url": "https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Pluto TV Paranormal",
+    "url": "https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Pluto TV Reality",
+    "url": "https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Pluto TV Snooker 900",
+    "url": "https://jmp2.uk/plu-66fd35e44ca31f0008060b77.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Qui veut gagner des millions?",
+    "url": "https://jmp2.uk/plu-652d0b9ceb72580008a4ea5b.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Rex chien flic",
+    "url": "https://jmp2.uk/plu-691b332aa4385c191ee44b57.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Ridiculousness",
+    "url": "https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Si pr\u00e8s de chez vous",
+    "url": "https://jmp2.uk/plu-697a34496f47f39d31ff8bde.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Teen Mom",
+    "url": "https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Tortues Ninja TV",
+    "url": "https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "UFC",
+    "url": "https://jmp2.uk/plu-67921b78b83355184c667770.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Un gars une fille",
+    "url": "https://jmp2.uk/plu-62f3ece7b09fd6000783bfb9.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Un Si Grand Soleil",
+    "url": "https://jmp2.uk/plu-6683cd0f63a5f20008fb84a3.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Un Village Fran\u00e7ais",
+    "url": "https://jmp2.uk/plu-6304f2e2eb10450007298023.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "WPT",
+    "url": "https://jmp2.uk/plu-5f8ecfb9db6c180007a6d1b0.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Zone Interdite",
+    "url": "https://jmp2.uk/plu-66f55cf2483d460008f68746.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "BBC Top Gear France",
+    "url": "https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Beyblade",
+    "url": "https://amg01796-amg01796c6-rakuten-fr-5334.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladefr-rakutenfr/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Drive TV",
+    "url": "https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Enquetes de Choc",
+    "url": "https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "France 24 FAST English",
+    "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Homicide la cha\u00eene du fait divers",
+    "url": "https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "INA Ardivision",
+    "url": "https://fast-rakuten.okast.tv/fa2e8c4385712f9a3b579747e448699c/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/a4226699-b685-4f5d-9cb6-2a6cac14c377/media_.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "ITV Un Village Fran\u00e7ais",
+    "url": "https://amg00654-itv-amg00654c32-rakuten-fr-6134.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-unvillagesfrancais-rakutenfr/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Le Meilleur d'Arthur",
+    "url": "https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Le Meilleur de la TV Realite",
+    "url": "https://amg02393-awpg-amg02393c4-rakuten-uk-3886.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdelatvrealite-rakutenuk/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Les Anges",
+    "url": "https://amg02393-awpg-amg02393c5-rakuten-uk-2463.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges-rakutenuk/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Les Secrets de Nos R\u00e9gions",
+    "url": "https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Motus La Cha\u00eene",
+    "url": "https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "MyTime Movie Network France",
+    "url": "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Qui Veut Gagner Des Millions La Cha\u00eene",
+    "url": "https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-rakutenuk/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Rakuten TV Viki Europe",
+    "url": "https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Televisa Telenovela Channel",
+    "url": "https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Travelxp France",
+    "url": "https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Vevo Hip-Hop et RnB",
+    "url": "https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Wasabi la cha\u00eene anime",
+    "url": "https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Y'a Que La V\u00e9rit\u00e9 Qui Compte La Cha\u00eene",
+    "url": "https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakutenAA-fastmedia-yaquelaverite-rakuten/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Mytime Movies",
+    "url": "https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "G-eye TV",
+    "url": "https://online.geyetv.com/hls/stream.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Rajawali TV",
+    "url": "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "FloRacing 24/7",
+    "url": "https://amg02278-amg02278c1-distrotv-us-7534.playouts.now.amagi.tv/playlist/amg02278-flosports-floracing24x7-distrotvus/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Zarok TV Sorani",
+    "url": "https://zindisorani.zaroktv.com.tr/hls/stream.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Super TV Brescia",
+    "url": "http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Affare Fatto",
+    "url": "https://jmp2.uk/plu-64ec5c6644fe100009d114ae.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Alice Nevers",
+    "url": "https://jmp2.uk/plu-66d9aa4315d2c60008d4ac40.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Automoto",
+    "url": "https://jmp2.uk/plu-6971fc6dca441014e4600f2c.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Autostop per il cielo",
+    "url": "https://jmp2.uk/plu-638f286445264d00084ec6dc.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Barbie & Friends",
+    "url": "https://jmp2.uk/plu-686cfdf894a028da3aac4252.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "BBC Series",
+    "url": "https://jmp2.uk/plu-62e7fa5ab5062e0007dcf97d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Catfish",
+    "url": "https://jmp2.uk/plu-6093f9ed2c75660007322bb7.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Cherif",
+    "url": "https://jmp2.uk/plu-66a8c7aefe11e500085b1587.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Cinema Poliziottesco",
+    "url": "https://jmp2.uk/plu-671754d8e482950008962aaf.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "CineThriller",
+    "url": "https://jmp2.uk/plu-653660b4295b840008a70ba3.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "CNN Headlines International",
+    "url": "https://jmp2.uk/plu-66c45ba803e3b20008d8c294.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Duri a Morire",
+    "url": "https://jmp2.uk/plu-65f865a62873090008d06382.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Dynasty",
+    "url": "https://jmp2.uk/plu-65cb76ea11ced70008206b66.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Extreme Makeover Home Edition",
+    "url": "https://jmp2.uk/plu-6661739641af6400080cd8f1.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Flashpoint",
+    "url": "https://jmp2.uk/plu-66d7120815d2c60008cec006.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Gli Immortali | Van Damme vs Lundgren",
+    "url": "https://jmp2.uk/plu-6536608b4f123d000876b78b.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Gormiti",
+    "url": "https://jmp2.uk/plu-66a8c64814a2bb00084d09d6.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Horror Club",
+    "url": "https://jmp2.uk/plu-66c35c0c92b1af0008c8e83a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "I Jefferson",
+    "url": "https://jmp2.uk/plu-62442f28afe626000747f195.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "I Puffi",
+    "url": "https://jmp2.uk/plu-68adb5853efb41cd97ce413d.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "I soliti idioti",
+    "url": "https://jmp2.uk/plu-6602acadb2abe500081cf28a.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Il Sole24Ore TV",
+    "url": "https://jmp2.uk/plu-6971fc932c004063166ac8fd.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Inter 24/7",
+    "url": "https://jmp2.uk/plu-691c5bef3a369d8f40192e71.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "LOL Just For Laughs",
+    "url": "https://jmp2.uk/plu-65d7211d0d45610008ffcf92.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
