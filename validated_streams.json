@@ -9532,5 +9532,167 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "South Park: Stan Collection",
+    "url": "https://jmp2.uk/plu-65d881914e01740008a36603.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Tareq Taylor's Nordic Cookery",
+    "url": "https://jmp2.uk/plu-63c95491808b740007608a74.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Taxi",
+    "url": "https://jmp2.uk/plu-66b22c9aa79dea0008cee4a9.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "The 4400",
+    "url": "https://jmp2.uk/plu-69afecd4686531d5faac86e2.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "The Nanny & Mr Sheffield A Fine Romance",
+    "url": "https://jmp2.uk/plu-686d01ad94a028da3aaca6b3.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "The New Detectives",
+    "url": "https://jmp2.uk/plu-61814dd68a368d0007d78c53.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "The Wild Wild West",
+    "url": "https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Tosh.0",
+    "url": "https://jmp2.uk/plu-65e97856ec9fda0008cb453c.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Totally Turtles",
+    "url": "https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "UFC",
+    "url": "https://jmp2.uk/plu-6792066f3de7c8cf941e7ce3.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "World of Love Island",
+    "url": "https://jmp2.uk/plu-6440f73ee94c380008ccddc8.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Mechplus",
+    "url": "https://mechtvltd-mechplus-1-se.samsung.wurl.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "The Wicked Tuna Channel",
+    "url": "https://amg00353-lionsgatestudio-wickedtunase-samsungse-w4kcr.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtunase-samsungse/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "Waterbear",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "NOW TV",
+    "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": null,
+    "feed": null,
+    "title": "V2BEAT",
+    "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
   }
 ]
