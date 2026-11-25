@@ -107872,5 +107872,291 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "ShiftTV.hr",
+    "feed": "SD",
+    "title": "Shift TV",
+    "url": "https://hls.shift.tv/live/shifttv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ShikshaTV.in",
+    "feed": "SD",
+    "title": "Shiksha TV",
+    "url": "http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ShinsegaeTVShopping.kr",
+    "feed": "SD",
+    "title": "Shinsegae Shopping TV",
+    "url": "https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ShirvanTV.az",
+    "feed": "SD",
+    "title": "Shirvan TV",
+    "url": "https://a8.radyotelekom.com.tr/p/3326/hybrid/play.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ShopChannel.jp",
+    "feed": "SD",
+    "title": "Shop Channel",
+    "url": "https://stream3.shopch.jp/HLS/master.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ShopLC.us",
+    "feed": "SD",
+    "title": "Shop LC",
+    "url": "https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ShopLC.us",
+    "feed": "SD",
+    "title": "Shop LC",
+    "url": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ShopLC.us",
+    "feed": "SD",
+    "title": "Shop LC",
+    "url": "https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(ShopLCStirrTV)/master.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ShopLC.us",
+    "feed": "SD",
+    "title": "Shop LC",
+    "url": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ShoppingLive.ru",
+    "feed": "SD",
+    "title": "Shopping Live",
+    "url": "https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ShoppingLive.ru",
+    "feed": "SD",
+    "title": "Shopping Live",
+    "url": "http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8",
+    "quality": "576p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ShoppingNT.kr",
+    "feed": "SD",
+    "title": "Shopping NT",
+    "url": "https://live.shoppingntmall.com/live/10011.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ShoutFactoryTV.us",
+    "feed": "SD",
+    "title": "Shout! TV",
+    "url": "https://d1s1wrpgemt9re.cloudfront.net/Shout_TV.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ShowPlusTV.az",
+    "feed": "SD",
+    "title": "Show Plus TV",
+    "url": "https://rtmp.showplus.tv/hls/myshow.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ShowtimeFamilyZone.us",
+    "feed": "East",
+    "title": "Showtime Family Zone",
+    "url": "http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ShowVenTV.ve",
+    "feed": "SD",
+    "title": "ShowVen TV",
+    "url": "https://cdnbarinas.tvzamora.com/showven/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ShreeHazurSahibji.in",
+    "feed": "SD",
+    "title": "Shree Hazur Sahibji",
+    "url": "https://samitaorigin.tangotv.in/SHREEHAZURSAHIBJI/SAMITAORIGIN/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ShreeSanatanTV.in",
+    "feed": "SD",
+    "title": "Shree Sanatan TV",
+    "url": "http://sanatan.valamtv.in/hls/shree/bhattji.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ShriShyamTV.in",
+    "feed": "SD",
+    "title": "Shri Shyam TV",
+    "url": "https://7xshreeshyam.akamaized.net/shreeshyamtv/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ShriShyamTV.in",
+    "feed": "SD",
+    "title": "Shri Shyam TV",
+    "url": "https://cloudcdn.in/live/shreeshyamtv/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ShubhCinemaTV.in",
+    "feed": "SD",
+    "title": "Shubh Cinema TV",
+    "url": "https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ShubhCinemaTV.in",
+    "feed": "SD",
+    "title": "Shubh Cinema TV",
+    "url": "https://fta.ektv.in/live/49/49_0.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "ShubhCinemaTV.in",
+    "feed": "SD",
+    "title": "Shubh Cinema TV",
+    "url": "https://samitaorigin.tangotv.in/SHUBHCINEMA/SAMITAORIGIN/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ShubhsandeshTV.in",
+    "feed": "SD",
+    "title": "Shubhsandesh TV",
+    "url": "https://cdn.pishow.tv/ott/live/457/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ShubhsandeshTV.in",
+    "feed": "SD",
+    "title": "Shubhsandesh TV",
+    "url": "https://fta.ektv.in/live/627/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "ShubhsandeshTV.in",
+    "feed": "SD",
+    "title": "Shubhsandesh TV",
+    "url": "https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ShubhTV.in",
+    "feed": "SD",
+    "title": "Shubh TV",
+    "url": "https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ShubhTV.in",
+    "feed": "SD",
+    "title": "Shubh TV",
+    "url": "https://fta.ektv.in/live/626/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
   }
 ]
