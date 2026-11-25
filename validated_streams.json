@@ -19564,5 +19564,357 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "5tv.ar",
+    "feed": "SD",
+    "title": "5tv",
+    "url": "https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8",
+    "quality": "608p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "5tv.ar",
+    "feed": "SD",
+    "title": "5TV Corrientes",
+    "url": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
+    "quality": "480p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "6PR.au",
+    "feed": "SD",
+    "title": "6PR Perth",
+    "url": "https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "6ter.fr",
+    "feed": "SD",
+    "title": "6ter",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/6ter_fr/live.livx/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "6TVTelugu.in",
+    "feed": "SD",
+    "title": "6 TV Telugu",
+    "url": "https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "6WiseTv.us",
+    "feed": "SD",
+    "title": "6 Wise Tv",
+    "url": "https://edge.enhdtv.com/8150/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "6WiseTv.us",
+    "feed": "SD",
+    "title": "6 Wise Tv",
+    "url": "https://live.enhdtv.com:8081/8150/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "7Gold.it",
+    "feed": "SD",
+    "title": "7 Gold",
+    "url": "https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "7Info.ci",
+    "feed": "SD",
+    "title": "7 Info",
+    "url": "https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "7SMusic.in",
+    "feed": "SD",
+    "title": "7S Music",
+    "url": "https://cdn.pishow.tv/ott/live/1257/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "7SMusic.in",
+    "feed": "SD",
+    "title": "7S Music",
+    "url": "https://fta.ektv.in/live/771/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "7SMusic.in",
+    "feed": "SD",
+    "title": "7S Music",
+    "url": "https://mumbai-edge.smartplaytv.in/7SMusic/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "7thHeaven.se",
+    "feed": "DK",
+    "title": "7th Heaven",
+    "url": "https://jmp2.uk/plu-6728c9c85534bb0008b320a4.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "7thHeaven.se",
+    "feed": "NO",
+    "title": "7th Heaven",
+    "url": "https://jmp2.uk/plu-6728ca75529ac9000830ab14.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "7thHeaven.se",
+    "feed": "SE",
+    "title": "7th Heaven",
+    "url": "https://jmp2.uk/plu-6728cab6e482950008b76d8c.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "7TV.es",
+    "feed": "Andalucia",
+    "title": "7TV",
+    "url": "https://especial7tv.gestec-video.com/hls/regional.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "7TV.es",
+    "feed": "Cordoba",
+    "title": "7TV",
+    "url": "https://streaming004.gestec-video.com/hls/7TVCORDOBA.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "7TV.es",
+    "feed": "Jaen",
+    "title": "7TV",
+    "url": "https://streaming004.gestec-video.com/hls/7TVJAEN.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "7TV.es",
+    "feed": "Jerez",
+    "title": "7TV",
+    "url": "https://streaming004.gestec-video.com/hls/7TVJEREZ.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "7TV.es",
+    "feed": "Malaga",
+    "title": "7TV",
+    "url": "https://streaming004.gestec-video.com/hls/7TVMALAGA.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "7TV.es",
+    "feed": "Sevilla",
+    "title": "7TV",
+    "url": "https://especial7tv.gestec-video.com/hls/7TVSEVILLA.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "7TV.hu",
+    "feed": "SD",
+    "title": "TV7 Bekescsaba",
+    "url": "https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "7XMusic.in",
+    "feed": "SD",
+    "title": "7X Music",
+    "url": "https://7xshreeshyam.akamaized.net/7XPunjabi/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "7XMusic.in",
+    "feed": "SD",
+    "title": "7X Music",
+    "url": "https://cdn2.in/7xPunjabihls/live.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "8LaMarinaTV.es",
+    "feed": "SD",
+    "title": "8 La Marina TV",
+    "url": "https://streaming005.gestec-video.com/hls/canal24.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "8NTV.mx",
+    "feed": "SD",
+    "title": "8NTV",
+    "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "9PlusNews.in",
+    "feed": "SD",
+    "title": "9 Plus News",
+    "url": "https://stream.ottlive.co.in/9plusnews/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "9XJalwa.in",
+    "feed": "SD",
+    "title": "9X Jalwa",
+    "url": "https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "9XJalwa.in",
+    "feed": "SD",
+    "title": "9X Jalwa",
+    "url": "https://fta.ektv.in/live/161/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "9XJalwa.in",
+    "feed": "SD",
+    "title": "9X Jalwa",
+    "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjalwa.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "9XJhakaas.in",
+    "feed": "SD",
+    "title": "9X Jhakaas",
+    "url": "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "9XJhakaas.in",
+    "feed": "SD",
+    "title": "9X Jhakaas",
+    "url": "https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "9XJhakaas.in",
+    "feed": "SD",
+    "title": "9X Jhakaas",
+    "url": "https://cdn.pishow.tv/ott/live/6/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "9XM.in",
+    "feed": "SD",
+    "title": "9XM",
+    "url": "https://wiselp.wiseplayout.com/9XM/master.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "9XM.in",
+    "feed": "SD",
+    "title": "9XM",
+    "url": "https://fta.ektv.in/live/155/master.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null
   }
 ]
