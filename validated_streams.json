@@ -53144,5 +53144,285 @@
     "labels": [],
     "user_agent": null,
     "referrer": null
+  },
+  {
+    "channel": "ESPN4.br",
+    "feed": "SD",
+    "title": "ESPN 4",
+    "url": "http://181.78.197.59:8000/play/a07n/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ESPN8TheOcho.us",
+    "feed": "ESPN8TheOchoHD",
+    "title": "ESPN8 The Ocho",
+    "url": "https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ESPN.br",
+    "feed": "SD",
+    "title": "ESPN",
+    "url": "http://181.78.197.59:8000/play/a07z/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ESPN.us",
+    "feed": "HD",
+    "title": "ESPN HD",
+    "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ESPN.us",
+    "feed": "SD",
+    "title": "ESPN",
+    "url": "http://212.5.144.156:8080/espn/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ESPNLatinAmerica.us",
+    "feed": "Colombia",
+    "title": "ESPN Latin America Colombia",
+    "url": "http://181.78.211.244:8005/play/a08q/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ESPNPremium.ar",
+    "feed": "HD",
+    "title": "ESPN Premium HD",
+    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ESPNPremium.ar",
+    "feed": "SD",
+    "title": "ESPN Premium",
+    "url": "http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ESPNU.us",
+    "feed": "HD",
+    "title": "ESPNU HD",
+    "url": "http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EspoirTV.cd",
+    "feed": "SD",
+    "title": "Espoir TV",
+    "url": "https://stream.berosat.live/hls/espoir-tv-stream/espoir-tv-stream.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Esport3.es",
+    "feed": "Originals",
+    "title": "Esport3",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Esport3.es",
+    "feed": "Originals",
+    "title": "Esport3",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "eSportsMaxTV.ve",
+    "feed": "SD",
+    "title": "eSports Max TV",
+    "url": "https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EspresoTV.ua",
+    "feed": "SD",
+    "title": "Espreso TV",
+    "url": "https://dash4.antik.sk/live/test_espresso/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EspresoTV.ua",
+    "feed": "SD",
+    "title": "Espreso TV",
+    "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EspresoTV.ua",
+    "feed": "SD",
+    "title": "Espreso TV",
+    "url": "https://dash2.antik.sk/live/test_espresso/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EstacionLimacheTV.cl",
+    "feed": "SD",
+    "title": "Estacion Limache TV",
+    "url": "https://v4.tustreaming.cl/limachemovil/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EstacionTV.cl",
+    "feed": "SD",
+    "title": "Estacion TV",
+    "url": "https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EstrellaGames.us",
+    "feed": "SD",
+    "title": "Estrella Games",
+    "url": "https://estrella-games-oando.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EstrellaGames.us",
+    "feed": "SD",
+    "title": "Estrella Games",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EstrellaGames.us",
+    "feed": "SD",
+    "title": "Estrella Games",
+    "url": "https://amg00567-amg00567c1-firetv-us-4124.playouts.now.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EstrellaGames.us",
+    "feed": "SD",
+    "title": "Estrella Games",
+    "url": "https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EstrellaGames.us",
+    "feed": "SD",
+    "title": "Estrella Games",
+    "url": "https://aegis-cloudfront-1.tubi.video/f28725de-4a81-4382-a86d-fac1d93b0d60/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EstrellaGames.us",
+    "feed": "SD",
+    "title": "Estrella Games",
+    "url": "https://estrellaa-estrella-games-vizio-yxcgo.amagi.tv/playlist/estrellaA-estrella-games-vizio/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EstrellaNews.us",
+    "feed": "SD",
+    "title": "Estrella News",
+    "url": "https://estrella-news-oando.amagi.tv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EstrellaNews.us",
+    "feed": "SD",
+    "title": "Estrella News",
+    "url": "https://amg00567-estrellamedia-estrellanews-distrotv-ddste.amagi.tv/playlist/amg00567-estrellamedia-estrellanews-distrotv/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "EstrellaNews.us",
+    "feed": "SD",
+    "title": "Estrella News",
+    "url": "https://estrellanews-glewed.amagi.tv/playlist.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
   }
 ]
